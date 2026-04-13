@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-04-13T16:40:53.557228",
+    "timestamp": "2026-04-13T20:14:55.799543",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -61,22 +61,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호 관련 언론사들 오보가 봇물처럼 쏟아짐 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9681738367",
-        "snippet": "<strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환한 사나이들</strong>, 우리가 다 유리창으로 보고 왔는데요? 프랭크 보먼, 제임스 러벨, 윌리엄 앤더스 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "아르테미스 2호가 보낸 지구 사진",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/74709305",
         "snippet": "거봐라 내가 지구 평평하다 했제",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "Apple NASA 아르테미스 2의 성공적인 임무 완수를 축하",
+        "link": "https://bbs.ruliweb.com/news/board/1004/read/2287437",
+        "snippet": "아르테미스 2호의 성공적인 임무 완수를 축하합니다 우주와 지구의 경이로움을 아름답게 담아내어 iPhone의 사진 촬영을 새로운 차원으로 끌어올렸고 이를 전 세계와 공유해 주셔서 감사합니다 여러분의 작품은 우리 모두에게 새로운 사고방식을 불어넣어 줍니다 귀환을 환영합니다 팀 쿡 Apple CEO아르테미스 II 승무원 여러분 집에 오신 것을 환영합니다 NASA 우주비행사들이 iPhone을 우주로 함께 가져가 준 것을 영광으로 생각합니다 아이폰을 위한 작은 한 걸음 우주 셀카를 위한 거대한 도약 그렉 조스위악 Apple 마케팅 SVP",
         "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-04-13T16:40:56.214105",
+    "timestamp": "2026-04-13T20:14:58.557908",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-04-13T16:40:58.847690",
+    "timestamp": "2026-04-13T20:15:01.373339",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -164,7 +164,7 @@
     "sources": [
       {
         "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
-        "link": "https://bbs.ruliweb.com/av/board/300013/read/3725929",
+        "link": "https://bbs.ruliweb.com/community/board/300013/read/3725929",
         "snippet": "<strong>아이유 변우석</strong> 주연 21세기 대군부인 캐릭터 포스터 공개",
         "source": "ruliweb.com"
       },
@@ -205,28 +205,28 @@
         "source": "dcinside.com"
       },
       {
-        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
-        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 포스터 공개💘",
-        "link": "https://theqoo.net/hot/4121065792",
-        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · 오는 4월 10일 첫 방송될 MBC 새 금토드라마 ‘21세기 대군부인’(극본 유지원/ 연출 박준화, 배희영) 측이 3월 10일 커플 포스터를 최초로 공개했다.",
+        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
+        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
+        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
+        "link": "https://theqoo.net/hot/4045919114",
+        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
         "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-04-13T16:41:01.390234",
+    "timestamp": "2026-04-13T20:15:04.088455",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,15 +238,15 @@
     ],
     "sources": [
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694744433",
         "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-04-13T16:41:04.025695",
+    "timestamp": "2026-04-13T20:15:06.831926",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-04-13T16:41:06.741707",
+    "timestamp": "2026-04-13T20:15:09.661992",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-04-13T16:41:09.348095",
+    "timestamp": "2026-04-13T20:15:12.427274",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-04-13T16:41:11.977259",
+    "timestamp": "2026-04-13T20:15:15.233668",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -550,15 +550,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
-        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ · - 관련게시물 : 이스라엘, 이재명 발언 “용납 못해” · - 관련게시물 : 이재명 트위터 근황 (실제상황임) 휴전하자는데도 레바논 때려서 ·",
-        "source": "dcinside.com"
-      },
-      {
         "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420537",
         "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이재명이 주목한 트위터 계정을 알아보자... jpg- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박폰좀 제발 뺏으라고 ㅋㅋㅋㅋㅋ",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
+        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ · - 관련게시물 : 이스라엘, 이재명 발언 “용납 못해” · - 관련게시물 : 이재명 트위터 근황 (실제상황임) 휴전하자는데도 레바논 때려서 ·",
         "source": "dcinside.com"
       },
       {
@@ -586,22 +586,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
-        "snippet": "이재명, 이스라엘 반박에 인권 문제 재반박 · 실시간 룰러때문에 이터널리턴 프로판 ㅈ됨 · 일본 부녀의 화해.JPG · &quot;미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의&quot; 사진픽 내맘대로 한 마와란셰패스 여행후기 ·",
-        "source": "dcinside.com"
-      },
-      {
         "title": "이란 공격 이스라엘 전투기, 귀환 중 남은 폭탄 가자지구 투하\" - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/8608369887",
         "snippet": "국제사회와 인권단체들은 민간인 희생과 민감한 지역에 대한 반복적인 공습이 국제법 위반에 해당할 수 있다고 지적하며 이스라엘 측의 책임을 묻고 있다.",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
+        "snippet": "이재명, 이스라엘 반박에 인권 문제 재반박 · 실시간 룰러때문에 이터널리턴 프로판 ㅈ됨 · 일본 부녀의 화해.JPG · &quot;미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의&quot; 사진픽 내맘대로 한 마와란셰패스 여행후기 ·",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-04-13T16:41:14.615177",
+    "timestamp": "2026-04-13T20:15:18.006172",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-04-13T16:41:17.274996",
+    "timestamp": "2026-04-13T20:15:20.864310",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -718,15 +718,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
-        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "이재명 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
         "link": "http://gall.dcinside.com/mgallery/board/lists/?id=leejaemyung",
         "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다. 이재명 대통령을 지지하는 분들을 환영합니다. - 이재명 갤러리에 다양한 이야기를 남겨주세요.",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
+        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
         "source": "dcinside.com"
       },
       {
