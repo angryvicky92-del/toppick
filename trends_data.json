@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-04-13T16:31:55.359605",
+    "timestamp": "2026-04-13T07:46:41.479530",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -49,16 +49,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호가 보낸 지구 사진",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74709305",
-        "snippet": "거봐라 내가 지구 평평하다 했제",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9670717077",
         "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 전체가 대낮인 상태라 색감이 아주 선명하고 대조가 뚜렷함*아르테미스 2호: 지구의 대부분이 어두운 밤 영역.",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "아르테미스 2호가 보낸 지구 사진",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/74709305",
+        "snippet": "거봐라 내가 지구 평평하다 했제",
+        "source": "ruliweb.com"
       },
       {
         "title": "아르테미스 2호 관련 언론사들 오보가 봇물처럼 쏟아짐 - 포텐 터짐 최신순 - 에펨코리아",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-04-13T16:31:58.294110",
+    "timestamp": "2026-04-13T07:46:44.159838",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-04-13T16:32:01.124073",
+    "timestamp": "2026-04-13T07:46:46.937519",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-04-13T16:32:04.063313",
+    "timestamp": "2026-04-13T07:46:49.573560",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-04-13T16:32:06.801904",
+    "timestamp": "2026-04-13T07:46:52.327964",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-04-13T16:32:09.701533",
+    "timestamp": "2026-04-13T07:46:55.158293",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -406,15 +406,21 @@
         "source": "dcinside.com"
       },
       {
+        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656033",
+        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
+        "source": "clien.net"
+      },
+      {
         "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
         "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
         "source": "dcinside.com"
       },
       {
-        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656033",
-        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
+        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18078795",
+        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
         "source": "clien.net"
       },
       {
@@ -436,14 +442,8 @@
         "source": "clien.net"
       },
       {
-        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18078795",
-        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
-        "source": "clien.net"
-      },
-      {
         "title": "빅토 몬테네그로 저거 고증임? - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/rome/1349167?page=1",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1349167",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
       }
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-04-13T16:32:12.554132",
+    "timestamp": "2026-04-13T07:46:57.868612",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-04-13T16:32:15.281524",
+    "timestamp": "2026-04-13T07:47:00.604596",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-04-13T16:32:18.038119",
+    "timestamp": "2026-04-13T07:47:03.337280",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-04-13T16:32:20.816622",
+    "timestamp": "2026-04-13T07:47:06.122627",
     "sentiment": {
       "positive": 50,
       "negative": 50
