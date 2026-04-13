@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-04-13T11:57:57.160634",
+    "timestamp": "2026-04-13T16:40:53.557228",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -37,12 +37,6 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
-        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
-        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 하게됩니다.달 착륙때는 아마 전 언론사 생중계로 볼수 있겠죠?",
-        "source": "inven.co.kr"
-      },
-      {
         "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
         "link": "https://fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
         "snippet": "달착륙 가능할거면 저기에 바다에 있는게 다시 이륙해서 지구에 다시와야한다는거잖아 진짜 가능할까",
@@ -55,9 +49,15 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
+        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
+        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 하게됩니다.달 착륙때는 아마 전 언론사 생중계로 볼수 있겠죠?",
+        "source": "inven.co.kr"
+      },
+      {
         "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9670717077",
-        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 ...",
+        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 전체가 대낮인 상태라 색감이 아주 선명하고 대조가 뚜렷함*아르테미스 2호: 지구의 대부분이 어두운 밤 영역.",
         "source": "fmkorea.com"
       },
       {
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-04-13T11:57:59.809989",
+    "timestamp": "2026-04-13T16:40:56.214105",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -100,16 +100,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[속보]국민 3200만명에 고유가지원금 뿌린다 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9654504277",
-        "snippet": "고유가지원금이라고 해서 <strong>소득별 지역별로 최대 60만원씩</strong> 뿌린다함또 석유최고가 입으로 손해본 정유사들 보상으로 1차 5조이상 추경 확정",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "“추경지원금 포퓰리즘 아냐”, 2차 추경 지원금 앞선 이야기 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=419191",
         "snippet": "정부는 앞서 국회에 제출한 추가경정예산(추경)안에 소득 하위 70%를 대상으로 고유가 피해지원금 명목으로 <strong>1인당 10만~60만 원을</strong> 지급하겠다는 내용을 담았다.",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[속보]국민 3200만명에 고유가지원금 뿌린다 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9654504277",
+        "snippet": "고유가지원금이라고 해서 <strong>소득별 지역별로 최대 60만원씩</strong> 뿌린다함또 석유최고가 입으로 손해본 정유사들 보상으로 1차 5조이상 추경 확정",
+        "source": "fmkorea.com"
       },
       {
         "title": "'고유가 피해지원금' 27일부터 지급…1인당 10만∼60만원 - 실시간 베스트 갤러리",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-04-13T11:58:02.444355",
+    "timestamp": "2026-04-13T16:40:58.847690",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -205,16 +205,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
-      },
-      {
         "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
         "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
         "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 포스터 공개💘",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-04-13T11:58:05.059588",
+    "timestamp": "2026-04-13T16:41:01.390234",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,15 +238,15 @@
     ],
     "sources": [
       {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694741595",
         "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
@@ -286,22 +286,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "더쿠 - [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
-        "link": "https://theqoo.net/kbaseball/3126040378",
-        "snippet": "스퀘어 키움) [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
-        "source": "theqoo.net"
-      },
-      {
         "title": "더쿠 - [MLB] 실시간 이정후 양키스 스타디움에서 시즌 1호 홈런 침 ㄷㄷㄷㄷ",
         "link": "https://theqoo.net/square/3691077934",
         "snippet": "이슈 [MLB] 실시간 이정후 양키스 스타디움에서 시즌 1호 홈런 침 ㄷㄷㄷㄷ · 33,682 265 · 무명의 더쿠 https://theqoo.net/square/3691077934 · 2025.04.12 08:38 · 33,682 265 · Up Down Comment Print Files · https://youtu.be/IzikBJO7Nso ·",
+        "source": "theqoo.net"
+      },
+      {
+        "title": "더쿠 - [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
+        "link": "https://theqoo.net/kbaseball/3126040378",
+        "snippet": "스퀘어 키움) [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
         "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-04-13T11:58:07.690470",
+    "timestamp": "2026-04-13T16:41:04.025695",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -355,12 +355,6 @@
         "source": "inven.co.kr"
       },
       {
-        "title": "리그오브레전드 인벤 : 수학술사 ' 세미 ' - LoL 팬픽/자작 챔프 공작소",
-        "link": "https://www.inven.co.kr/board/lol/2788/5649",
-        "snippet": "BGM정보 : 브금저장소 - http://bgmstore.net/view/xk8YW <strong>​세미</strong> (Semi) 수학술사​기본스텟 체력 : 525 + (50)18레벨 체력 : 1375마나/기력 : 200 + (0)18레벨 마나/기력 : 200공격력 : 31 + (2.1)18레벨 공격력 : 66.7이동속도 : 350 + (0)공격속도 : 0.777 ...",
-        "source": "inven.co.kr"
-      },
-      {
         "title": "세미 리얼타임은 *** 힘든 장르인가봐",
         "link": "https://m.ruliweb.com/etcs/board/300781/read/57680604",
         "snippet": "템플릿이나 개발용 예제를 찾아 한번 보고 싶어도하나도 없네",
@@ -371,12 +365,18 @@
         "link": "https://bbs.ruliweb.com/game/84511/read/5370719",
         "snippet": "콘트롤러 설정 세미 어시스트 차이점이 뭐죠?",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "스스메? 스즈메?가 뭔 뜻이에요? - 숲(SOOP) - 에펨코리아",
+        "link": "https://www.fmkorea.com/8338213074",
+        "snippet": "민교 휴방이여서 상호 방 보는데진격거 단어인건 아는데 보진 않아서 뭐라 부를 때 쓰이는건가요",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-04-13T11:58:10.345894",
+    "timestamp": "2026-04-13T16:41:06.741707",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -394,16 +394,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
-        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
         "link": "https://bbs.ruliweb.com/sports/board/300276/read/3727447",
         "snippet": "원기사: [오피셜] 인천 무고사, <strong>몬테네그로</strong> 국대 은퇴 선언…&quot;세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기&quot;",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
+        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-04-13T11:58:13.122022",
+    "timestamp": "2026-04-13T16:41:09.348095",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -499,15 +499,15 @@
         "source": "clien.net"
       },
       {
-        "title": "국힘, 김민석 사퇴 총공세…'총리 후보 중 피의자는 처음' : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19009451",
-        "snippet": "민주당이 모조리 거부한거 잘했다고 봅니다. 받아주면 더 난리쳤을겁니다. 패싱하고 총리 임명해서 국무회의에서 홀로 일하는 이재명 대통령을 도와야죠.",
+        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19127030",
+        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
         "source": "clien.net"
       },
       {
-        "title": "총리실 입장 나왔네요. : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154700",
-        "snippet": "김민석 총리 4일동안 <strong>매일 저녁 중동상황 관계부처회의 열어서 상황 점검하고 국무회의도 열었어요</strong>.",
+        "title": "국힘, 김민석 사퇴 총공세…'총리 후보 중 피의자는 처음' : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19009451",
+        "snippet": "민주당이 모조리 거부한거 잘했다고 봅니다. 받아주면 더 난리쳤을겁니다. 패싱하고 총리 임명해서 국무회의에서 홀로 일하는 이재명 대통령을 도와야죠.",
         "source": "clien.net"
       },
       {
@@ -517,16 +517,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19127030",
-        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
+        "title": "총리실 입장 나왔네요. : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154700",
+        "snippet": "김민석 총리 4일동안 <strong>매일 저녁 중동상황 관계부처회의 열어서 상황 점검하고 국무회의도 열었어요</strong>.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-04-13T11:58:16.182917",
+    "timestamp": "2026-04-13T16:41:11.977259",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -544,16 +544,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
-        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이스라엘, 이재명 발언 “용납 못해”- 관련게시물 : 이재명 트위터 근황 (실제상황임)휴전하자는데도 레바논 때려서휴전 깽판쳐, 전세계 유가",
-        "source": "dcinside.com"
-      },
-      {
         "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
         "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
+        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ · - 관련게시물 : 이스라엘, 이재명 발언 “용납 못해” · - 관련게시물 : 이재명 트위터 근황 (실제상황임) 휴전하자는데도 레바논 때려서 ·",
+        "source": "dcinside.com"
       },
       {
         "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-04-13T11:58:18.827998",
+    "timestamp": "2026-04-13T16:41:14.615177",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-04-13T11:58:21.464034",
+    "timestamp": "2026-04-13T16:41:17.274996",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -694,27 +694,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "정상회담 짤 하나로 요약함 - 정치/시사 - 에펨코리아",
-        "link": "https://www.fmkorea.com/8833209174",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=381929",
-        "snippet": "- 한-이집트 정상회담 · - [포토] 한-이집트 정상 공동언론발표 · - [속보]이재명 대통령 &quot;한-이집트 문화협력 MOU 체결 · - dc official App · - 이집트 방문한 이재명 대통령 “나일강의 기적 돕겠다” ·",
-        "source": "dcinside.com"
-      },
-      {
         "title": "이 대통령 뒷전 됐다고 느낀 적 없다 명청 갈등 논란 직접 진화",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3716907",
         "snippet": "한 브라질 정상회담 여당 지원사격 빈약 등 당청 엇박자 기사에 민주당 잘 하고 있다 원본보기 이재명 대통령이 25일 엑스 X 옛 트위터 에 과도한 걱정을 기우라고 한다 당은 당의 일을 청은 청의 일을 잘 하면 된다 면서 당청 엇박자 논란을 직접 부인했다 2026 2 25 이재명 대통령 X오마이뉴스",
         "source": "ruliweb.com"
       },
       {
-        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
-        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
+        "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=381929",
+        "snippet": "- 한-이집트 정상회담 · - [포토] 한-이집트 정상 공동언론발표 · - [속보]이재명 대통령 &quot;한-이집트 문화협력 MOU 체결 · - dc official App · - 이집트 방문한 이재명 대통령 “나일강의 기적 돕겠다” ·",
         "source": "dcinside.com"
       },
       {
@@ -724,16 +712,22 @@
         "source": "clien.net"
       },
       {
+        "title": "정상회담 짤 하나로 요약함 - 정치/시사 - 에펨코리아",
+        "link": "https://www.fmkorea.com/8833209174",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
+        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
+        "source": "dcinside.com"
+      },
+      {
         "title": "이재명 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
         "link": "http://gall.dcinside.com/mgallery/board/lists/?id=leejaemyung",
         "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다. 이재명 대통령을 지지하는 분들을 환영합니다. - 이재명 갤러리에 다양한 이야기를 남겨주세요.",
         "source": "dcinside.com"
-      },
-      {
-        "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
-        "link": "https://theqoo.net/hot/3963756857",
-        "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
-        "source": "theqoo.net"
       },
       {
         "title": "[명연설] 이재명 상대원 시장 연설 전문 ㅠㅜ : 클리앙",
@@ -742,9 +736,15 @@
         "source": "clien.net"
       },
       {
-        "title": "이스라엘, 이재명 발언 “용납 못해” - 실시간 베스트 갤러리",
-        "link": "https://m.dcinside.com/board/dcbest/420280",
-        "snippet": "이스라엘 외무부는 10일(현지시간) 이재명 대통령이 전시 민간인 살해를 유대인 학살에 비유한 발언과 관련해 “용납할 수 없다”며 강하게 반발했다.이재명 대통령 (사진=연합뉴스)이스라엘 외무부는 이날 엑스(X·옛 트위터)를 통해 “이 대통령이 홀로코스트 추모일을 앞두고...",
+        "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
+        "link": "https://theqoo.net/hot/3963756857",
+        "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
+        "source": "theqoo.net"
+      },
+      {
+        "title": "한미정상회담 요약 - 이재명 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/leejaemyung/1613683",
+        "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다.",
         "source": "dcinside.com"
       }
     ]
