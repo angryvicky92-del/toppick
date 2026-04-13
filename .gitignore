@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+debug_search.py
+debug_search_no_site.py
+node_modules/
+.DS_Store
