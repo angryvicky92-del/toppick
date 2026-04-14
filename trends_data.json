@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-04-14T10:51:13.639484",
+    "timestamp": "2026-04-14T15:52:06.331607",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -19,16 +19,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호 달 뒷면 관측은 국내 언론사들 오보 수준임",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74744733",
-        "snippet": "YTN이 육안으로는 처음으로 ... 육안으로 목격했다면서 기사 내는데 이미 <strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환</strong>한 ......",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9698324015",
         "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "아르테미스 2호 달 뒷면 관측은 국내 언론사들 오보 수준임",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/74744733",
+        "snippet": "YTN이 육안으로는 처음으로 ... 육안으로 목격했다면서 기사 내는데 이미 <strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환</strong>한 ......",
+        "source": "ruliweb.com"
       },
       {
         "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
@@ -37,14 +37,20 @@
         "source": "clien.net"
       },
       {
+        "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9695291040",
+        "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9670717077",
-        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 ...",
+        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 전체가 대낮인 상태라 색감이 아주 선명하고 대조가 뚜렷함*아르테미스 2호: 지구의 대부분이 어두운 밤 영역.",
         "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3730102",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3730102",
         "snippet": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호 교신은 4일까지 시도 우주청 관측 데이터 확보 못해 아쉽다 지디넷코리아",
         "source": "ruliweb.com"
       },
@@ -61,12 +67,6 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9695291040",
-        "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "Apple NASA 아르테미스 2의 성공적인 임무 완수를 축하",
         "link": "https://bbs.ruliweb.com/news/board/1004/read/2287437",
         "snippet": "아르테미스 2호의 성공적인 임무 완수를 축하합니다 우주와 지구의 경이로움을 아름답게 담아내어 iPhone의 사진 촬영을 새로운 차원으로 끌어올렸고 이를 전 세계와 공유해 주셔서 감사합니다 여러분의 작품은 우리 모두에게 새로운 사고방식을 불어넣어 줍니다 귀환을 환영합니다 팀 쿡 Apple CEO아르테미스 II 승무원 여러분 집에 오신 것을 환영합니다 NASA 우주비행사들이 iPhone을 우주로 함께 가져가 준 것을 영광으로 생각합니다 아이폰을 위한 작은 한 걸음 우주 셀카를 위한 거대한 도약 그렉 조스위악 Apple 마케팅 SVP",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-04-14T10:51:16.293528",
+    "timestamp": "2026-04-14T15:52:08.970031",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,12 +118,6 @@
         "source": "dcinside.com"
       },
       {
-        "title": "고유가 피해 지원금 악용 스미싱 사기 주의문자 URL 의심해야",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3732960",
-        "snippet": "정부·금융기관 &quot;지원금 대상자에게 문자 안 보내&quot; 고유가 피해 지원금 문자 받으면 &#x27;스미싱&#x27; 의심해야 문자 링크 클릭하면 금융·개인 보 유출 가능성 &quot;앱 감염 의심되면 인터넷진흥원118 상담센터 신고&quot;",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "[속보]국민 3200만명에 고유가지원금 뿌린다 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9654504277",
         "snippet": "고유가지원금이라고 해서 <strong>소득별 지역별로 최대 60만원씩</strong> 뿌린다함또 석유최고가 입으로 손해본 정유사들 보상으로 1차 5조이상 추경 확정",
@@ -136,22 +130,28 @@
         "source": "dcinside.com"
       },
       {
-        "title": "“추경지원금 포퓰리즘 아냐”, 2차 추경 지원금 앞선 이야기 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=419191",
-        "snippet": "정부는 앞서 국회에 제출한 추가경정예산(추경)안에 소득 하위 70%를 대상으로 고유가 피해지원금 명목으로 <strong>1인당 10만~60만 원을</strong> 지급하겠다는 내용을 담았다.",
-        "source": "dcinside.com"
+        "title": "고유가 피해 지원금 악용 스미싱 사기 주의문자 URL 의심해야",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3732960",
+        "snippet": "정부·금융기관 &quot;지원금 대상자에게 문자 안 보내&quot; 고유가 피해 지원금 문자 받으면 &#x27;스미싱&#x27; 의심해야 문자 링크 클릭하면 금융·개인 보 유출 가능성 &quot;앱 감염 의심되면 인터넷진흥원118 상담센터 신고&quot;",
+        "source": "ruliweb.com"
       },
       {
         "title": "가격인상지원금은 없나 - 향수 마이너 갤러리",
         "link": "https://m.dcinside.com/board/hyang/519649?page=3",
         "snippet": "요즘 고유가지원금이니 뭐니 별의 별 이유 다 붙여서 돈 뿌리던데 향수 인상으로 상처받은 날 위로해줄 인상지원금 주세요ㅎㅅㅇㅇㄱ ) 오뿌는 오랜만에 라이트블루 뿌렸우 산지 7년은 넘어서 그런지 탑은 변향되서 금방 ...",
         "source": "dcinside.com"
+      },
+      {
+        "title": "“추경지원금 포퓰리즘 아냐”, 2차 추경 지원금 앞선 이야기 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=419191",
+        "snippet": "정부는 앞서 국회에 제출한 추가경정예산(추경)안에 소득 하위 70%를 대상으로 고유가 피해지원금 명목으로 <strong>1인당 10만~60만 원을</strong> 지급하겠다는 내용을 담았다.",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-04-14T10:51:18.928738",
+    "timestamp": "2026-04-14T15:52:11.629772",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-04-14T10:51:21.497737",
+    "timestamp": "2026-04-14T15:52:14.211017",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,15 +238,15 @@
     ],
     "sources": [
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694744433",
         "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-04-14T10:51:24.194520",
+    "timestamp": "2026-04-14T15:52:16.873778",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-04-14T10:51:26.877963",
+    "timestamp": "2026-04-14T15:52:19.552035",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -394,21 +394,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
-        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
         "link": "https://bbs.ruliweb.com/sports/board/300276/read/3727447",
         "snippet": "원기사: [오피셜] 인천 무고사, <strong>몬테네그로</strong> 국대 은퇴 선언…&quot;세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기&quot;",
         "source": "ruliweb.com"
       },
       {
-        "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
-        "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
+        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
+        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
         "source": "dcinside.com"
       },
       {
@@ -416,6 +410,12 @@
         "link": "https://www.clien.net/service/board/news/18656033",
         "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
+        "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "[속보] 몬테네그로 대법원, 권도형 한국행 보류 결정 : 클리앙",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-04-14T10:51:29.493899",
+    "timestamp": "2026-04-14T15:52:22.219793",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -463,16 +463,16 @@
     ],
     "sources": [
       {
-        "title": "코스프레 모델들과 대화하는 김민석 국무총리",
-        "link": "https://m.ruliweb.com/news/board/1005/read/3678140",
-        "snippet": "[단독] &#x27;서울시장 출마설&#x27; 김민석 총리, 비공개 회의서 &quot;출마 의사 없다&quot;",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 취임식 - 실시간 베스트 갤러리",
         "link": "https://m.dcinside.com/board/dcbest/345365",
         "snippet": "어제 저희가 국무회의 때 앞에 계신 전임 정부 때 임명받으신 장관님들을 모시고 제가 인사를 드리면서 이렇게 인사를 드렸었습니다",
         "source": "dcinside.com"
+      },
+      {
+        "title": "코스프레 모델들과 대화하는 김민석 국무총리",
+        "link": "https://m.ruliweb.com/news/board/1005/read/3678140",
+        "snippet": "[단독] &#x27;서울시장 출마설&#x27; 김민석 총리, 비공개 회의서 &quot;출마 의사 없다&quot;",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 김민석 총리 \"유네스코 세계유산 종묘 가치보존 위해 범정부 대응\"",
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-04-14T10:51:32.131826",
+    "timestamp": "2026-04-14T15:52:24.857458",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -562,27 +562,27 @@
         "source": "dcinside.com"
       },
       {
-        "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420537",
-        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이재명이 주목한 트위터 계정을 알아보자... jpg- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박폰좀 제발 뺏으라고 ㅋㅋㅋㅋㅋ",
-        "source": "dcinside.com"
-      },
-      {
         "title": "늬우스) 북한 \"이스라엘, 팔레스타인에 대한 인권 유린\" | 유머 게시판 | 루리웹",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/54545180",
         "snippet": "북한이 유엔총회에서 이스라엘을 두고 팔레스타인에 대한 인권 유린을 하는 나라에서 인권을 논하는것은 옳지 않다고 이야기하자",
         "source": "ruliweb.com"
       },
       {
-        "title": "무슬림 시장 나올라…美 뉴욕 유대인 커뮤니티 불안 고조 - 백악관 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=whitehouse&no=157792",
-        "snippet": "25일(현지 시각) 뉴욕타임스(NYT)에 따르면 이번 민주당 시장 선거 1차 투표에서 43.5%를 득표해 승리한 조흐란 맘다니 하원의원은 무슬림 정치인으로, 팔레스타인 인권운동 활동가 출이다. 그는 이스라엘을 ‘아파르트헤이트(Apartheid·인종 격리 정책) 국가’로 규정, 가자지구 전쟁을 ‘집단 학살’이라고 비판해왔으며 국제사회의 이스라엘 보이콧을 촉구하는 BDS(Boycott, Divestment, Sanctions·보이콧, 투자철회, 제재) 운동도 공개 지지한 바 있다.",
+        "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420537",
+        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이재명이 주목한 트위터 계정을 알아보자... jpg- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박폰좀 제발 뺏으라고 ㅋㅋㅋㅋㅋ",
         "source": "dcinside.com"
       },
       {
         "title": "이스라엘 매체 “李대통령, 경제 압박에 국내 정치용으로 우릴 비판” - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420753",
         "snippet": "- 관련게시물 : 이스라엘, 이재명 발언 “용납 못해”- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박- 관련게시물 : 이재명 실시간 이스라엘 관련 트윗 올렸다https://n.news.naver.com/a",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "무슬림 시장 나올라…美 뉴욕 유대인 커뮤니티 불안 고조 - 백악관 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=whitehouse&no=157792",
+        "snippet": "25일(현지 시각) 뉴욕타임스(NYT)에 따르면 이번 민주당 시장 선거 1차 투표에서 43.5%를 득표해 승리한 조흐란 맘다니 하원의원은 무슬림 정치인으로, 팔레스타인 인권운동 활동가 출이다. 그는 이스라엘을 ‘아파르트헤이트(Apartheid·인종 격리 정책) 국가’로 규정, 가자지구 전쟁을 ‘집단 학살’이라고 비판해왔으며 국제사회의 이스라엘 보이콧을 촉구하는 BDS(Boycott, Divestment, Sanctions·보이콧, 투자철회, 제재) 운동도 공개 지지한 바 있다.",
         "source": "dcinside.com"
       },
       {
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-04-14T10:51:34.828524",
+    "timestamp": "2026-04-14T15:52:27.536264",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-04-14T10:51:37.540706",
+    "timestamp": "2026-04-14T15:52:30.207090",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -694,40 +694,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "이 대통령 뒷전 됐다고 느낀 적 없다 명청 갈등 논란 직접 진화",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3716907",
-        "snippet": "한 브라질 정상회담 여당 지원사격 빈약 등 당청 엇박자 기사에 민주당 잘 하고 있다 원본보기 이재명 대통령이 25일 엑스 X 옛 트위터 에 과도한 걱정을 기우라고 한다 당은 당의 일을 청은 청의 일을 잘 하면 된다 면서 당청 엇박자 논란을 직접 부인했다 2026 2 25 이재명 대통령 X오마이뉴스",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=381929",
         "snippet": "- 한-이집트 정상회담 · - [포토] 한-이집트 정상 공동언론발표 · - [속보]이재명 대통령 &quot;한-이집트 문화협력 MOU 체결 · - dc official App · - 이집트 방문한 이재명 대통령 “나일강의 기적 돕겠다” ·",
         "source": "dcinside.com"
       },
       {
-        "title": "이재명 : 독일은 유명한 세계적 메이커는 없는데 중소기업이 강해요 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/10500794",
-        "snippet": "이재명의 의도는 대기업만으로 독일경제가 지탱이 되는 것이 아니라 많은 강소기업들이 있다는 걸 말하고 싶은 거 아닐까요..",
-        "source": "clien.net"
-      },
-      {
-        "title": "정상회담 짤 하나로 요약함 - 정치/시사 - 에펨코리아",
-        "link": "https://www.fmkorea.com/8833209174",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "이재명 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
-        "link": "http://gall.dcinside.com/mgallery/board/lists/?id=leejaemyung",
-        "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다. 이재명 대통령을 지지하는 분들을 환영합니다. - 이재명 갤러리에 다양한 이야기를 남겨주세요.",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
-        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
-        "source": "dcinside.com"
+        "title": "이 대통령 뒷전 됐다고 느낀 적 없다 명청 갈등 논란 직접 진화",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3716907",
+        "snippet": "한 브라질 정상회담 여당 지원사격 빈약 등 당청 엇박자 기사에 민주당 잘 하고 있다 원본보기 이재명 대통령이 25일 엑스 X 옛 트위터 에 과도한 걱정을 기우라고 한다 당은 당의 일을 청은 청의 일을 잘 하면 된다 면서 당청 엇박자 논란을 직접 부인했다 2026 2 25 이재명 대통령 X오마이뉴스",
+        "source": "ruliweb.com"
       },
       {
         "title": "오늘 이 뉴스 李 노력에 전 세계가 감탄 폴란드 총리 의미심장 발언에",
@@ -736,16 +712,40 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[명연설] 이재명 상대원 시장 연설 전문 ㅠㅜ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/17050974",
-        "snippet": "여기 많은 분들이 아시겠지만, 여기가 바로 이재명과 그의 가족들이 생계를 유지했던 곳입니다. <strong>1976년 2월 23일</strong> 눈비 내리는 새벽에 저기 구종점 단대 오거리에 내려가지고, 짐 싸들고 여기를 걸어 올라와서 우리가 새해 들어 ...",
+        "title": "정상회담 짤 하나로 요약함 - 정치/시사 - 에펨코리아",
+        "link": "https://www.fmkorea.com/8833209174",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이재명 : 독일은 유명한 세계적 메이커는 없는데 중소기업이 강해요 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/10500794",
+        "snippet": "이재명의 의도는 대기업만으로 독일경제가 지탱이 되는 것이 아니라 많은 강소기업들이 있다는 걸 말하고 싶은 거 아닐까요..",
         "source": "clien.net"
+      },
+      {
+        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
+        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
         "link": "https://theqoo.net/hot/3963756857",
         "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
         "source": "theqoo.net"
+      },
+      {
+        "title": "이재명 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
+        "link": "http://gall.dcinside.com/mgallery/board/lists/?id=leejaemyung",
+        "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다. 이재명 대통령을 지지하는 분들을 환영합니다. - 이재명 갤러리에 다양한 이야기를 남겨주세요.",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "더불어민주당 미친자때문에 밤사이 다들 고생이셨습니다",
+        "link": "https://m.ruliweb.com/userboard/board/700380/read/6042",
+        "snippet": "트럼프 이재명 정상회담 (개인적인 요약) 수꼴들이 떠받드는 트황상님께서 하신 말씀 · [속보]트럼프 &quot;이재명 대통령 백악관 방문 환영…선거 승리 축하&quot; 윤석열 방미 · BBC에서 평가한 한국 관세 협상.jpg ·",
+        "source": "ruliweb.com"
       }
     ]
   }
