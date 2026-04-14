@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-04-13T23:29:52.511833",
+    "timestamp": "2026-04-14T06:19:47.719593",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -19,16 +19,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9698324015",
-        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "아르테미스 2호 달 뒷면 관측은 국내 언론사들 오보 수준임",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/74744733",
         "snippet": "YTN이 육안으로는 처음으로 ... 육안으로 목격했다면서 기사 내는데 이미 <strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환</strong>한 ......",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9698324015",
+        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+        "source": "fmkorea.com"
       },
       {
         "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
@@ -37,15 +37,21 @@
         "source": "clien.net"
       },
       {
+        "title": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3730102",
+        "snippet": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호 교신은 4일까지 시도 우주청 관측 데이터 확보 못해 아쉽다 지디넷코리아",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9670717077",
         "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 전체가 대낮인 상태라 색감이 아주 선명하고 대조가 뚜렷함*아르테미스 2호: 지구의 대부분이 어두운 밤 영역.",
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3730102",
-        "snippet": "아르테미스 2호 실렸던 국내 위성 6만8천km서 미약신호 교신은 4일까지 시도 우주청 관측 데이터 확보 못해 아쉽다 지디넷코리아",
+        "title": "달나라 가고 있는 아르테미스 2호 근황",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/74681021",
+        "snippet": "야심차게 설치한 화장실이 고장났다 함ㅋㅋㅋㅋ하필 미션도 똑같았던 아폴로 10호 똥 사건 재현 되는 거 아님 ㅋㅋㅋㅋㅋ",
         "source": "ruliweb.com"
       },
       {
@@ -55,28 +61,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "달나라 가고 있는 아르테미스 2호 근황",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74681021",
-        "snippet": "야심차게 설치한 화장실이 고장났다 함ㅋㅋㅋㅋ하필 미션도 똑같았던 아폴로 10호 똥 사건 재현 되는 거 아님 ㅋㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
+        "title": "아르테미스 2호 관련 언론사들 오보가 봇물처럼 쏟아짐 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9681738367",
+        "snippet": "<strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환한 사나이들</strong>, 우리가 다 유리창으로 보고 왔는데요? 프랭크 보먼, 제임스 러벨, 윌리엄 앤더스 ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9695291040",
         "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "아르테미스 2호 관련 언론사들 오보가 봇물처럼 쏟아짐 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9681738367",
-        "snippet": "<strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환한 사나이들</strong>, 우리가 다 유리창으로 보고 왔는데요? 프랭크 보먼, 제임스 러벨, 윌리엄 앤더스 ...",
-        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-04-13T23:29:55.123896",
+    "timestamp": "2026-04-14T06:19:50.360443",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -112,16 +112,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "'고유가 피해지원금' 27일부터 지급…1인당 10만∼60만원 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420318",
-        "snippet": "애국보수 2찍 내란견들은 절대 받지마라 ㅋㅋㅋㅋ",
-        "source": "dcinside.com"
-      },
-      {
         "title": "(속보)고유가 피해지원금 지급 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9654460008",
         "snippet": "고유가 피해지원금인데 저거 쓰면 인플레로 더 피해가 옴 더 피해 보라고 지원한다는 거지?",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "'고유가 피해지원금' 27일부터 지급…1인당 10만∼60만원 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420318",
+        "snippet": "애국보수 2찍 내란견들은 절대 받지마라 ㅋㅋㅋㅋ",
+        "source": "dcinside.com"
       },
       {
         "title": "[속보]민생지원금, 소득하위 70% 1인당 10만~60만원…K-패스 환급률 업 - 포텐 터짐 최신순 - 에펨코리아",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-04-13T23:29:57.757575",
+    "timestamp": "2026-04-14T06:19:53.011825",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -166,6 +166,12 @@
         "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
         "link": "https://bbs.ruliweb.com/community/board/300013/read/3725929",
         "snippet": "<strong>아이유 변우석</strong> 주연 21세기 대군부인 캐릭터 포스터 공개",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "ELLE 아이유 변우석 서로 할 말 많은 대군부부",
+        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/31615",
+        "snippet": "ELLE <strong>아이유 변우석</strong> 서로 할 말 많은 대군부부",
         "source": "ruliweb.com"
       },
       {
@@ -187,15 +193,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "21세기 대군부인 아이유 변우석 설날 인사 영상",
-        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/31036",
-        "snippet": "21세기 대군부인 <strong>아이유 변우석</strong> 설날 인사 영상",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "디즈니플러스 21세기 대군부인 대본 리딩 스틸 공개",
         "link": "https://bbs.ruliweb.com/av/board/300013/read/3709584",
         "snippet": "아이유, 변우석 주연의 &#x27;<strong>21세기 대군부인</strong>&#x27;의 대본 리딩 현장이 공개 되었습니다.",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "21세기 대군부인 아이유 변우석 설날 인사 영상",
+        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/31036",
+        "snippet": "21세기 대군부인 <strong>아이유 변우석</strong> 설날 인사 영상",
         "source": "ruliweb.com"
       },
       {
@@ -215,18 +221,12 @@
         "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
         "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
-        "link": "https://theqoo.net/hot/4045919114",
-        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-04-13T23:30:00.315980",
+    "timestamp": "2026-04-14T06:19:56.111685",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,15 +238,15 @@
     ],
     "sources": [
       {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694741595",
         "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
@@ -280,16 +280,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "자이언츠로 시즌 돌리는데",
-        "link": "https://bbs.ruliweb.com/game/86866/read/9455957",
-        "snippet": "이정후 진짜 능력치 별로니 장타가 진짜 안나오네요 · 현실 반영한 것 처럼 20경기 동안 홈런하나 그것도 뜬공처럼 날라가다 담장에 팅겨서 홈런 · 팀 자체 스텟도 하위급이니 홈런 나올때 쾌감이 좋은듯?",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "이정후 시범경기 마수걸이 홈런.mp4 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/8068376437",
         "snippet": "카와이한레너드 이번시즌은 진짜 ops8넘기고 홈런15개가까이만 쳐주면 좋겠다 진짜로.. 잘해야됀다 이정후까지 안돼면 크보타자는 믈브에서 답이없다 ㅆㅂ.. 1 · 野蠻人 2025.02.25 17:42 · 뛰는 폼도 존나 멋있네 · P10010 2025.02.25 18:05 · 오 · 하마왕 2025.02.25 18:55 · 워낙에 천재타자라 1년 쉬어도 감 살아있구나 · 1 · 첫 페이지 1 2 3 4 5 끝 페이지 ·",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "자이언츠로 시즌 돌리는데",
+        "link": "https://bbs.ruliweb.com/game/86866/read/9455957",
+        "snippet": "이정후 진짜 능력치 별로니 장타가 진짜 안나오네요 · 현실 반영한 것 처럼 20경기 동안 홈런하나 그것도 뜬공처럼 날라가다 담장에 팅겨서 홈런 · 팀 자체 스텟도 하위급이니 홈런 나올때 쾌감이 좋은듯?",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-04-13T23:30:02.923857",
+    "timestamp": "2026-04-14T06:19:58.778800",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -355,6 +355,12 @@
         "source": "inven.co.kr"
       },
       {
+        "title": "리그오브레전드 인벤 : 수학술사 ' 세미 ' - LoL 팬픽/자작 챔프 공작소",
+        "link": "https://www.inven.co.kr/board/lol/2788/5649",
+        "snippet": "BGM정보 : 브금저장소 - http://bgmstore.net/view/xk8YW <strong>​세미</strong> (Semi) 수학술사​기본스텟 체력 : 525 + (50)18레벨 체력 : 1375마나/기력 : 200 + (0)18레벨 마나/기력 : 200공격력 : 31 + (2.1)18레벨 공격력 : 66.7이동속도 : 350 + (0)공격속도 : 0.777 ...",
+        "source": "inven.co.kr"
+      },
+      {
         "title": "세미 리얼타임은 *** 힘든 장르인가봐",
         "link": "https://m.ruliweb.com/etcs/board/300781/read/57680604",
         "snippet": "템플릿이나 개발용 예제를 찾아 한번 보고 싶어도하나도 없네",
@@ -365,18 +371,12 @@
         "link": "https://bbs.ruliweb.com/pc/board/300058/read/30577521",
         "snippet": "전세계 PC 게이머의 75 가 사용하는 세계 1위 게임 플랫폼 스팀 그들은 어떻게 착한 독점 기업 이 될 수 있었을까",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "콘트롤러 설정 세미 어시스트 차이점이 뭐죠? | 피파온라인 루리웹 | 루리웹",
-        "link": "https://bbs.ruliweb.com/game/84511/read/5370719",
-        "snippet": "콘트롤러 설정 세미 어시스트 차이점이 뭐죠?",
-        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-04-13T23:30:05.624606",
+    "timestamp": "2026-04-14T06:20:01.463050",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -406,16 +406,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656033",
-        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
         "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
         "source": "dcinside.com"
+      },
+      {
+        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656033",
+        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
+        "source": "clien.net"
       },
       {
         "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
@@ -443,7 +443,7 @@
       },
       {
         "title": "빅토 몬테네그로 저거 고증임? - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/rome/1349167?page=1",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1349167",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
       }
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-04-13T23:30:08.277769",
+    "timestamp": "2026-04-14T06:20:04.123462",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-04-13T23:30:10.875842",
+    "timestamp": "2026-04-14T06:20:06.759931",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -550,15 +550,21 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420537",
-        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이재명이 주목한 트위터 계정을 알아보자... jpg- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박폰좀 제발 뺏으라고 ㅋㅋㅋㅋㅋ",
-        "source": "dcinside.com"
+        "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
+        "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
+        "source": "ruliweb.com"
       },
       {
         "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
         "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ · - 관련게시물 : 이스라엘, 이재명 발언 “용납 못해” · - 관련게시물 : 이재명 트위터 근황 (실제상황임) 휴전하자는데도 레바논 때려서 ·",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "이재명 실시간 이스라엘 관련 트윗 올렸다 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420537",
+        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이재명이 주목한 트위터 계정을 알아보자... jpg- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박폰좀 제발 뺏으라고 ㅋㅋㅋㅋㅋ",
         "source": "dcinside.com"
       },
       {
@@ -574,9 +580,9 @@
         "source": "dcinside.com"
       },
       {
-        "title": "이스라엘-하마스 전쟁, 가자 지구 최신 근황 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=364725",
-        "snippet": "왜냐하면 지금까지 수십 년 동안 이스라엘은 여기서 하마스를 잡으면 얼마 후 저기서 또 나타나고 · 저기서 하마스를 잡으면 다른 곳에서 또 나타나는 두더지 잡기를 끝없이 반복해 왔음 · 이미 여기까지 온 이상 이 악순환을 완전히 끝내겠다는 것 · 가자지구 주민의 인권 문제로 국제사회에서 자기들을 장기간 고립시키더라도 감수하겠다고 함",
+        "title": "이스라엘 매체 “李대통령, 경제 압박에 국내 정치용으로 우릴 비판” - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420753",
+        "snippet": "- 관련게시물 : 이스라엘, 이재명 발언 “용납 못해”- 관련게시물 : 이재명, 이스라엘 반박에 인권 문제 재반박- 관련게시물 : 이재명 실시간 이스라엘 관련 트윗 올렸다https://n.news.naver.com/a",
         "source": "dcinside.com"
       },
       {
@@ -584,12 +590,6 @@
         "link": "https://bbs.ruliweb.com/mobile/board/300008/read/2198583",
         "snippet": "캐나다 연구소, iOS 14 ‘보안 우회’ 확인 바레인, 인권 운동가 등 활동가 9명 사찰 · 각국 정부에 해킹 도구를 팔고 있는 이스라엘 기업 엔에스오(NSO) 그룹이 최근 애플 아이폰의 운영체제인 iOS14에 포함된 최신 보안 기술까지 ...",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "이란 공격 이스라엘 전투기, 귀환 중 남은 폭탄 가자지구 투하\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/8608369887",
-        "snippet": "국제사회와 인권단체들은 민간인 희생과 민감한 지역에 대한 반복적인 공습이 국제법 위반에 해당할 수 있다고 지적하며 이스라엘 측의 책임을 묻고 있다.",
-        "source": "fmkorea.com"
       },
       {
         "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-04-13T23:30:13.534675",
+    "timestamp": "2026-04-14T06:20:09.422037",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-04-13T23:30:16.181845",
+    "timestamp": "2026-04-14T06:20:12.118651",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -730,6 +730,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "오늘 이 뉴스 李 노력에 전 세계가 감탄 폴란드 총리 의미심장 발언에",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3733612",
+        "snippet": "오늘 이 뉴스 李 노력에 전 세계가 감탄 폴란드 총리 의미심장 발언에",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "[명연설] 이재명 상대원 시장 연설 전문 ㅠㅜ : 클리앙",
         "link": "https://www.clien.net/service/board/park/17050974",
         "snippet": "여기 많은 분들이 아시겠지만, 여기가 바로 이재명과 그의 가족들이 생계를 유지했던 곳입니다. <strong>1976년 2월 23일</strong> 눈비 내리는 새벽에 저기 구종점 단대 오거리에 내려가지고, 짐 싸들고 여기를 걸어 올라와서 우리가 새해 들어 ...",
@@ -740,12 +746,6 @@
         "link": "https://theqoo.net/hot/3963756857",
         "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
         "source": "theqoo.net"
-      },
-      {
-        "title": "오늘 이 뉴스 李 노력에 전 세계가 감탄 폴란드 총리 의미심장 발언에",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3733612",
-        "snippet": "오늘 이 뉴스 李 노력에 전 세계가 감탄 폴란드 총리 의미심장 발언에",
-        "source": "ruliweb.com"
       }
     ]
   }
