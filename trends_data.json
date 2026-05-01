@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-05-01T02:34:00.164447",
+    "timestamp": "2026-05-01T06:11:05.185999",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -25,16 +25,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호 승무원 구출 중 찍힌 재밋는 사진..jpg - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9745029077",
-        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는 착수한 아르테미스 2호의 승무원들은 미 해군 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
         "link": "https://m.dcinside.com/board/war/4828798?page=2",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
+      },
+      {
+        "title": "아르테미스 2호 승무원 구출 중 찍힌 재밋는 사진..jpg - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9745029077",
+        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는데 착수한 아르테미스 2호의 승무원들은 미 ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-05-01T02:34:02.705911",
+    "timestamp": "2026-05-01T06:11:07.848584",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -87,6 +87,12 @@
       ""
     ],
     "sources": [
+      {
+        "title": "고유가 지원금 오늘부터 모든 주유소에서 쓴다",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3740517",
+        "snippet": "<strong>고유가 지원금</strong> 오늘부터 모든 주유소에서 쓴다李 제한 해제 검토 지시 30억 초과 사용처 허용 국민 유류비 부담 완화 행정구역내 업소서 사용 서울신문",
+        "source": "ruliweb.com"
+      },
       {
         "title": "고유가 지원금 50만원 받는다고 뭐라하는 얘기가 좀 보이던데",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/74979050",
@@ -112,6 +118,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "‘고유가 피해지원금’ 대상 확인…네이버·카톡으로 안내받을 수 있어 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9742513946",
+        "snippet": "이름이 고유가 피해지원금인데 연매출30억 이하 주유소에서만 사용할수 있어서 사용가능한 주유소가 전국에 42%정도밖에 안되는것 자체부터 모순 ㅋㅋ",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "야 근데 의외로 고유가 지원금 사용가능 붙은데 별로없음 - 기초생활수급자 마이너 갤러리",
         "link": "https://m.dcinside.com/board/livelihood/111439",
         "snippet": "오늘 쓰러 나갔는데 편의점 딱 한군대만 <strong>고유가 지원금</strong> 사용매장이라고스티커나 크게 붙어 있고 나머지 매장은 그냥 그런것도 없음특히 요즘 프렌차이즈들 매장에서 직접결제 하는곳보다키오스크 매장이 더많아서기생수인거 들키기 싫",
@@ -121,12 +133,6 @@
         "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9765290543",
         "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "‘고유가 피해지원금’ 대상 확인…네이버·카톡으로 안내받을 수 있어 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9742513946",
-        "snippet": "이름이 고유가 피해지원금인데 연매출30억 이하 주유소에서만 사용할수 있어서 사용가능한 주유소가 전국에 42%정도밖에 안되는것 자체부터 모순 ㅋㅋ",
         "source": "fmkorea.com"
       },
       {
@@ -140,18 +146,12 @@
         "link": "https://www.clien.net/service/board/park/19180275",
         "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 ...",
         "source": "clien.net"
-      },
-      {
-        "title": "고유가지원금 짭페 어록 뜸",
-        "link": "https://bbs.ruliweb.com/community/board/300148/read/38548103",
-        "snippet": "https m ruliweb com community board 300800 read 6574 민생지원금도 효과 있다더니 편의점만 쓴다하소연 엔딩인데그리고 그때도 상인들이 자기들에게 안온다하소연 엔딩인데ㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-05-01T02:34:05.261221",
+    "timestamp": "2026-05-01T06:11:10.585408",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -217,16 +217,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 아이유,변우석 <21세기 대군부인> 짧은 영상",
-        "link": "https://theqoo.net/hot/3990147518",
-        "snippet": "이슈 아이유,변우석 &lt;21세기 대군부인&gt; 짧은 영상 · 45,961 266 · 무명의 더쿠 https://theqoo.net/square/3990147518 · 2025.11.13 20:47 · 45,961 266 · Up Down Comment Print Files · https://video.twimg.com/amplify_video/1988937407069106176/vid/avc1/1920x1080/vNavKdRfk...",
-        "source": "theqoo.net"
+        "title": "아이유 미니 조각집 그대네요 Clip with 변우석",
+        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/31750",
+        "snippet": "미니 조각집 그대네요 Clip with 변우석",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-05-01T02:34:07.747501",
+    "timestamp": "2026-05-01T06:11:13.189679",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -256,16 +256,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "더쿠 - 대단한 이정후 열풍 \"바람의 손자, 오라클 첫 홈런 아름다웠다\" 현지 매체 극찬",
-        "link": "https://theqoo.net/square/3193237816",
-        "snippet": "이정후는 <strong>21일(이하 한국시각) 미국 캘리포니아주 샌프란시스코 오라클파크서 열린 애리조나 다이아몬드백스와의 홈 경기에서 1번-중견수로 선발 출장해 1회말 첫 타석 홈런</strong>을 터뜨렸다. 자신의 메이저리그 두번째 홈런이자 ...",
-        "source": "theqoo.net"
-      },
-      {
         "title": "이정후, 첫 오라클 파크(홈구장) 홈런 : 클리앙",
         "link": "https://www.clien.net/service/board/park/18707168",
         "snippet": "약간 몰리긴헀지만 높은 쪽 제구 잘 된걸로 보이는데 잘 네요. 오라클파크 배리 본즈의 홈런 보다가 이정후선수 홈런 보니 감회가 새롭습니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "더쿠 - 대단한 이정후 열풍 \"바람의 손자, 오라클 첫 홈런 아름다웠다\" 현지 매체 극찬",
+        "link": "https://theqoo.net/square/3193237816",
+        "snippet": "이정후는 <strong>21일(이하 한국시각) 미국 캘리포니아주 샌프란시스코 오라클파크서 열린 애리조나 다이아몬드백스와의 홈 경기에서 1번-중견수로 선발 출장해 1회말 첫 타석 홈런</strong>을 터뜨렸다. 자신의 메이저리그 두번째 홈런이자 ...",
+        "source": "theqoo.net"
       },
       {
         "title": "이정후 리드오프 홈런ㅅㅅㅅㅅㅅㅅㅅ - 야구 - 에펨코리아",
@@ -292,16 +292,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "오늘자 이정후 타석 모음.gif - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9695033799",
-        "snippet": "하지만 이를 만회하는 시즌 첫 홈런 ㄷㄷㄷㄷ · 이정후는 원정이 더 잘맞는걸까? 올 시즌 원정 경기 OPS 1.145 · 홈경기 OPS 0.296 · 게시판 이력 · 포텐255방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 ·",
-        "source": "fmkorea.com"
+        "title": "이정후 연타석 홈런.gif - SSG 랜더스 갤러리",
+        "link": "https://m.dcinside.com/board/skwyverns_new1/4886862",
+        "snippet": "스포츠 카테고리로 분류된 SSG 랜더스 갤러리입니다. SSG 랜더스 갤러리에 다양한 이야기를 남겨주세요.",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-05-01T02:34:10.313731",
+    "timestamp": "2026-05-01T06:11:15.938565",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-05-01T02:34:12.873504",
+    "timestamp": "2026-05-01T06:11:18.810780",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -418,6 +418,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656938",
+        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
+        "source": "clien.net"
+      },
+      {
         "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18689525",
         "snippet": "<strong>몬테네그로</strong> 대법원이 &#x27;테라·루나&#x27; 사태의 핵심 인물인 권도형 씨에 대한 한국 송환 결정을 무효로 하며 미국행 가능성이 커졌습니다. 5일(현지시간) 현지 일간지 비예스티에 따르면 <strong>몬테네그로</strong> 대법원은 이날 권 씨에 대한 ...",
@@ -428,12 +434,6 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1349167",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
-      },
-      {
-        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656938",
-        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
-        "source": "clien.net"
       },
       {
         "title": "[속보] 몬테네그로 대법원, 권도형 한국행 보류 결정 : 클리앙",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-05-01T02:34:15.415333",
+    "timestamp": "2026-05-01T06:11:21.462789",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -511,22 +511,22 @@
         "source": "clien.net"
       },
       {
-        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19127030",
-        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
+        "title": "김민석 총리 자꾸만 의심스럽게 행동하면 안됩니다 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154360",
+        "snippet": "그래서 총리실에 그 조직을 만들어서 정부안을 기다렸고 근데 두번인나 실망스러운 안을 내놨어요. 여기에 머리채를 잡다니요? 대체 김민석 총리는 어떤 존재이길래 이런 안을 내놓고도 비판을 받으니 머리채잡는 다는 표현이 나오고 아래에는 악마화라는 분란적 단어가 나올까요?",
         "source": "clien.net"
       },
       {
-        "title": "총리실 입장 나왔네요. : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154700",
-        "snippet": "김민석 총리 4일동안 <strong>매일 저녁 중동상황 관계부처회의 열어서 상황 점검하고 국무회의도 열었어요</strong>.",
+        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19127030",
+        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-05-01T02:34:18.001385",
+    "timestamp": "2026-05-01T06:11:24.135753",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-05-01T02:34:20.560380",
+    "timestamp": "2026-05-01T06:11:26.815275",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -637,16 +637,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
-        "link": "https://m.dcinside.com/board/blackwhites2/119650",
-        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
-        "source": "dcinside.com"
-      },
-      {
         "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9307006635",
         "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
+        "link": "https://m.dcinside.com/board/blackwhites2/119650",
+        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
+        "source": "dcinside.com"
       },
       {
         "title": "손종원 논란 큰거 떴네 ㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-05-01T02:34:23.156475",
+    "timestamp": "2026-05-01T06:11:29.507293",
     "sentiment": {
       "positive": 50,
       "negative": 50
