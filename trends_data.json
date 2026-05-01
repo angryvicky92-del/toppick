@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-05-01T08:56:34.924545",
+    "timestamp": "2026-05-01T10:21:19.502684",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -33,7 +33,7 @@
       {
         "title": "아르테미스 2호 승무원 구출 중 찍힌 재밋는 사진..jpg - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9745029077",
-        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는 착수한 아르테미스 2호의 승무원들은 미 해군 ...",
+        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는데 착수한 아르테미스 2호의 승무원들은 미 ...",
         "source": "fmkorea.com"
       },
       {
@@ -61,22 +61,22 @@
         "source": "dcinside.com"
       },
       {
-        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19172503",
-        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
-        "source": "clien.net"
-      },
-      {
         "title": "아르테미스 2호 달 뒷면 관측은 국내 언론사들 오보 수준임",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/74744733",
         "snippet": "YTN이 육안으로는 처음으로 ... 육안으로 목격했다면서 기사 내는데 이미 <strong>1968년에 인류 최초로 달을 한바퀴 돌아서 지구로 귀환</strong>한 ......",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19172503",
+        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-05-01T08:56:37.545239",
+    "timestamp": "2026-05-01T10:21:22.179423",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,21 +118,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "‘고유가 피해지원금’ 대상 확인…네이버·카톡으로 안내받을 수 있어 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9742513946",
-        "snippet": "이름이 고유가 피해지원금인데 연매출30억 이하 주유소에서만 사용할수 있어서 사용가능한 주유소가 전국에 42%정도밖에 안되는것 자체부터 모순 ㅋㅋ",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "야 근데 의외로 고유가 지원금 사용가능 붙은데 별로없음 - 기초생활수급자 마이너 갤러리",
         "link": "https://m.dcinside.com/board/livelihood/111439",
         "snippet": "오늘 쓰러 나갔는데 편의점 딱 한군대만 <strong>고유가 지원금</strong> 사용매장이라고스티커나 크게 붙어 있고 나머지 매장은 그냥 그런것도 없음특히 요즘 프렌차이즈들 매장에서 직접결제 하는곳보다키오스크 매장이 더많아서기생수인거 들키기 싫",
         "source": "dcinside.com"
       },
       {
-        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9765290543",
-        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
+        "title": "‘고유가 피해지원금’ 대상 확인…네이버·카톡으로 안내받을 수 있어 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9742513946",
+        "snippet": "이름이 고유가 피해지원금인데 연매출30억 이하 주유소에서만 사용할수 있어서 사용가능한 주유소가 전국에 42%정도밖에 안되는것 자체부터 모순 ㅋㅋ",
         "source": "fmkorea.com"
       },
       {
@@ -142,16 +136,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19180275",
-        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 ...",
-        "source": "clien.net"
+        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9765290543",
+        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "고유가지원금 짭페 어록 뜸",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38548103",
+        "snippet": "https m ruliweb com community board 300800 read 6574 민생지원금도 효과 있다더니 편의점만 쓴다하소연 엔딩인데그리고 그때도 상인들이 자기들에게 안온다하소연 엔딩인데ㅋㅋㅋㅋ",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-05-01T08:56:40.188452",
+    "timestamp": "2026-05-01T10:21:24.864460",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -205,16 +205,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
-        "link": "https://theqoo.net/hot/4045919114",
-        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
-      },
-      {
         "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
         "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
         "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
+        "link": "https://theqoo.net/hot/4045919114",
+        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 아이유,변우석 <21세기 대군부인> 짧은 영상",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-05-01T08:56:42.725441",
+    "timestamp": "2026-05-01T10:21:27.492748",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-05-01T08:56:45.377953",
+    "timestamp": "2026-05-01T10:21:30.233722",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-05-01T08:56:48.077140",
+    "timestamp": "2026-05-01T10:21:32.974700",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -418,21 +418,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18689525",
-        "snippet": "<strong>몬테네그로</strong> 대법원이 &#x27;테라·루나&#x27; 사태의 핵심 인물인 권도형 씨에 대한 한국 송환 결정을 무효로 하며 미국행 가능성이 커졌습니다. 5일(현지시간) 현지 일간지 비예스티에 따르면 <strong>몬테네그로</strong> 대법원은 이날 권 씨에 대한 ...",
-        "source": "clien.net"
-      },
-      {
         "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18656938",
         "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
         "source": "clien.net"
       },
       {
-        "title": "[속보] 몬테네그로 대법원, 권도형 한국행 보류 결정 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18656927",
-        "snippet": "<strong>몬테네그로</strong> 대법원은 22일(현지시간) 대검찰청의 적법성 판단 요청에 대한 결정이 나올 때까지 권씨의 한국 송환을 보류하기로 했다고 공식 홈페이지를 통해 밝혔다.",
+        "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18689525",
+        "snippet": "<strong>몬테네그로</strong> 대법원이 &#x27;테라·루나&#x27; 사태의 핵심 인물인 권도형 씨에 대한 한국 송환 결정을 무효로 하며 미국행 가능성이 커졌습니다. 5일(현지시간) 현지 일간지 비예스티에 따르면 <strong>몬테네그로</strong> 대법원은 이날 권 씨에 대한 ...",
         "source": "clien.net"
       },
       {
@@ -440,6 +434,12 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1349167",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[속보] 몬테네그로 대법원, 권도형 한국행 보류 결정 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18656927",
+        "snippet": "<strong>몬테네그로</strong> 대법원은 22일(현지시간) 대검찰청의 적법성 판단 요청에 대한 결정이 나올 때까지 권씨의 한국 송환을 보류하기로 했다고 공식 홈페이지를 통해 밝혔다.",
+        "source": "clien.net"
       },
       {
         "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-05-01T08:56:50.675431",
+    "timestamp": "2026-05-01T10:21:35.638838",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -511,22 +511,22 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 총리 자꾸만 의심스럽게 행동하면 안됩니다 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154360",
-        "snippet": "그래서 총리실에 그 조직을 만들어서 정부안을 기다렸고 근데 두번인나 실망스러운 안을 내놨어요. 여기에 머리채를 잡다니요? 대체 김민석 총리는 어떤 존재이길래 이런 안을 내놓고도 비판을 받으니 머리채잡는 다는 표현이 나오고 아래에는 악마화라는 분란적 단어가 나올까요?",
-        "source": "clien.net"
-      },
-      {
         "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19127030",
         "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
+        "source": "clien.net"
+      },
+      {
+        "title": "총리실 입장 나왔네요. : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154700",
+        "snippet": "김민석 총리 4일동안 <strong>매일 저녁 중동상황 관계부처회의 열어서 상황 점검하고 국무회의도 열었어요</strong>.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-05-01T08:56:53.312921",
+    "timestamp": "2026-05-01T10:21:38.368310",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-05-01T08:56:55.931120",
+    "timestamp": "2026-05-01T10:21:41.036568",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-05-01T08:56:58.544335",
+    "timestamp": "2026-05-01T10:21:43.690668",
     "sentiment": {
       "positive": 50,
       "negative": 50
