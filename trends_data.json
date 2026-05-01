@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-05-01T16:51:21.597533",
+    "timestamp": "2026-05-01T17:54:47.042526",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -43,16 +43,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호 승무원 구출 중 찍힌 재밋는 사진..jpg - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9745029077",
-        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는데 착수한 아르테미스 2호의 승무원들은 미 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
         "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
         "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
         "source": "dcinside.com"
+      },
+      {
+        "title": "아르테미스 2호 승무원 구출 중 찍힌 재밋는 사진..jpg - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9745029077",
+        "snippet": "<strong>4월 1일에 발사된 달 탐사선 아르테미스 2호 그들은 10일동안 임무를 수행하고 지구로 귀환했음</strong>. 지구로 귀환할때는 이렇기 바다로 착수하는데 착수한 아르테미스 2호의 승무원들은 미 ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "\"내려다보니 하나의 인류\"..'아르테미스 2호' 우주서 소감 - 실시간 베스트 갤러리",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-05-01T16:51:24.257482",
+    "timestamp": "2026-05-01T17:54:50.038247",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -124,6 +124,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9765290543",
+        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "‘고유가 피해지원금’ 대상 확인…네이버·카톡으로 안내받을 수 있어 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9742513946",
         "snippet": "이름이 고유가 피해지원금인데 연매출30억 이하 주유소에서만 사용할수 있어서 사용가능한 주유소가 전국에 42%정도밖에 안되는것 자체부터 모순 ㅋㅋ",
@@ -136,12 +142,6 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9765290543",
-        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "고유가지원금 짭페 어록 뜸",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38548103",
         "snippet": "https m ruliweb com community board 300800 read 6574 민생지원금도 효과 있다더니 편의점만 쓴다하소연 엔딩인데그리고 그때도 상인들이 자기들에게 안온다하소연 엔딩인데ㅋㅋㅋㅋ",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-05-01T16:51:26.909755",
+    "timestamp": "2026-05-01T17:54:52.730014",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-05-01T16:51:29.497712",
+    "timestamp": "2026-05-01T17:54:55.368262",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-05-01T16:51:32.166733",
+    "timestamp": "2026-05-01T17:54:58.072935",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-05-01T16:51:34.852442",
+    "timestamp": "2026-05-01T17:55:00.840907",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -418,15 +418,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656938",
-        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18689525",
         "snippet": "<strong>몬테네그로</strong> 대법원이 &#x27;테라·루나&#x27; 사태의 핵심 인물인 권도형 씨에 대한 한국 송환 결정을 무효로 하며 미국행 가능성이 커졌습니다. 5일(현지시간) 현지 일간지 비예스티에 따르면 <strong>몬테네그로</strong> 대법원은 이날 권 씨에 대한 ...",
+        "source": "clien.net"
+      },
+      {
+        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656938",
+        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
         "source": "clien.net"
       },
       {
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-05-01T16:51:37.508341",
+    "timestamp": "2026-05-01T17:55:03.564157",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -511,22 +511,22 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 총리 자꾸만 의심스럽게 행동하면 안됩니다 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154360",
-        "snippet": "그래서 총리실에 그 조직을 만들어서 정부안을 기다렸고 근데 두번인나 실망스러운 안을 내놨어요. 여기에 머리채를 잡다니요? 대체 김민석 총리는 어떤 존재이길래 이런 안을 내놓고도 비판을 받으니 머리채잡는 다는 표현이 나오고 아래에는 악마화라는 분란적 단어가 나올까요?",
-        "source": "clien.net"
-      },
-      {
         "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19127030",
         "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
+        "source": "clien.net"
+      },
+      {
+        "title": "총리실 입장 나왔네요. : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154700",
+        "snippet": "김민석 총리 4일동안 <strong>매일 저녁 중동상황 관계부처회의 열어서 상황 점검하고 국무회의도 열었어요</strong>.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-05-01T16:51:40.223406",
+    "timestamp": "2026-05-01T17:55:06.304908",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-05-01T16:51:42.914932",
+    "timestamp": "2026-05-01T17:55:08.996472",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-05-01T16:51:45.625689",
+    "timestamp": "2026-05-01T17:55:11.708959",
     "sentiment": {
       "positive": 50,
       "negative": 50
