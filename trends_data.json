@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-05-01T14:50:06.324802",
+    "timestamp": "2026-05-01T15:52:19.783719",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-05-01T14:50:09.093007",
+    "timestamp": "2026-05-01T15:52:22.462219",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-05-01T14:50:11.855323",
+    "timestamp": "2026-05-01T15:52:25.207246",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-05-01T14:50:14.561075",
+    "timestamp": "2026-05-01T15:52:27.755477",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-05-01T14:50:17.273245",
+    "timestamp": "2026-05-01T15:52:30.419057",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-05-01T14:50:20.001383",
+    "timestamp": "2026-05-01T15:52:33.112686",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-05-01T14:50:22.753327",
+    "timestamp": "2026-05-01T15:52:35.784437",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-05-01T14:50:25.507762",
+    "timestamp": "2026-05-01T15:52:38.465262",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-05-01T14:50:28.293341",
+    "timestamp": "2026-05-01T15:52:41.148061",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -643,16 +643,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
-        "link": "https://m.dcinside.com/board/blackwhites2/119650",
-        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
-        "source": "dcinside.com"
-      },
-      {
         "title": "손종원 논란 큰거 떴네 ㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9319528289",
         "snippet": "임성근: 선재스님 앞에서 오 주여 라고 함 <strong>손종원</strong>: 정관스님한테 메리 크리스마스 라고 함 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
+        "link": "https://m.dcinside.com/board/blackwhites2/119650",
+        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
+        "source": "dcinside.com"
       },
       {
         "title": "손종원 셰프가 냉부 출연 초기에 남겼던 글 - 포텐 터짐 최신순 - 에펨코리아",
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-05-01T14:50:30.973475",
+    "timestamp": "2026-05-01T15:52:43.828582",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -706,6 +706,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=381929",
+        "snippet": "- 한-이집트 정상회담 · - [포토] 한-이집트 정상 공동언론발표 · - [속보]이재명 대통령 &quot;한-이집트 문화협력 MOU 체결 · - dc official App · - 이집트 방문한 이재명 대통령 “나일강의 기적 돕겠다” ·",
+        "source": "dcinside.com"
+      },
+      {
         "title": "[명연설] 이재명 상대원 시장 연설 전문 ㅠㅜ : 클리앙",
         "link": "https://www.clien.net/service/board/park/17050974",
         "snippet": "여기 많은 분들이 아시겠지만, 여기가 바로 이재명과 그의 가족들이 생계를 유지했던 곳입니다. <strong>1976년 2월 23일</strong> 눈비 내리는 새벽에 저기 구종점 단대 오거리에 내려가지고, 짐 싸들고 여기를 걸어 올라와서 우리가 새해 들어 ...",
@@ -721,12 +727,6 @@
         "title": "이재명 마이너 갤러리 - 커뮤니티 포털 디시인사이드",
         "link": "http://gall.dcinside.com/mgallery/board/lists/?id=leejaemyung",
         "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다. 이재명 대통령을 지지하는 분들을 환영합니다. - 이재명 갤러리에 다양한 이야기를 남겨주세요.",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=381929",
-        "snippet": "- 한-이집트 정상회담 · - [포토] 한-이집트 정상 공동언론발표 · - [속보]이재명 대통령 &quot;한-이집트 문화협력 MOU 체결 · - dc official App · - 이집트 방문한 이재명 대통령 “나일강의 기적 돕겠다” ·",
         "source": "dcinside.com"
       },
       {
