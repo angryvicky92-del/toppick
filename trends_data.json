@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-05-01T23:45:40.752433",
+    "timestamp": "2026-05-02T02:09:57.873677",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-05-01T23:45:43.375010",
+    "timestamp": "2026-05-02T02:10:00.499211",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -97,12 +97,6 @@
         "title": "고유가 지원금 50만원 받는다고 뭐라하는 얘기가 좀 보이던데",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/74979050",
         "snippet": "지금은 기초 차상위 계층이 받는 기간이고이거 자격 되는 사람들은저 정도 받아야 겨우 생활 가능한 사람이니왜 이렇게 많이 주느니 어쩌구 하지 말도록",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "고유가 지원금인데 주유소는 못 쓴다첫날부터 혼선",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3739278",
-        "snippet": "<strong>고유가 지원금</strong> 인데 주유소는 못 쓴다 첫날부터 혼선",
         "source": "ruliweb.com"
       },
       {
@@ -130,6 +124,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "고유가 지원금인데 주유소는 못 쓴다첫날부터 혼선",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3739278",
+        "snippet": "<strong>고유가 지원금</strong> 인데 주유소는 못 쓴다 첫날부터 혼선",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9765290543",
         "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-05-01T23:45:45.993528",
+    "timestamp": "2026-05-02T02:10:03.251852",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -205,10 +205,10 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
-        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
-        "source": "ruliweb.com"
+        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
+        "link": "https://theqoo.net/hot/4045919114",
+        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 포스터 공개💘",
@@ -217,16 +217,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
-        "link": "https://theqoo.net/hot/4045919114",
-        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
+        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
+        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
+        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-05-01T23:45:48.574414",
+    "timestamp": "2026-05-02T02:10:05.894412",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -292,16 +292,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "오늘자 이정후 타석 모음.gif - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9695033799",
-        "snippet": "하지만 이를 만회하는 시즌 첫 홈런 ㄷㄷㄷㄷ · 이정후는 원정이 더 잘맞는걸까? 올 시즌 원정 경기 OPS 1.145 · 홈경기 OPS 0.296 · 게시판 이력 · 포텐255방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 ·",
-        "source": "fmkorea.com"
+        "title": "더쿠 - [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
+        "link": "https://theqoo.net/kbaseball/3126040378",
+        "snippet": "스퀘어 키움) [홈런 영상] 애리조나전 이정후 2루타 1홈런 장타 폭발!│“처음엔 넘어간 줄 몰랐어요”│선발 투수 로건 웹도 깜짝 놀랐다│‘루키’니까 버스 타고 이동│이영미의 MLB스캠라이브",
+        "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-05-01T23:45:51.255206",
+    "timestamp": "2026-05-02T02:10:08.535540",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-05-01T23:45:53.944453",
+    "timestamp": "2026-05-02T02:10:11.182486",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-05-01T23:45:56.586773",
+    "timestamp": "2026-05-02T02:10:13.847911",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -481,15 +481,15 @@
         "source": "theqoo.net"
       },
       {
-        "title": "오늘 김민석 총리 발언 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154126",
-        "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
-        "source": "clien.net"
-      },
-      {
         "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19149618",
         "snippet": "국무회의 보시면 아시겠지만 대통령은 잘 하는 분들에게만 칭찬해요 빈말 안 합니다. ... 상식적으로 생각해봐도 총리가 자기 돋보이려고 돌아다니면서 생중계를 하는데 그걸 대통령이 가만히 보고 있겠습니까? 그리고 저 라이브를 한번이라도 봤다면 국정홍보를 하는 자리인거 압니다. 그런데 최강욱은 밑도끝도없이 김민석이 돋보이려고 돌아다닌다고 악마화하고 거기에 동조하는게 맞아요?",
+        "source": "clien.net"
+      },
+      {
+        "title": "오늘 김민석 총리 발언 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154126",
+        "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
         "source": "clien.net"
       },
       {
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-05-01T23:45:59.326752",
+    "timestamp": "2026-05-02T02:10:16.545946",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-05-01T23:46:02.026600",
+    "timestamp": "2026-05-02T02:10:19.219438",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -637,10 +637,10 @@
         "source": "dcinside.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9307006635",
-        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
-        "source": "fmkorea.com"
+        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
+        "link": "https://m.dcinside.com/board/blackwhites2/119650",
+        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
+        "source": "dcinside.com"
       },
       {
         "title": "손종원 논란 큰거 떴네 ㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -649,15 +649,9 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
-        "link": "https://m.dcinside.com/board/blackwhites2/119650",
-        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "손종원 셰프가 냉부 출연 초기에 남겼던 글 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9478570371",
-        "snippet": "사람 인상이나 호감도가 참 중요하다고 느낀게 선재스님 옆에 <strong>손종원</strong>셰프있으면 두 명 그림이 그렇게 보기가 좋더라 특이한 선배 셰프한테 속세에 대해서 알려주는 느좋 후배 셰프 이런 구도가 그냥 보기 그림이 좋음",
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9307006635",
+        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
       },
       {
@@ -667,16 +661,22 @@
         "source": "dcinside.com"
       },
       {
-        "title": "손종원 셰프는 왜 결혼안했을까? - 스타크래프트 - 에펨코리아",
-        "link": "https://www.fmkorea.com/9284773801",
-        "snippet": "실력도 탑 외모도 출중하고 키도큰데",
+        "title": "손종원 셰프가 냉부 출연 초기에 남겼던 글 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9478570371",
+        "snippet": "사람 인상이나 호감도가 참 중요하다고 느낀게 선재스님 옆에 <strong>손종원</strong>셰프있으면 두 명 그림이 그렇게 보기가 좋더라 특이한 선배 셰프한테 속세에 대해서 알려주는 느좋 후배 셰프 이런 구도가 그냥 보기 그림이 좋음",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "흑백요리사 손종원 셰프 식당에 방문한 아이브 장원영 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9382161078",
+        "snippet": "<strong>손종원</strong>님 요리도잘해 잘생겼어 키도 커 로맨티스트야 완벽하신데 왜 결혼안하실까",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-05-01T23:46:04.697335",
+    "timestamp": "2026-05-02T02:10:21.910351",
     "sentiment": {
       "positive": 50,
       "negative": 50
