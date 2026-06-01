@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-06-01T11:28:55.247059",
+    "timestamp": "2026-06-01T17:26:31.270588",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -55,12 +55,6 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9670717077",
-        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "\"내려다보니 하나의 인류\"..'아르테미스 2호' 우주서 소감 - 실시간 베스트 갤러리",
         "link": "https://m.dcinside.com/board/dcbest/418697",
         "snippet": "리드 와이즈먼 / 아르테미스 2호 우주비행사 (현지시간 3일) &quot;북극에서 남극까지 지구 전체를 한눈에 볼 수 있었습니다.",
@@ -71,12 +65,18 @@
         "link": "https://www.clien.net/service/board/park/19172503",
         "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
         "source": "clien.net"
+      },
+      {
+        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/coffee/563505",
+        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-06-01T11:28:58.015719",
+    "timestamp": "2026-06-01T17:26:34.166012",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -88,15 +88,15 @@
     ],
     "sources": [
       {
-        "title": "고유가 지원금 효과소상공인 5월 체감경기 상승",
-        "link": "https://bbs.ruliweb.com/news/board/1005/read/3753600",
-        "snippet": "<strong>고유가 지원금</strong> 효과 소상공인 5월 체감경기 상승",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 지원금 오늘부터 모든 주유소에서 쓴다",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3740517",
         "snippet": "<strong>고유가 지원금</strong> 오늘부터 모든 주유소에서 쓴다李 제한 해제 검토 지시 30억 초과 사용처 허용 국민 유류비 부담 완화 행정구역내 업소서 사용 서울신문",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 지원금 효과소상공인 5월 체감경기 상승",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3753600",
+        "snippet": "<strong>고유가 지원금</strong> 효과 소상공인 5월 체감경기 상승",
         "source": "ruliweb.com"
       },
       {
@@ -106,21 +106,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금으로 혼술",
-        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30698233",
-        "snippet": "가까운 친구도 여 사 친도 없을 땐 혼술이 최고죠ㅋㅋ정작 밖에서 술 마시면 병당 5천원 전후인데다특히 이자카야는 아무리 저렴한 곳이라도 가격대가 높아혼술하기 좀 부담스러운데 그래도 이번에 <strong>고유가 지원금</strong> 받았으니그걸로 51 700원어치나 먹었습니다ㅋㅋ원래는 53 700원이 될 뻔했는데마지막 짜계치가 양이 부족할 것 같아서2천원 더 내고 라면사리 추가하려고 했는데직원이 오더니짜계치는 짜파게티 2봉지 끓이는 거라고 직원이 아니었으면 졸지에",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9848662439",
         "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금 풀렸지만생활비엔 역부족 일회성 소비로",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3750899",
-        "snippet": "<strong>고유가 지원금</strong> 풀렸지만 생활비엔 역부족 일회성 소비로",
+        "title": "고유가 지원금으로 혼술",
+        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30698233",
+        "snippet": "가까운 친구도 여 사 친도 없을 땐 혼술이 최고죠ㅋㅋ정작 밖에서 술 마시면 병당 5천원 전후인데다특히 이자카야는 아무리 저렴한 곳이라도 가격대가 높아혼술하기 좀 부담스러운데 그래도 이번에 <strong>고유가 지원금</strong> 받았으니그걸로 51 700원어치나 먹었습니다ㅋㅋ원래는 53 700원이 될 뻔했는데마지막 짜계치가 양이 부족할 것 같아서2천원 더 내고 라면사리 추가하려고 했는데직원이 오더니짜계치는 짜파게티 2봉지 끓이는 거라고 직원이 아니었으면 졸지에",
         "source": "ruliweb.com"
       },
       {
@@ -146,12 +140,18 @@
         "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=1",
         "snippet": "국민비서 구삐로 16일 오후에 알림 받았네요.",
         "source": "ppomppu.co.kr"
+      },
+      {
+        "title": "고유가 지원금 50만원 받는다고 뭐라하는 얘기가 좀 보이던데",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/74979050",
+        "snippet": "지금은 기초 차상위 계층이 받는 기간이고이거 자격 되는 사람들은저 정도 받아야 겨우 생활 가능한 사람이니왜 이렇게 많이 주느니 어쩌구 하지 말도록",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-06-01T11:29:00.699320",
+    "timestamp": "2026-06-01T17:26:36.948972",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-06-01T11:29:03.330430",
+    "timestamp": "2026-06-01T17:26:39.573289",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -262,27 +262,21 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9828344085",
-        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694744433",
         "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 시범경기 홈런 스윙짤 - 야구",
-        "link": "https://www.fmkorea.com/8067983253",
-        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
+        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9828344085",
+        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 2025 시즌 첫 홈런.webp - 실시간 베스트 갤러리",
-        "link": "https://m.dcinside.com/board/dcbest/321629",
-        "snippet": "양키스 스트로먼 상대로 쓰리런 홈런 - 이정후 vs양키스 시즌1호 선제쓰리런★★★★★★★★★.webp- 장군님 인스스 입갤 ㅋㅋㅋ그립읍니다.. - 정후형 하위 졸스타 현지 반응.jpg그냥 완전히 만족한다고 보면 되는",
+        "title": "이정후 연타석 홈런.gif - SSG 랜더스 갤러리",
+        "link": "https://m.dcinside.com/board/skwyverns_new1/4886862",
+        "snippet": "스포츠 카테고리로 분류된 SSG 랜더스 갤러리입니다. SSG 랜더스 갤러리에 다양한 이야기를 남겨주세요.",
         "source": "dcinside.com"
       },
       {
@@ -292,16 +286,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "직관) 이정후 메이저리그 첫 홈런!!! - 포텐 터짐 최신순",
-        "link": "https://www.fmkorea.com/best/6871246827",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "title": "이정후 2025 시즌 첫 홈런.webp - 실시간 베스트 갤러리",
+        "link": "https://m.dcinside.com/board/dcbest/321629",
+        "snippet": "양키스 스트로먼 상대로 쓰리런 홈런 - 이정후 vs양키스 시즌1호 선제쓰리런★★★★★★★★★.webp- 장군님 인스스 입갤 ㅋㅋㅋ그립읍니다.. - 정후형 하위 졸스타 현지 반응.jpg그냥 완전히 만족한다고 보면 되는",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "이정후 시범경기 홈런 스윙짤 - 야구",
+        "link": "https://www.fmkorea.com/8067983253",
+        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-06-01T11:29:06.106380",
+    "timestamp": "2026-06-01T17:26:42.551338",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-06-01T11:29:08.847754",
+    "timestamp": "2026-06-01T17:26:45.402510",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -400,16 +400,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656033",
-        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "싱글벙글 루나코인 권도형 근황 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=209735",
         "snippet": "<strong>몬테네그로</strong> 법원이 가상화폐 ‘테라·루나’ 폭락 사태의 핵심 인물인 권도형(32) 테라폼랩스 대표에 대해 미국 송환을 결정했다고 현지 일간지 포베다가 21일(현지시간) 보도했다.",
         "source": "dcinside.com"
+      },
+      {
+        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
+        "link": "https://bbs.ruliweb.com/sports/board/300276/read/3727447",
+        "snippet": "원기사: [오피셜] 인천 무고사, <strong>몬테네그로</strong> 국대 은퇴 선언…&quot;세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기&quot;",
+        "source": "ruliweb.com"
       },
       {
         "title": "뭐죠. 방금속보 떴는데 몬테네그로 헌재가 권도형 범죄인 인도집행정지를... : 클리앙",
@@ -422,12 +422,6 @@
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
         "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
         "source": "dcinside.com"
-      },
-      {
-        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3727447",
-        "snippet": "원기사: [오피셜] 인천 무고사, <strong>몬테네그로</strong> 국대 은퇴 선언…&quot;세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기&quot;",
-        "source": "ruliweb.com"
       },
       {
         "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
@@ -446,12 +440,18 @@
         "link": "https://www.fmkorea.com/3230221063",
         "snippet": "1기2기3기그리고 드디어 출범한 4기",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18689525",
+        "snippet": "<strong>몬테네그로</strong> 대법원이 &#x27;테라·루나&#x27; 사태의 핵심 인물인 권도형 씨에 대한 한국 송환 결정을 무효로 하며 미국행 가능성이 커졌습니다. 5일(현지시간) 현지 일간지 비예스티에 따르면 <strong>몬테네그로</strong> 대법원은 이날 권 씨에 대한 ...",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-06-01T11:29:11.596138",
+    "timestamp": "2026-06-01T17:26:48.111012",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-06-01T11:29:14.354585",
+    "timestamp": "2026-06-01T17:26:50.836929",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-06-01T11:29:17.625674",
+    "timestamp": "2026-06-01T17:26:53.726446",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-06-01T11:29:20.396440",
+    "timestamp": "2026-06-01T17:26:56.519486",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -706,16 +706,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "남아공 대통령 회담 윤석열 VS 이재명 비교사진 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19005817",
-        "snippet": "윤...진짜 국민의 한사람으로써 쪽팔리네요.. 이재명 대통령님께서 국격을 한층 올려주시리라 믿습니다.. ... 흑 형님 노려보는 눈에서 레이저 나오네요 정상회담자리 아니었으면 주먹으로 윤 턱 돌아갔을듯",
-        "source": "clien.net"
-      },
-      {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
         "link": "https://theqoo.net/hot/3963756857",
         "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
         "source": "theqoo.net"
+      },
+      {
+        "title": "남아공 대통령 회담 윤석열 VS 이재명 비교사진 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19005817",
+        "snippet": "윤...진짜 국민의 한사람으로써 쪽팔리네요.. 이재명 대통령님께서 국격을 한층 올려주시리라 믿습니다.. ... 흑 형님 노려보는 눈에서 레이저 나오네요 정상회담자리 아니었으면 주먹으로 윤 턱 돌아갔을듯",
+        "source": "clien.net"
       },
       {
         "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
@@ -725,8 +725,8 @@
       },
       {
         "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
-        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 ...",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
       },
       {
