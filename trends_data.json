@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-06-02T16:49:01.480487",
+    "timestamp": "2026-06-02T20:04:57.340999",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -67,16 +67,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/coffee/563505",
-        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
-        "source": "dcinside.com"
+        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19172503",
+        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-06-02T16:49:04.141667",
+    "timestamp": "2026-06-02T20:05:00.026971",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-06-02T16:49:06.747836",
+    "timestamp": "2026-06-02T20:05:02.681657",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -187,21 +187,9 @@
         "source": "dcinside.com"
       },
       {
-        "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=430177",
-        "snippet": "- 관련게시물 : 아이유, &#x27;대군부인&#x27; 심경고백..&quot;실망끼쳐 죄송, 내 잘못“ 울먹거려- 관련게시물 : &#x27;대군부인&#x27; 역사 왜곡 논란에도 판매 강행…후속 조치 통해 불편최소화- 변우석 사과문- &#x27;21세기 대군부",
-        "source": "dcinside.com"
-      },
-      {
         "title": "대군부인 변우석 아이유 목격담 올라옴 - 기타 국내 드라마 갤러리",
         "link": "https://m.dcinside.com/board/drama_new3/19903350?page=5",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "변우석아이유 양궁장 목격담 떳다 - 기타 국내 드라마 갤러리",
-        "link": "https://m.dcinside.com/board/drama_new3/19696672",
-        "snippet": "담엔 대군쀼 승마장 목격담이 뜨길ㅋㅋ",
         "source": "dcinside.com"
       },
       {
@@ -211,22 +199,34 @@
         "source": "theqoo.net"
       },
       {
-        "title": "우리 스타된다고자만한 대군부인 아이유변우석 역사왜곡 예고된 참사",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3747710",
-        "snippet": "우리 스타된다고 자만한 대군부인 <strong>아이유 변우석</strong> 역사왜곡 예고된 참사였다",
-        "source": "ruliweb.com"
+        "title": "변우석아이유 양궁장 목격담 떳다 - 기타 국내 드라마 갤러리",
+        "link": "https://m.dcinside.com/board/drama_new3/19696672",
+        "snippet": "담엔 대군쀼 승마장 목격담이 뜨길ㅋㅋ",
+        "source": "dcinside.com"
       },
       {
-        "title": "아이유 연기논란 분석 - 기타 국내 드라마 갤러리",
-        "link": "https://m.dcinside.com/board/drama_new3/22788874?page=2",
-        "snippet": "아이유 연기 논란, 그 이유는? #21세기대군부인 #대군부인 #대군부인리액션 #대군부인변우석 #대군부인아이유 · youtube.com · 모두 비슷하게 느끼네 · 독기 있고 치명적인 척 하는 역할이 안 어울림 ·",
+        "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=430177",
+        "snippet": "- 관련게시물 : 아이유, &#x27;대군부인&#x27; 심경고백..&quot;실망끼쳐 죄송, 내 잘못“ 울먹거려- 관련게시물 : &#x27;대군부인&#x27; 역사 왜곡 논란에도 판매 강행…후속 조치 통해 불편최소화- 변우석 사과문- &#x27;21세기 대군부",
         "source": "dcinside.com"
+      },
+      {
+        "title": "더쿠 - 유튜버 단군 대군부인 변우석 아이유 연기평.txt",
+        "link": "https://theqoo.net/hot/4172840491",
+        "snippet": "변우석씨 연기를 너무 못하시는데.. 저만 그렇게느껴요? 연기가 너무...심하던데.. 아니 그니까 적당.. 좀 과하.. 아 좀 너무 못하셔가지고.. 근데 아이유씨는 배역이 안어울리는 느낌?",
+        "source": "theqoo.net"
+      },
+      {
+        "title": "더쿠 - 21세기 대군부인 아이유 변우석 실제 덩치차이.JPG",
+        "link": "https://theqoo.net/hot/4180616302",
+        "snippet": "이슈 21세기 대군부인 <strong>아이유 변우석</strong> 실제 덩치차이.JPG · 83,313 422 · 무명의 더쿠 https://theqoo.net/square/4180616302 · 2026.04.27 19:51 · 83,313 422 · Up Down Comment Print Files · https://x.com/mbcdrama_pre/status/2048628205444292721?s=20 ·",
+        "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-06-02T16:49:09.238534",
+    "timestamp": "2026-06-02T20:05:05.267075",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -262,12 +262,6 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "첫타석부터 안타로 출루하는 이정후 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9901887027",
-        "snippet": "야구 잘모르는데 이정후는 뭔가 치면 정타로 맞는게 아니라 항상 밀려치는거 같은데...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 리드오프 홈런ㅅㅅㅅㅅㅅㅅㅅ - 야구 - 에펨코리아",
         "link": "https://www.fmkorea.com/index.php?document_srl=8808410231&cpage=6",
         "snippet": "그 인종차별파크 벗어나니 홈런을 까는구나 · 칰칰 2025.08.20 10:53 · 이정후 타순이 맨날바뀌네 ㅋㅋ · 조윌록보다윤일록 2025.08.20 10:53 · 이거 혹시 오라클에선 안 넘어감? 키움이정후 2025.08.20 10:55 · 조윌록보다윤일록 당연한걸ㅋㅋ · 첫사랑임병욱 ...",
@@ -280,28 +274,34 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "첫타석부터 안타로 출루하는 이정후 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9901887027",
+        "snippet": "야구 잘모르는데 이정후는 뭔가 치면 정타로 맞는게 아니라 항상 밀려치는거 같은데...",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "이정후 2025 시즌 첫 홈런.webp - 실시간 베스트 갤러리",
         "link": "https://m.dcinside.com/board/dcbest/321629",
         "snippet": "양키스 스트로먼 상대로 쓰리런 홈런 - 이정후 vs양키스 시즌1호 선제쓰리런★★★★★★★★★.webp- 장군님 인스스 입갤 ㅋㅋㅋ그립읍니다.. - 정후형 하위 졸스타 현지 반응.jpg그냥 완전히 만족한다고 보면 되는",
         "source": "dcinside.com"
       },
       {
-        "title": "이정후 시범경기 홈런 스윙짤 - 야구",
-        "link": "https://www.fmkorea.com/8067983253",
-        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 첫 타석 날타빼 2루타 ㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694584894",
         "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티 · Video 태그를 지원하지 않는 브라우저입니다",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시범경기 홈런 스윙짤 - 야구",
+        "link": "https://www.fmkorea.com/8067983253",
+        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-06-02T16:49:11.895999",
+    "timestamp": "2026-06-02T20:05:07.954772",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-06-02T16:49:14.543536",
+    "timestamp": "2026-06-02T20:05:10.659206",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-06-02T16:49:17.334735",
+    "timestamp": "2026-06-02T20:05:13.333100",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-06-02T16:49:19.968136",
+    "timestamp": "2026-06-02T20:05:16.042613",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -592,16 +592,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "이스라엘 나포된 구호단체 한국인의 정체 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9860079881",
-        "snippet": "솜뭉치 그래도 우방국 선진국 시민들이라서? 저런 애들 발포당해봐 한국에 이상한 단체들 바로 일어나서 피해자 코스프레하고 이스라엘 규탄 시위하겠지",
-        "source": "fmkorea.com"
+        "title": "이스라엘 하레디 근황",
+        "link": "https://m.ruliweb.com/community/board/300143/read/66717175",
+        "snippet": "하레디 징병 통과되니까 난리남 · 알아서 끌고 가라고 나와주네",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-06-02T16:49:22.614825",
+    "timestamp": "2026-06-02T20:05:18.752340",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -637,15 +637,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
-        "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
-        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "ㅅㅍ) 손종원 요리괴물 안성재 친분 TMI - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9331946631",
         "snippet": "손종원 요리괴물 호흡이 ... 티키타카손종원이 <strong>미국에서부터 안성재 존경하고 짱팬이었다함(흑백 전)요리괴물도 안성재,손종원 존경하는 롤모델 쉐프</strong> ......",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
+        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
       },
       {
@@ -655,16 +655,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈",
-        "link": "https://www.fmkorea.com/9307006635",
-        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "손종원 미적감각이 ㅈㄴ 변태 같긴하다 - 흑백요리사 시즌2 갤러리",
         "link": "https://m.dcinside.com/board/blackwhites2/75364?recommend=1",
         "snippet": "와 <strong>손종원</strong> 잘생기긴했네 말랑은하 · 이새끼 제발 고소해줬으면 좋겠으면 개추 흑갤러 · 진짜 눈물나게 GOAT면 개추 ... ㅇㅇ · 안성재 씹 구라쳤는데?.jpg ㅇㅇ · 임성근이 진짜 근본 순혈 한국인 요리사인 이유 흑갤러 ·",
         "source": "dcinside.com"
+      },
+      {
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈",
+        "link": "https://www.fmkorea.com/9307006635",
+        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
+        "source": "fmkorea.com"
       },
       {
         "title": "손종원 셰프가 김풍만 편애하는 이유",
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-06-02T16:49:25.192841",
+    "timestamp": "2026-06-02T20:05:21.480029",
     "sentiment": {
       "positive": 50,
       "negative": 50
