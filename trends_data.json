@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-06-04T03:28:17.983041",
+    "timestamp": "2026-06-04T08:14:46.187256",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -19,15 +19,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/war/4828798?page=2",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
-      },
-      {
         "title": "아르테미스2호 한국시간 오늘 아침 9시 지구 귀환 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420298",
         "snippet": "&#x27;아르테미스 Ⅱ&#x27; 오늘 지구 ... 유인 달 궤도 비행을 마친 &#x27;아르테미스 2호&#x27;(아르테미스Ⅱ)가 <strong>10일(현지시간)</strong> 지구로 돌아온다....",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/war/4828798?page=2",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
       },
       {
@@ -37,16 +37,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
-        "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9695291040",
         "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
+        "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "아르테미스2호 안에서의 생활은 어떠할까? - 실시간 베스트 갤러리",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-06-04T03:28:20.683278",
+    "timestamp": "2026-06-04T08:14:48.921815",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -130,16 +130,16 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu - 뽐뿌",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=1",
-        "snippet": "국민비서 구삐로 16일 오후에 알림 받았네요.",
-        "source": "ppomppu.co.kr"
-      },
-      {
         "title": "고유가지원금 신청률 대구 922 1위",
         "link": "https://bbs.ruliweb.com/pc/board/1005/read/3752755",
         "snippet": "고유가지원금 신청률 대구 92 2 1위",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu - 뽐뿌",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=1",
+        "snippet": "국민비서 구삐로 16일 오후에 알림 받았네요.",
+        "source": "ppomppu.co.kr"
       },
       {
         "title": "고유가 지원금 50만원 받는다고 뭐라하는 얘기가 좀 보이던데",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-06-04T03:28:23.465174",
+    "timestamp": "2026-06-04T08:14:51.673838",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-06-04T03:28:26.056982",
+    "timestamp": "2026-06-04T08:14:54.277430",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -256,15 +256,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "첫타석부터 안타로 출루하는 이정후 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9901887027",
         "snippet": "야구 잘모르는데 이정후는 뭔가 치면 정타로 맞는게 아니라 항상 밀려치는거 같은데...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-06-04T03:28:28.806893",
+    "timestamp": "2026-06-04T08:14:57.025696",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -313,15 +313,15 @@
     ],
     "sources": [
       {
-        "title": "세미파이브 공모주 청약정보 - 공모주 청약 갤러리",
-        "link": "https://m.dcinside.com/board/gongmozoo/74131?page=1",
-        "snippet": "오늘은 <strong>세미파이브</strong>의 청약일입니다. <strong>세미파이브</strong>는 올해 마지막 공모주입니다. 이익미실현 기업으로 테슬라 상장이라 6개월 환매청구권이 부여됩니다. 권리행사를 위해 배정받으신 계좌에서 이체나 출고를 하시면 안됩니다.",
-        "source": "dcinside.com"
-      },
-      {
         "title": "세미파이브 공모가 나왔네 - 공모주 청약 갤러리",
         "link": "https://m.dcinside.com/index.php/board/gongmozoo/74001",
         "snippet": "주관사 삼성증권청약일 18일 ~ 19일공모가 24,000원기관경쟁률 436.89:1의무보유확약 43.93%상장일 2025.12.29",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "세미파이브 공모주 청약정보 - 공모주 청약 갤러리",
+        "link": "https://m.dcinside.com/board/gongmozoo/74131?page=1",
+        "snippet": "오늘은 <strong>세미파이브</strong>의 청약일입니다. <strong>세미파이브</strong>는 올해 마지막 공모주입니다. 이익미실현 기업으로 테슬라 상장이라 6개월 환매청구권이 부여됩니다. 권리행사를 위해 배정받으신 계좌에서 이체나 출고를 하시면 안됩니다.",
         "source": "dcinside.com"
       },
       {
@@ -355,28 +355,28 @@
         "source": "inven.co.kr"
       },
       {
-        "title": "세미 리얼타임은 *** 힘든 장르인가봐",
-        "link": "https://bbs.ruliweb.com/etcs/board/300781/read/57680604",
-        "snippet": "템플릿이나 개발용 예제를 찾아 한번 보고 싶어도하나도 없네",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "왜 세미트럭(Semi-truck) 이라고 부를까요? : 클리앙",
         "link": "https://www.clien.net/service/board/cm_car/8284049",
         "snippet": "안녕하세요? 오늘도 월급루팡 중인 자유입니다. 어릴 때 Over the Top 이라는 영화를 봤습니다. 당연히 개봉관은 아니었고, 주말의 명화였겠죠. :) 1987년 영화이니, 벌써 30년 되었네요. 스텔론 리즈 시절이라고 볼 수 있겠습니다.",
         "source": "clien.net"
       },
       {
-        "title": "세미 코스프레 사진이요",
-        "link": "https://m.ruliweb.com/family/211/board/300544/read/1559392",
-        "snippet": "p 크림슨블루다리가 짧다p 마이가더네네 서코 토요일날 세미로 다녀왔습니다 비록 코스어가 돼지 뚱뚱보지만 캐릭터빨로 엄청나게 많이 찍히고 왔습니다 서코날 저 보신 분 ㅎㅎ",
+        "title": "세미 리얼타임은 *** 힘든 장르인가봐",
+        "link": "https://bbs.ruliweb.com/etcs/board/300781/read/57680604",
+        "snippet": "템플릿이나 개발용 예제를 찾아 한번 보고 싶어도하나도 없네",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "[펨코프로필 제작] 이세계아이돌 뉴 로고 - 숲(SOOP) - 에펨코리아",
+        "link": "https://www.fmkorea.com/9899766806",
+        "snippet": "싸인 없는 버전 싸인 있는 버전 #이세돌#왁",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-06-04T03:28:31.595534",
+    "timestamp": "2026-06-04T08:14:59.801517",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-06-04T03:28:34.312968",
+    "timestamp": "2026-06-04T08:15:02.554926",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-06-04T03:28:37.017875",
+    "timestamp": "2026-06-04T08:15:05.271564",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -574,15 +574,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이란 공격 이스라엘 전투기, 귀환 중 남은 폭탄 가자지구 투하\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/8608369887",
-        "snippet": "국제사회와 인권단체들은 민간인 희생과 민감한 지역에 대한 반복적인 공습이 국제법 위반에 해당할 수 있다고 지적하며 이스라엘 측의 책임을 묻고 있다.",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "NYT \"이스라엘, 글로벌 왕따가 되고 있다\" - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9883395906",
         "snippet": "실수를 솔직하게 인정하고 인권 침해에 대한 투명한 조사를 약속해야 한다. 민주주의 원칙을 지킬 때 비로소 국제사회의 신뢰를 회복하고 시간을 벌 수 있다. 두 가지 과제가 있다. 이스라엘 국민을 실제 위협에서 지키고, 안보와 민주주의가 함께 갈 수 있다는 점을 세계에 설득하는 것이다.",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이란 공격 이스라엘 전투기, 귀환 중 남은 폭탄 가자지구 투하\" - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/8608369887",
+        "snippet": "국제사회와 인권단체들은 민간인 희생과 민감한 지역에 대한 반복적인 공습이 국제법 위반에 해당할 수 있다고 지적하며 이스라엘 측의 책임을 묻고 있다.",
         "source": "fmkorea.com"
       },
       {
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-06-04T03:28:39.754307",
+    "timestamp": "2026-06-04T08:15:08.009125",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -637,15 +637,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
-        "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
-        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "ㅅㅍ) 손종원 요리괴물 안성재 친분 TMI - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9331946631",
         "snippet": "손종원 요리괴물 호흡이 ... 티키타카손종원이 <strong>미국에서부터 안성재 존경하고 짱팬이었다함(흑백 전)요리괴물도 안성재,손종원 존경하는 롤모델 쉐프</strong> ......",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
+        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
       },
       {
@@ -667,16 +667,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈",
-        "link": "https://www.fmkorea.com/9307006635",
-        "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
-        "source": "fmkorea.com"
+        "title": "더쿠 - 손종원? 유명하신 분이야?",
+        "link": "https://theqoo.net/square/4048462917",
+        "snippet": "유머 <strong>손종원</strong>? 유명하신 분이야? 98,716 282 · 무명의 더쿠 https://theqoo.net/square/4048462917 · 2026.01.02 00:03 · 98,716 282 · Up Down Comment Print Files · https://youtube.com/shorts/NrfUzojTb4w · 목록 스크랩 (9) 공유 · 댓글 282개 ·",
+        "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-06-04T03:28:42.466619",
+    "timestamp": "2026-06-04T08:15:10.805039",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -688,22 +688,10 @@
     ],
     "sources": [
       {
-        "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
-        "link": "https://theqoo.net/square/3866166686",
-        "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
-        "source": "theqoo.net"
-      },
-      {
         "title": "정상회담 짤 하나로 요약함 - 정치/시사 - 에펨코리아",
         "link": "https://www.fmkorea.com/8833209174",
         "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
-        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
-        "source": "dcinside.com"
       },
       {
         "title": "이재명 이집트 정상회담 의장대 사열 - 실시간 베스트 갤러리",
@@ -712,28 +700,28 @@
         "source": "dcinside.com"
       },
       {
-        "title": "남아공 대통령 회담 윤석열 VS 이재명 비교사진 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19005817",
-        "snippet": "윤...진짜 국민의 한사람으로써 쪽팔리네요.. 이재명 대통령님께서 국격을 한층 올려주시리라 믿습니다.. ... 흑 형님 노려보는 눈에서 레이저 나오네요 정상회담자리 아니었으면 주먹으로 윤 턱 돌아갔을듯",
-        "source": "clien.net"
-      },
-      {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
         "link": "https://theqoo.net/hot/3963756857",
         "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 남아공 대통령 회담 윤석열 VS 이재명 비교사진",
-        "link": "https://theqoo.net/hot/3789095158",
-        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
+        "title": "캄보디아남 멸망시키는 이재명 (한-라오스 정상회담) - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=388858",
+        "snippet": "캄대남들 세탁기까지 빼서 라오스로 이동바로 라오스 국가주석 불러다가형사사법공조, 범죄인인도 조약 mou 체결 ㅋㅋㅋ내가 산지직송될 라대남이면 개추 ㅋㅋㅋㅋㅋㅋ- 펌)갤주 팔짱끼는 라오스 국가주석- 한국 라오스랑 ...",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
+        "link": "https://theqoo.net/square/3866166686",
+        "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
         "source": "theqoo.net"
       },
       {
-        "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
-        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
-        "source": "ruliweb.com"
+        "title": "오늘자 핵인싸 이재명 해외 외교 현황(더쿠펌) : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19006530",
+        "snippet": "영국총리 캐나다 총리 인도총리 https://twitter.com/ANI/status/1935056776266928140?t=gNtaVvvGeq7Wn-5gFEFI6Q&amp;s=19 이재명 대통령 G7 친화력 https://twitter.com/SPRInforma/status/1935063231657296308?t=Yecg3jWIOmUyP3HZo8vGmw&amp;s=19 남아공 대통령과 올라오는 이재명 젤렌스키와 악수 룰라랑 같이 가는 이재명 GIF 브라질 대통령 https://twitter.com/jaem__cheese/status/1935075368886747264?t=iR6Fcv6qEbwuklvfl5AEKQ&amp;s=19 G7 확대세션 참석 왼쪽 영국 스타머 오른쪽 프랑스 마크롱 GIF 이재명에게 윙크 날리는 마크롱 (룰라가 이재명 대통령을 가리키며 뭐라고 했을까요?",
+        "source": "clien.net"
       },
       {
         "title": "이재명, '눈 떠 보니 후진국' (연설 전문) : 클리앙",
@@ -742,10 +730,22 @@
         "source": "clien.net"
       },
       {
+        "title": "외교천재 이재명",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "한미정상회담 요약 - 이재명 마이너 갤러리",
         "link": "https://m.dcinside.com/board/leejaemyung/1613683",
         "snippet": "대한민국 제21대 대통령 이재명을 지지하는 이재명 갤러리 입니다.",
         "source": "dcinside.com"
+      },
+      {
+        "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
+        "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
+        "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
+        "source": "82cook.com"
       }
     ]
   }
