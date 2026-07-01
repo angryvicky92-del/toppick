@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-07-01T05:18:05.006946",
+    "timestamp": "2026-07-01T09:35:47.221249",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-07-01T05:18:07.700250",
+    "timestamp": "2026-07-01T09:35:50.011327",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -130,28 +130,28 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19180275",
-        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
-        "source": "clien.net"
-      },
-      {
         "title": "고유가 피해지원금 2차 지급 대상자 선정 기준.jpeg : 클리앙",
         "link": "https://www.clien.net/service/board/park/19189158",
         "snippet": "아직 2차 신청이 안 되가지고 30%인지는 (?)는 18일에 나오겠네요",
         "source": "clien.net"
       },
       {
-        "title": "고유가 지원금 50만원 받는다고 뭐라하는 얘기가 좀 보이던데",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74979050",
-        "snippet": "지금은 기초 차상위 계층이 받는 기간이고이거 자격 되는 사람들은저 정도 받아야 겨우 생활 가능한 사람이니왜 이렇게 많이 주느니 어쩌구 하지 말도록",
-        "source": "ruliweb.com"
+        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19180275",
+        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
+        "source": "clien.net"
+      },
+      {
+        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9765290543",
+        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-07-01T05:18:10.379599",
+    "timestamp": "2026-07-01T09:35:52.783190",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -187,22 +187,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
-        "link": "https://theqoo.net/hot/4045919114",
-        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
-      },
-      {
         "title": "야구장 엔딩요정 아이유 변우석",
         "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
         "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
         "source": "ruliweb.com"
       },
       {
-        "title": "대군부인 변우석 아이유 목격담 올라옴 - 기타 국내 드라마 갤러리",
-        "link": "https://m.dcinside.com/board/drama_new3/19903350?page=5",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
+        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
+        "link": "https://theqoo.net/hot/4045919114",
+        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
       },
       {
         "title": "아이유 연기논란 분석 - 기타 국내 드라마 갤러리",
@@ -221,12 +215,18 @@
         "link": "https://theqoo.net/hot/4121065792",
         "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · 오는 4월 10일 첫 방송될 MBC 새 금토드라마 ‘21세기 대군부인’(극본 유지원/ 연출 박준화, 배희영) 측이 3월 10일 커플 포스터를 최초로 공개했다.",
         "source": "theqoo.net"
+      },
+      {
+        "title": "대군부인 변우석 아이유 목격담 올라옴 - 기타 국내 드라마 갤러리",
+        "link": "https://m.dcinside.com/board/drama_new3/19903350?page=5",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-07-01T05:18:13.051360",
+    "timestamp": "2026-07-01T09:35:55.493646",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -262,27 +262,27 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 첫 타석부터 2루타 ㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9999526321",
-        "snippet": "에휴 또 정후 앞에서 데버스랑 아다메스 쳐 죽고 정후 첫타자로 나오게생겼네 정후 최소 3번에 놔야지 아라에즈 앨드리지 이정후 이렇게 가야지 데버스 아다메스로 다 짤라먹고 이정후 6번 쳐놓고있네 ... 이정후 장타잘치는선수임? 포텐으로만 보는데 장타많이치는거같네요즘 야알못임 ... 이예준 홈런은 못 치는데 2루타는 꽤 많이 침 홈런이 적다보니 장타율은 평균 수준",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694744433",
         "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 리드오프 홈런ㅅㅅㅅㅅㅅㅅㅅ - 야구 - 에펨코리아",
-        "link": "https://www.fmkorea.com/index.php?document_srl=8808410231&cpage=6",
-        "snippet": "그 인종차별파크 벗어나니 홈런을 까는구나 · 칰칰 2025.08.20 10:53 · 이정후 타순이 맨날바뀌네 ㅋㅋ · 조윌록보다윤일록 2025.08.20 10:53 · 이거 혹시 오라클에선 안 넘어감? 키움이정후 2025.08.20 10:55 · 조윌록보다윤일록 당연한걸ㅋㅋ · 첫사랑임병욱 ...",
+        "title": "이정후 첫 타석부터 2루타 ㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9999526321",
+        "snippet": "에휴 또 정후 앞에서 데버스랑 아다메스 쳐 죽고 정후 첫타자로 나오게생겼네 정후 최소 3번에 놔야지 아라에즈 앨드리지 이정후 이렇게 가야지 데버스 아다메스로 다 짤라먹고 이정후 6번 쳐놓고있네 ... 이정후 장타잘치는선수임? 포텐으로만 보는데 장타많이치는거같네요즘 야알못임 ... 이예준 홈런은 못 치는데 2루타는 꽤 많이 침 홈런이 적다보니 장타율은 평균 수준",
         "source": "fmkorea.com"
       },
       {
         "title": "“킹~한민국! 짝짝 짝 짝 짝” 이정후 실시간 성적.stats - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9995623639",
         "snippet": "타율 0.331출루율 0.365장타율 0.470OPS 0.835wRC+ 135오늘 경기 4타석 3타수 2안타(1홈런) 1볼넷 1도루장타 어쩌고 홈런 쳐주고타출갭 어쩌고 볼넷 얻어주고 ...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 리드오프 홈런ㅅㅅㅅㅅㅅㅅㅅ - 야구 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=8808410231&cpage=6",
+        "snippet": "그 인종차별파크 벗어나니 홈런을 까는구나 · 칰칰 2025.08.20 10:53 · 이정후 타순이 맨날바뀌네 ㅋㅋ · 조윌록보다윤일록 2025.08.20 10:53 · 이거 혹시 오라클에선 안 넘어감? 키움이정후 2025.08.20 10:55 · 조윌록보다윤일록 당연한걸ㅋㅋ · 첫사랑임병욱 ...",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-07-01T05:18:15.829707",
+    "timestamp": "2026-07-01T09:35:58.205254",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-07-01T05:18:18.584992",
+    "timestamp": "2026-07-01T09:36:00.984519",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -412,16 +412,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
-        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "몬테네그로 vs 헝가리 꿀잼이었네",
         "link": "https://m.ruliweb.com/etcs/board/700155/read/28201",
         "snippet": "들어올 땐 마음대로인 루리웹 메인으로 들어오도록 해",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
+        "snippet": "드디어 빅토 얘네들이 감을 잡은 건가? 좀 애매했던 체르케스 업적 보상때랑 다르게 이번에 제대로 퍼주는듯?<strong>몬테네그로</strong>로 오스만 멸망시키는 업적 달성하면 뜨는 이벤트1번 선택지는 무기한이란 조건이 달려있긴 하지만 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - [속보] 몬테네그로 \"권도형 미국으로 범죄인 인도\"",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-07-01T05:18:21.253767",
+    "timestamp": "2026-07-01T09:36:03.716211",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-07-01T05:18:24.186663",
+    "timestamp": "2026-07-01T09:36:06.595579",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-07-01T05:18:26.870685",
+    "timestamp": "2026-07-01T09:36:09.389822",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-07-01T05:18:29.605541",
+    "timestamp": "2026-07-01T09:36:12.221179",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -700,27 +700,15 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "속보이재명 대통령 EU와 정상회담인공지능 양자기술 공동연구 확대",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3759128",
-        "snippet": "속보 이재명 대통령 EU와 정상회담 인공지능 양자기술 공동연구 확대",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "뽐뿌:정치자유게시판",
         "link": "https://m.ppomppu.co.kr/new/bbs_list.php?id=issue",
         "snippet": "국민의힘 안철수 이재명 당선 후 사흘째 트럼프와 통화 못해코리아 패싱 시...",
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
-        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "폴란드 헌재 자국 공산당에 해산 선고",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38366541",
-        "snippet": "이재명 지지율 60프로 세팅이 너무 티나잖아 솔직히 · 장보기 겁나는데…&quot;물가 안 올랐다&quot; 발표에 술렁 · 2차 소비쿠폰 재원 고민하는 지자체들… “재난기금 썼다가 문제되지 않을까” · 장경태 &quot;대본에 따라 연출된 녹화 인터뷰&quot; 엠빙신은 폭설뉴스 영상에 댓글창 닫았던데 ·",
+        "title": "속보이재명 대통령 EU와 정상회담인공지능 양자기술 공동연구 확대",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3759128",
+        "snippet": "속보 이재명 대통령 EU와 정상회담 인공지능 양자기술 공동연구 확대",
         "source": "ruliweb.com"
       },
       {
@@ -730,22 +718,34 @@
         "source": "clien.net"
       },
       {
+        "title": "외교천재 이재명",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
         "link": "https://theqoo.net/hot/3963756857",
         "snippet": "정치 이재명 대통령 경주 APEC 정상회담 일정 · 41,724 519 · 무명의 더쿠 https://theqoo.net/square/3963756857 · 2025.10.24 09:22 · 41,724 519 · Up Down Comment Print Files · 목록 스크랩 (0) 공유 · 댓글 519개 · 댓글 더 보기 ·",
         "source": "theqoo.net"
       },
       {
-        "title": "진행자..이재명 대표를 왜 안만나시나요??? : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18577272",
-        "snippet": "커뮤니티 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 B 직접홍보 ...",
-        "source": "clien.net"
-      },
-      {
         "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
         "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
         "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
         "source": "82cook.com"
+      },
+      {
+        "title": "더불어민주당 미친자때문에 밤사이 다들 고생이셨습니다",
+        "link": "https://m.ruliweb.com/userboard/board/700380/read/6042",
+        "snippet": "트럼프 이재명 정상회담 (개인적인 요약) 수꼴들이 떠받드는 트황상님께서 하신 말씀 · [속보]트럼프 &quot;이재명 대통령 백악관 방문 환영…선거 승리 축하&quot; 윤석열 방미 · BBC에서 평가한 한국 관세 협상.jpg ·",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "한국님덜 왜 폴란드만 힘을 주나요",
+        "link": "https://m.ruliweb.com/community/board/300143/read/68246080",
+        "snippet": "뭐야 왜 쟤만줘요 우리도 줘요",
+        "source": "ruliweb.com"
       }
     ]
   }
