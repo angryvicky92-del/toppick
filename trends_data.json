@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-07-02T06:35:29.772077",
+    "timestamp": "2026-07-02T09:56:32.530249",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-07-02T06:35:32.513485",
+    "timestamp": "2026-07-02T09:56:35.267005",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -124,8 +124,8 @@
         "source": "dcinside.com"
       },
       {
-        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=2",
+        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu - 뽐뿌",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=1",
         "snippet": "국민비서 구삐로 16일 오후에 알림 받았네요.",
         "source": "ppomppu.co.kr"
       },
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-07-02T06:35:35.236639",
+    "timestamp": "2026-07-02T09:56:38.008870",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-07-02T06:35:37.945076",
+    "timestamp": "2026-07-02T09:56:40.721798",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -268,15 +268,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 홈런 세레머니가 궁금했던 코칭스태프 ㅋㅋㅋ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9995646006",
         "snippet": "내일 대표팀 골넣고 기분좋게 이정후 세레머니로 화답하면 참 유쾌해질것같다",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-07-02T06:35:40.672928",
+    "timestamp": "2026-07-02T09:56:43.448046",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-07-02T06:35:43.421322",
+    "timestamp": "2026-07-02T09:56:46.201458",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-07-02T06:35:46.142995",
+    "timestamp": "2026-07-02T09:56:49.005280",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-07-02T06:35:48.878961",
+    "timestamp": "2026-07-02T09:56:51.798569",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -580,6 +580,12 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
+        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "이스라엘 하레디 근황",
         "link": "https://m.ruliweb.com/community/board/300143/read/66717175",
         "snippet": "하레디 징병 통과되니까 난리남 · 알아서 끌고 가라고 나와주네",
@@ -590,18 +596,12 @@
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38533161",
         "snippet": "강훈식 비서실장의 출장 성과에는 구체적 언급을 삼가 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
-        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
-        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-07-02T06:35:51.616428",
+    "timestamp": "2026-07-02T09:56:54.630492",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -643,12 +643,6 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "손종원 셰프 8살 연하 모델 여친에 빡친 판녀들 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://m.fmkorea.com/best/9459785012/9460032382",
-        "snippet": "<strong>손종원</strong> 착한줄 알았는데 8살 어린 모델 만나서 빡침",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
         "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
         "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
@@ -658,6 +652,12 @@
         "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈",
         "link": "https://www.fmkorea.com/9307006635",
         "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "손종원 셰프 8살 연하 모델 여친에 빡친 판녀들 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://m.fmkorea.com/best/9459785012/9460032382",
+        "snippet": "<strong>손종원</strong> 착한줄 알았는데 8살 어린 모델 만나서 빡침",
         "source": "fmkorea.com"
       },
       {
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-07-02T06:35:54.349293",
+    "timestamp": "2026-07-02T09:56:57.424000",
     "sentiment": {
       "positive": 50,
       "negative": 50
