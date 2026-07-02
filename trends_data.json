@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-07-02T15:10:01.789802",
+    "timestamp": "2026-07-02T17:40:14.366194",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-07-02T15:10:04.500553",
+    "timestamp": "2026-07-02T17:40:17.062524",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -124,8 +124,8 @@
         "source": "dcinside.com"
       },
       {
-        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=2",
+        "title": "고유가 피해지원금 비대상 안내 - 재테크포럼 - ppomppu - 뽐뿌",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=money&no=544113&page=1",
         "snippet": "국민비서 구삐로 16일 오후에 알림 받았네요.",
         "source": "ppomppu.co.kr"
       },
@@ -136,22 +136,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19180275",
-        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
-        "source": "clien.net"
-      },
-      {
         "title": "고유가 피해지원금 2차 지급 대상자 선정 기준.jpeg : 클리앙",
         "link": "https://www.clien.net/service/board/park/19189158",
         "snippet": "아직 2차 신청이 안 되가지고 30%인지는 (?)는 18일에 나오겠네요",
+        "source": "clien.net"
+      },
+      {
+        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19180275",
+        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-07-02T15:10:07.237534",
+    "timestamp": "2026-07-02T17:40:19.753927",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -181,6 +181,12 @@
         "source": "theqoo.net"
       },
       {
+        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
+        "link": "https://theqoo.net/hot/4045919114",
+        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
+      },
+      {
         "title": "더쿠 - 방금 블루레이 제작 무산 공지 뜬 드라마",
         "link": "https://theqoo.net/hot/4244780517",
         "snippet": "<strong>아이유 변우석</strong> 주연 &lt;21세기 대군부인&gt; 놀랍게도 취소없이 계속 추진중이었는데 여러 상황을 종합적으로 검토한 후에 무산하기로 했다 함",
@@ -191,12 +197,6 @@
         "link": "https://m.dcinside.com/board/drama_new3/22788874?page=2",
         "snippet": "아이유 연기 논란, 그 이유는? #21세기대군부인 #대군부인 #대군부인리액션 #대군부인변우석 #대군부인아이유 · youtube.com · 모두 비슷하게 느끼네 · 독기 있고 치명적인 척 하는 역할이 안 어울림 ·",
         "source": "dcinside.com"
-      },
-      {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
-        "link": "https://theqoo.net/hot/4045919114",
-        "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
       },
       {
         "title": "야구장 엔딩요정 아이유 변우석",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-07-02T15:10:09.968783",
+    "timestamp": "2026-07-02T17:40:22.456650",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-07-02T15:10:12.861863",
+    "timestamp": "2026-07-02T17:40:25.156140",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-07-02T15:10:15.623599",
+    "timestamp": "2026-07-02T17:40:27.870341",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-07-02T15:10:18.300965",
+    "timestamp": "2026-07-02T17:40:30.517041",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-07-02T15:10:21.001856",
+    "timestamp": "2026-07-02T17:40:33.188150",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -544,9 +544,9 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이스라엘군 성폭행 동원해 서안지구민 추방 작업 보고서 파장",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74925156",
-        "snippet": "&#x27;인권을 위한 의사회 이스라엘지부(PHR-I)&#x27;의 밀레나 안사리 점령지 부서장은 서안지구 내 성폭력 급증이 팔레스타인인에 대한 공격을 묵인하는 광범위한 불처벌 문화 속에서 발생하고 있다고 지적했다.",
+        "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
+        "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
         "source": "ruliweb.com"
       },
       {
@@ -554,12 +554,6 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=421309",
         "snippet": "단독 美, 李대통령 발언에 이란 테러에 맞선 이스라엘의 자위권 지지 이란, 美와 동맹에 항상 적대적 태도 체계적 인권 침해 맞서 이란 국민 인권 수호 테러 단체 맞서 이스라엘이 자국 방어할 권리 지지",
         "source": "dcinside.com"
-      },
-      {
-        "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
-        "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
-        "source": "ruliweb.com"
       },
       {
         "title": "NYT \"이스라엘, 글로벌 왕따가 되고 있다\" - 포텐 터짐 최신순 - 에펨코리아",
@@ -586,22 +580,28 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
+        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "전은수 대통령은 이스라엘 겨냥한게 아닌 보편적 인권 말한것",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38533161",
         "snippet": "강훈식 비서실장의 출장 성과에는 구체적 언급을 삼가 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
         "source": "ruliweb.com"
       },
       {
-        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
-        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
+        "title": "이스라엘 하레디 근황",
+        "link": "https://m.ruliweb.com/community/board/300143/read/66717175",
+        "snippet": "하레디 징병 통과되니까 난리남 · 알아서 끌고 가라고 나와주네",
         "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-07-02T15:10:23.781208",
+    "timestamp": "2026-07-02T17:40:35.897407",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-07-02T15:10:26.469183",
+    "timestamp": "2026-07-02T17:40:38.591977",
     "sentiment": {
       "positive": 50,
       "negative": 50
