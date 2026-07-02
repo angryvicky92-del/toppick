@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-07-02T20:58:07.452790",
+    "timestamp": "2026-07-02T22:08:01.333969",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -25,22 +25,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
-        "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
-        "source": "dcinside.com"
-      },
-      {
         "title": "아르테미스2호 한국시간 오늘 아침 9시 지구 귀환 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420298",
         "snippet": "&#x27;아르테미스 Ⅱ&#x27; 오늘 지구 ... 유인 달 궤도 비행을 마친 &#x27;아르테미스 2호&#x27;(아르테미스Ⅱ)가 <strong>10일(현지시간)</strong> 지구로 돌아온다....",
         "source": "dcinside.com"
       },
       {
-        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9698324015",
-        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-        "source": "fmkorea.com"
+        "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
+        "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
@@ -49,9 +43,9 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
+        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9698324015",
+        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
         "source": "fmkorea.com"
       },
       {
@@ -59,6 +53,12 @@
         "link": "https://m.dcinside.com/board/dcbest/418297",
         "snippet": "백업 시스템: ISS와 달리 <strong>지구로 즉시 귀환하는 것이 불가능</strong>하므로, 제어 컴퓨터와 통신 시스템은 2중, 3중의 예비 계획을 갖추고 있어 고장 시 즉시 대체 시스템이 작동합니다.",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9661906524",
+        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
+        "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-07-02T20:58:10.138195",
+    "timestamp": "2026-07-02T22:08:04.070372",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -130,28 +130,28 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19180275",
-        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
-        "source": "clien.net"
-      },
-      {
         "title": "고유가 피해지원금 2차 지급 대상자 선정 기준.jpeg : 클리앙",
         "link": "https://www.clien.net/service/board/park/19189158",
         "snippet": "아직 2차 신청이 안 되가지고 30%인지는 (?)는 18일에 나오겠네요",
         "source": "clien.net"
       },
       {
-        "title": "고유가 지원금 연봉커트 4340만 ㅅㅂ - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=428201",
-        "snippet": "정부가 <strong>소득 하위 70% 국민에 대해 18일부터 7월 3일까지 2차 고유가 피해지원금을 지급</strong>한다. 고유가 피해지원금 2차 지급 대상에서 고액자산가 약 250만 명은 제외된다.",
-        "source": "dcinside.com"
+        "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19180275",
+        "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
+        "source": "clien.net"
+      },
+      {
+        "title": "\"고유가 지원금 왜 한국인만 주나\"…이주민 인권단체, 인권위에 진정 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9765290543",
+        "snippet": "셀프서비스 뭔 헛소리임?ㅋㅋㅋ이번 지원금은 정작 세금 제일 많이 내는 소득 상위 30% 사람들은 전부 배제됐는데?",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-07-02T20:58:12.819083",
+    "timestamp": "2026-07-02T22:08:06.740696",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -181,16 +181,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "야구장 엔딩요정 아이유 변우석",
-        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
-        "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "더쿠 - 방금 블루레이 제작 무산 공지 뜬 드라마",
         "link": "https://theqoo.net/hot/4244780517",
         "snippet": "<strong>아이유 변우석</strong> 주연 &lt;21세기 대군부인&gt; 놀랍게도 취소없이 계속 추진중이었는데 여러 상황을 종합적으로 검토한 후에 무산하기로 했다 함",
         "source": "theqoo.net"
+      },
+      {
+        "title": "야구장 엔딩요정 아이유 변우석",
+        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
+        "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
@@ -217,16 +217,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "대군부인 변우석 아이유 목격담 올라옴 - 기타 국내 드라마 갤러리",
-        "link": "https://m.dcinside.com/board/drama_new3/19903350?page=5",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "title": "변우석아이유 양궁장 목격담 떳다 - 기타 국내 드라마 갤러리",
+        "link": "https://m.dcinside.com/board/drama_new3/19696672",
+        "snippet": "담엔 대군쀼 승마장 목격담이 뜨길ㅋㅋ",
         "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-07-02T20:58:15.471509",
+    "timestamp": "2026-07-02T22:08:09.390126",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-07-02T20:58:18.156545",
+    "timestamp": "2026-07-02T22:08:12.045575",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -320,7 +320,7 @@
       },
       {
         "title": "세미파이브 공모주 청약정보 - 공모주 청약 갤러리",
-        "link": "https://m.dcinside.com/board/gongmozoo/74131?page=1",
+        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74131",
         "snippet": "오늘은 <strong>세미파이브</strong>의 청약일입니다. <strong>세미파이브</strong>는 올해 마지막 공모주입니다. 이익미실현 기업으로 테슬라 상장이라 6개월 환매청구권이 부여됩니다. 권리행사를 위해 배정받으신 계좌에서 이체나 출고를 하시면 안됩니다.",
         "source": "dcinside.com"
       },
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-07-02T20:58:20.944530",
+    "timestamp": "2026-07-02T22:08:14.747183",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-07-02T20:58:23.609218",
+    "timestamp": "2026-07-02T22:08:17.387764",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-07-02T20:58:26.281671",
+    "timestamp": "2026-07-02T22:08:20.062156",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -550,16 +550,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
-        "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "미국, 이재명 발언에 “이스라엘의 자위권 지지” - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=421309",
         "snippet": "단독 美, 李대통령 발언에 이란 테러에 맞선 이스라엘의 자위권 지지 이란, 美와 동맹에 항상 적대적 태도 체계적 인권 침해 맞서 이란 국민 인권 수호 테러 단체 맞서 이스라엘이 자국 방어할 권리 지지",
         "source": "dcinside.com"
+      },
+      {
+        "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
+        "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
+        "source": "ruliweb.com"
       },
       {
         "title": "NYT \"이스라엘, 글로벌 왕따가 되고 있다\" - 포텐 터짐 최신순 - 에펨코리아",
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-07-02T20:58:28.957438",
+    "timestamp": "2026-07-02T22:08:22.748928",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-07-02T20:58:31.648071",
+    "timestamp": "2026-07-02T22:08:25.400441",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -712,10 +712,22 @@
         "source": "ppomppu.co.kr"
       },
       {
+        "title": "[단독] “이재명님 입장하셨습니다”…70명 모인 텔레그램방의 정체 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19132283",
+        "snippet": "[단독] “이재명님 입장하셨습니다”…70명 모인 텔레그램방의 정체 매일경제 대통령·장관·청장 등 총출동 방이름 ‘확장국무회의’로 개설 李대통령이 수시로 직접 질문 이견 사안 부처간 난상토론도 사실상 24시간 ...",
+        "source": "clien.net"
+      },
+      {
         "title": "외교천재 이재명",
         "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
         "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
+        "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
+        "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
+        "source": "82cook.com"
       },
       {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
@@ -724,28 +736,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "[단독] “이재명님 입장하셨습니다”…70명 모인 텔레그램방의 정체 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19132283",
-        "snippet": "[단독] “이재명님 입장하셨습니다”…70명 모인 텔레그램방의 정체 매일경제 대통령·장관·청장 등 총출동 방이름 ‘확장국무회의’로 개설 李대통령이 수시로 직접 질문 이견 사안 부처간 난상토론도 사실상 24시간 ...",
+        "title": "이재명 대표님께서 이 분 꼭 찾아달래요 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18879429",
+        "snippet": "커뮤니티 커뮤니티전체 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 ...",
         "source": "clien.net"
       },
       {
-        "title": "폴란드 헌재 자국 공산당에 해산 선고",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38366541",
-        "snippet": "이재명 지지율 60프로 세팅이 너무 티나잖아 솔직히 · 장보기 겁나는데…&quot;물가 안 올랐다&quot; 발표에 술렁 · 2차 소비쿠폰 재원 고민하는 지자체들… “재난기금 썼다가 문제되지 않을까” · 장경태 &quot;대본에 따라 연출된 녹화 인터뷰&quot; 엠빙신은 폭설뉴스 영상에 댓글창 닫았던데 ·",
+        "title": "한국님덜 왜 폴란드만 힘을 주나요",
+        "link": "https://m.ruliweb.com/community/board/300143/read/68246080",
+        "snippet": "뭐야 왜 쟤만줘요 우리도 줘요",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "진행자..이재명 대표를 왜 안만나시나요??? : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18577272",
-        "snippet": "커뮤니티 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 B 직접홍보 ...",
-        "source": "clien.net"
-      },
-      {
-        "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
-        "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
-        "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
-        "source": "82cook.com"
       }
     ]
   }
