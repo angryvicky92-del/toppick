@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-08-01T05:49:30.214509",
+    "timestamp": "2026-08-01T08:10:17.819427",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-08-01T05:49:32.933355",
+    "timestamp": "2026-08-01T08:10:20.497442",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-08-01T05:49:35.708743",
+    "timestamp": "2026-08-01T08:10:23.199368",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-08-01T05:49:38.407320",
+    "timestamp": "2026-08-01T08:10:25.995918",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -274,21 +274,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9828344085",
-        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970007565",
         "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 쓰리런 홈런 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ 시즌 6호 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10130805038",
-        "snippet": "샤브중독자 심각한 이정후의 담백한 현 상황.jpg https://m.fmkorea.com/best/10128037801 ㅋㅋㅋㅋㅋ ... 이 홈런이 32일만에 홈런때린건데 결국 시즌끝나면 조림돌림 당하는 베뎃에 적힌 성적에 수렴할꺼임",
+        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9828344085",
+        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
         "source": "fmkorea.com"
       },
       {
@@ -296,12 +290,18 @@
         "link": "https://bbs.ruliweb.com/sports/board/300276/read/3781396",
         "snippet": "https n news naver com article 001 0016214772 sid 104",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "이정후 쓰리런 홈런 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ 시즌 6호 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10130805038",
+        "snippet": "샤브중독자 심각한 이정후의 담백한 현 상황.jpg https://m.fmkorea.com/best/10128037801 ㅋㅋㅋㅋㅋ ... 이 홈런이 32일만에 홈런때린건데 결국 시즌끝나면 조림돌림 당하는 베뎃에 적힌 성적에 수렴할꺼임",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-08-01T05:49:41.124941",
+    "timestamp": "2026-08-01T08:10:28.649879",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-08-01T05:49:43.830993",
+    "timestamp": "2026-08-01T08:10:31.349144",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -394,14 +394,8 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[헝가리 vs 몬테네그로] 소보슬라이 곧바로 역전골까지 ㄷㄷ ...",
-        "link": "https://www.fmkorea.com/best/6413936677",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "몬테네그로 국명의 비밀jpg",
-        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=2&m=all&t=now",
+        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=6&m=all&t=now",
         "snippet": "<strong>몬테네그로</strong>의 국명은 · &#x27;검은 산&#x27;이라는 뜻이다 · &quot;마운트+니그로&quot; 진짜임 · 본토에서는 &#x27;츠르나 고라&#x27;라고 부르고 · 동유럽에서는 보통 이계열로 부르는데 · 이상하게 한국에서는 · 프랑스식 발음이 전해짐 ·",
         "source": "ruliweb.com"
       },
@@ -410,6 +404,12 @@
         "link": "https://m.dcinside.com/board/rome/1447617?recommend=1",
         "snippet": "<strong>몬테네그로</strong> 구 시대의 지식인이라 할 수 있는 성직자들조차 문맹이라 교육접근성 박살나고조폐가 뭔지도 모르며세금징수인을 죽이는 전통이 있고심지어 토지조세도 아니고 소비조세로 시작하는 해병-국가다.그나마 군사력은 체급에 비",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[헝가리 vs 몬테네그로] 소보슬라이 곧바로 역전골까지 ㄷㄷ ...",
+        "link": "https://www.fmkorea.com/best/6413936677",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
       },
       {
         "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-08-01T05:49:46.553258",
+    "timestamp": "2026-08-01T08:10:34.038041",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-08-01T05:49:49.217327",
+    "timestamp": "2026-08-01T08:10:36.813472",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -550,21 +550,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "전은수 대통령은 이스라엘 겨냥한게 아닌 보편적 인권 말한것",
-        "link": "https://bbs.ruliweb.com/community/board/300148/read/38533161",
-        "snippet": "강훈식 비서실장의 출장 성과에는 구체적 언급을 삼가 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "청와대 이스라엘 인권 침해 책임 유엔 결의안 기권에",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3733786",
         "snippet": "청와대 <strong>이스라엘 인권</strong> 침해 책임 유엔 결의안 기권에",
         "source": "ruliweb.com"
       },
       {
-        "title": "이스라엘군 성폭행 동원해 서안지구민 추방 작업 보고서 파장",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/74925156",
-        "snippet": "이스라엘 군인과 정착민들이 ... 밖으로 몰아내기 위해 <strong>젠더 폭력과 성폭력 및 성희롱을 수단으로 삼고 있다는 인권·법률 전문가들의 증언이 나왔다</strong>....",
+        "title": "전은수 대통령은 이스라엘 겨냥한게 아닌 보편적 인권 말한것",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38533161",
+        "snippet": "강훈식 비서실장의 출장 성과에는 구체적 언급을 삼가 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
         "source": "ruliweb.com"
       },
       {
@@ -586,22 +580,28 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이스라엘의 대응에 실망한 이재명 대통령 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19176024",
-        "snippet": "李 “어떤 상황서도 국제법 준수해야”…인권 강조 · 이스라엘 외교부 메시지에 대한 우리 외교부 메시지:",
-        "source": "clien.net"
-      },
-      {
         "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
         "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420475",
+        "snippet": "- 관련게시물 : 이재명...이스라엘 전쟁 범죄 규탄ㅋㅋㅋㅋㅋ- 관련게시물 : 이스라엘, 이재명 발언 “용납 못해”- 관련게시물 : 이재명 트위터 근황 (실제상황임)휴전하자는데도 레바논 때려서휴전 깽판쳐, 전세계 유가",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "이스라엘의 대응에 실망한 이재명 대통령 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19176024",
+        "snippet": "李 “어떤 상황서도 국제법 준수해야”…인권 강조 · 이스라엘 외교부 메시지에 대한 우리 외교부 메시지:",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-08-01T05:49:51.921220",
+    "timestamp": "2026-08-01T08:10:39.503458",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -619,6 +619,12 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "손종원 셰프의 한식 파인다이닝",
+        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30688172",
+        "snippet": "이타닉가든에 다녀왔습니다<strong>손종원</strong> 셰프가 총괄셰프로 있는한식 다이닝이예요조선팰리스 36층에 있습니당 36층엔 한식당 이타닉가든과중식당 그레이트 홍연 두곳만있어요그레이트 홍연도 맛있는 중식을하는곳입니다우리나라에서 제일 비싼 짜장면 파는곳이기도함 이 넓은 공간을 두 업장에서만 사용하기떄문에테이블간격이 굉장히 넓습니다아주 쾌적함 런치는 19만원디너는 32만원 전통주와 와인을 함께 제공해주는페어링도 있고와인리스트도 엄청 다",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "손종원 셰프의 의외로 잘 안밝혀진 과거 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9324642205",
         "snippet": "영주권이랑 시민권은 다름 20대 평생 살았어도 한국이 더 좋으면 오는거죠 저도 20대 미국에서 보내고 30대초반에 들어왔는데 한국이 훨씬 편함 <strong>손종원</strong>은 역이민 대상이 아닌데 뭔 소리지 <strong>손종원</strong>도 한국에서 살고 싶어해서 온거고 시민권이 한국이라 병역의무는 당연한건데",
@@ -629,12 +635,6 @@
         "link": "https://www.fmkorea.com/best/9307006635",
         "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "손종원 셰프의 한식 파인다이닝",
-        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30688172",
-        "snippet": "이타닉가든에 다녀왔습니다<strong>손종원</strong> 셰프가 총괄셰프로 있는한식 다이닝이예요조선팰리스 36층에 있습니당 36층엔 한식당 이타닉가든과중식당 그레이트 홍연 두곳만있어요그레이트 홍연도 맛있는 중식을하는곳입니다우리나라에서 제일 비싼 짜장면 파는곳이기도함 이 넓은 공간을 두 업장에서만 사용하기떄문에테이블간격이 굉장히 넓습니다아주 쾌적함 런치는 19만원디너는 32만원 전통주와 와인을 함께 제공해주는페어링도 있고와인리스트도 엄청 다",
-        "source": "ruliweb.com"
       },
       {
         "title": "손종원 셰프는 왜 결혼안했을까? - 스타크래프트 - 에펨코리아",
@@ -655,28 +655,28 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "스포)손종원이 요리괴물 이긴 이유(편집분석) - 흑백요리사 시즌2 갤러리",
-        "link": "https://m.dcinside.com/board/blackwhites2/119650",
-        "snippet": "위 사진과 같이 요리괴물이 됐든, <strong>손종원</strong>이 됐든 누군가는 정호영과 최강록 사이에 사람이 앉아있고 그 빈 자리는 소위 편집용어로 마스크를 따서 뺀 것이다.",
-        "source": "dcinside.com"
-      },
-      {
         "title": "더쿠 - 손종원? 유명하신 분이야?",
         "link": "https://theqoo.net/square/4048462917",
         "snippet": "유머 <strong>손종원</strong>? 유명하신 분이야? 98,716 282 · 무명의 더쿠 https://theqoo.net/square/4048462917 · 2026.01.02 00:03 · 98,716 282 · Up Down Comment Print Files · https://youtube.com/shorts/NrfUzojTb4w · 목록 스크랩 (9) 공유 · 댓글 282개 ·",
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 손종원 쉐프 때문에 다시 말 나오는 한가인 이상형 라인",
-        "link": "https://theqoo.net/square/4049431249",
-        "snippet": "7. 그리고 <strong>손종원</strong> · 그리고 이 분의 전체적인 얼굴 바탕은 1~3번에 가까운 것 같은데 개인적으로는 이정재의 바탕에 하동균을 부은 느낌...! 그래서 요약은 · 이 글은 무묭이의 생각일뿐! 덬들이 느끼는 게 다 맞다 ·",
-        "source": "theqoo.net"
+        "title": "손종원이 진짜 대단한 이유",
+        "link": "https://m.ruliweb.com/community/board/300143/read/73565739",
+        "snippet": "미국에서 태어났고 미국 영주권 있는데 굳이 한국에 와서 안가도 되는 군대까지 다녀옴비슷한 상황에 놓인 다른 유명인들은 보통 미국 국적 선택하고 군대 안감그렇다고 그 사람들이 그 이유 하나만으로 욕 먹지도 않음<strong>손종원</strong>도 그 사람들처럼 할 수 있고 그렇게 해도 딱히 논란 되는거 아닌데 굳이 여기 와서 군대까지 간거임현재는 한국국적",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
+        "snippet": "모레레 <strong>손종원</strong> 셰프도 쌍별 원스타 각각 달기까지 우여곡절 진짜 많았음 라망시크레 대신 폭망,좆망시크레라고 불리면서 정용진이 밑 빠진 독 물 붓는다고 절대 별 못 받을거라는 이야기 많았는데 이타닉가든도 미식씬에서 이도저도 아니라고 바닥까지 내려갔던 평판이었는데 그걸 맡아서 또 별 받고",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-08-01T05:49:54.581989",
+    "timestamp": "2026-08-01T08:10:42.164317",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -724,12 +724,6 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
-        "link": "https://theqoo.net/square/3866166686",
-        "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
-        "source": "theqoo.net"
-      },
-      {
         "title": "이재명 대표님께서 이 분 꼭 찾아달래요 : 클리앙",
         "link": "https://www.clien.net/service/board/park/18879429",
         "snippet": "커뮤니티 커뮤니티전체 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 ...",
@@ -740,6 +734,12 @@
         "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
         "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
+        "link": "https://theqoo.net/square/3866166686",
+        "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 노르웨이 총리를 만난 이재명 대통령 근황ㅋㅋㅋㅋㅋ",
