@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-08-01T20:42:39.531763",
+    "timestamp": "2026-08-01T21:48:28.172612",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -37,16 +37,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9698324015",
-        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
         "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
         "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
         "source": "dcinside.com"
+      },
+      {
+        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9698324015",
+        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+        "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-08-01T20:42:42.141169",
+    "timestamp": "2026-08-01T21:48:30.878485",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-08-01T20:42:44.768640",
+    "timestamp": "2026-08-01T21:48:33.595090",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-08-01T20:42:47.395352",
+    "timestamp": "2026-08-01T21:48:36.366689",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,16 +238,16 @@
     ],
     "sources": [
       {
-        "title": "더쿠 - 대단한 이정후 열풍 \"바람의 손자, 오라클 첫 홈런 아름다웠다\" 현지 매체 극찬",
-        "link": "https://theqoo.net/square/3193237816",
-        "snippet": "이정후는 <strong>21일(이하 한국시각) 미국 캘리포니아주 샌프란시스코 오라클파크서 열린 애리조나 다이아몬드백스와의 홈 경기에서 1번-중견수로 선발 출장해 1회말 첫 타석 홈런</strong>을 터뜨렸다. 자신의 메이저리그 두번째 홈런이자 ...",
-        "source": "theqoo.net"
-      },
-      {
         "title": "이정후, 첫 오라클 파크(홈구장) 홈런 : 클리앙",
         "link": "https://www.clien.net/service/board/park/18707168",
         "snippet": "약간 몰리긴헀지만 높은 쪽 제구 잘 된걸로 보이는데 잘 네요. 오라클파크 배리 본즈의 홈런 보다가 이정후선수 홈런 보니 감회가 새롭습니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "더쿠 - 대단한 이정후 열풍 \"바람의 손자, 오라클 첫 홈런 아름다웠다\" 현지 매체 극찬",
+        "link": "https://theqoo.net/square/3193237816",
+        "snippet": "이정후는 <strong>21일(이하 한국시각) 미국 캘리포니아주 샌프란시스코 오라클파크서 열린 애리조나 다이아몬드백스와의 홈 경기에서 1번-중견수로 선발 출장해 1회말 첫 타석 홈런</strong>을 터뜨렸다. 자신의 메이저리그 두번째 홈런이자 ...",
+        "source": "theqoo.net"
       },
       {
         "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
@@ -286,22 +286,22 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "이정후 32일 만에 시즌 6호 3점 홈런 포함 2안타통산 100타점",
+        "link": "https://bbs.ruliweb.com/sports/board/300276/read/3781396",
+        "snippet": "https n news naver com article 001 0016214772 sid 104",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "이정후 시범경기 홈런 스윙짤 - 야구",
         "link": "https://www.fmkorea.com/8067983253",
         "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "이정후 쓰리런 홈런 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ 시즌 6호 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10130805038",
-        "snippet": "샤브중독자 심각한 이정후의 담백한 현 상황.jpg https://m.fmkorea.com/best/10128037801 ㅋㅋㅋㅋㅋ ... 이 홈런이 32일만에 홈런때린건데 결국 시즌끝나면 조림돌림 당하는 베뎃에 적힌 성적에 수렴할꺼임",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-08-01T20:42:49.973327",
+    "timestamp": "2026-08-01T21:48:39.037238",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-08-01T20:42:52.574252",
+    "timestamp": "2026-08-01T21:48:41.856095",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -412,10 +412,10 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
-        "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 뜯어주고금광",
-        "source": "dcinside.com"
+        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3727447",
+        "snippet": "원기사 오피셜 인천 무고사 <strong>몬테네그로</strong> 국대 은퇴 선언 세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기",
+        "source": "ruliweb.com"
       },
       {
         "title": "몬테네그로- 1911년 유럽 - 빅토리아2 갤러리",
@@ -424,10 +424,10 @@
         "source": "dcinside.com"
       },
       {
-        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3727447",
-        "snippet": "원기사 오피셜 인천 무고사 <strong>몬테네그로</strong> 국대 은퇴 선언 세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기",
-        "source": "ruliweb.com"
+        "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
+        "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 뜯어주고금광",
+        "source": "dcinside.com"
       },
       {
         "title": "이번 업뎃으로 알아보는 몬테네그로 만화.jpg - 패러독스 인터랙티브 마이너 갤러리",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-08-01T20:42:55.156353",
+    "timestamp": "2026-08-01T21:48:44.544523",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-08-01T20:42:57.764419",
+    "timestamp": "2026-08-01T21:48:47.336723",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-08-01T20:43:00.415879",
+    "timestamp": "2026-08-01T21:48:50.015718",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -625,15 +625,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9307006635",
-        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "손종원 셰프의 의외로 잘 안밝혀진 과거 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9324642205",
         "snippet": "영주권이랑 시민권은 다름 20대 평생 살았어도 한국이 더 좋으면 오는거죠 저도 20대 미국에서 보내고 30대초반에 들어왔는데 한국이 훨씬 편함 <strong>손종원</strong>은 역이민 대상이 아닌데 뭔 소리지 <strong>손종원</strong>도 한국에서 살고 싶어해서 온거고 시민권이 한국이라 병역의무는 당연한건데",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9307006635",
+        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
       },
       {
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-08-01T20:43:02.973448",
+    "timestamp": "2026-08-01T21:48:52.703079",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -700,16 +700,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 여시에서 연구한 이재명 레파토리",
-        "link": "https://theqoo.net/square/4296808716",
-        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
-        "source": "theqoo.net"
-      },
-      {
         "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
         "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 여시에서 연구한 이재명 레파토리",
+        "link": "https://theqoo.net/square/4296808716",
+        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
+        "source": "theqoo.net"
       },
       {
         "title": "♡이재명 대통령, 미국 샌프란시스코 공항 도착.jpg - 실시간 베스트 갤러리",
@@ -724,16 +724,16 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
-        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
         "link": "https://theqoo.net/square/3866166686",
         "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
         "source": "theqoo.net"
+      },
+      {
+        "title": "외교천재 이재명",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
+        "source": "ruliweb.com"
       },
       {
         "title": "이재명 대표님께서 이 분 꼭 찾아달래요 : 클리앙",
@@ -742,10 +742,10 @@
         "source": "clien.net"
       },
       {
-        "title": "더쿠 - 노르웨이 총리를 만난 이재명 대통령 근황ㅋㅋㅋㅋㅋ",
-        "link": "https://theqoo.net/hot/4272423026",
-        "snippet": "(앙카라=연합뉴스) 김도훈 기자 = 이재명 대통령이 <strong>8일(현지시간) 튀르키예 앙카라 한 호텔에서 열린 요나스 가르 스퇴르 노르웨이 총리와의 정상회담에서 발언 중 노르웨이 축구대표팀의 &#x27;바이킹 노 젓기&#x27; 응원을 따라 하고</strong> ...",
-        "source": "theqoo.net"
+        "title": "속보 이재명 대통령 오는 8일 취임 1주년 기자회견",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3751871",
+        "snippet": "https n news naver com mnews article 014 0005526972 sid 100",
+        "source": "ruliweb.com"
       }
     ]
   }
