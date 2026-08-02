@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-08-02T02:09:15.684814",
+    "timestamp": "2026-08-02T05:50:17.871155",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -55,28 +55,28 @@
         "source": "dcinside.com"
       },
       {
-        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
-        "link": "https://m.dcinside.com/mini/flatearthdome/78",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
-      },
-      {
         "title": "\"내려다보니 하나의 인류\"..'아르테미스 2호' 우주서 소감 - 실시간 베스트 갤러리",
         "link": "https://m.dcinside.com/board/dcbest/418697",
         "snippet": "반세기 만에 달로 향하고 있는 &#x27;아르테미스 2호&#x27;가 지구와 첫 화상통화를 진행했습니다. 비행사들은 우주에서 본 지구가 &quot;멋진 하나의 인류&quot;라고 표현했는데요.",
         "source": "dcinside.com"
       },
       {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
-        "source": "fmkorea.com"
+        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
+        "link": "https://m.dcinside.com/mini/flatearthdome/78",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19172503",
+        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-08-02T02:09:18.281502",
+    "timestamp": "2026-08-02T05:50:20.589362",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -112,16 +112,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "2차 고유가 지원금 신청 날짜, 대상자 확인 조회 방법은? | 위키트리",
-        "link": "https://issuefeed.dcinside.com/content/2258844",
-        "snippet": "18일부터 7월 3일까지 2차 고유가 피해지원금 신청 가능. <strong>소득 하위 70% 국민 대상, 수도권 10만원, 비수도권 최대 25만원 지급</strong>.",
-        "source": "dcinside.com"
-      },
-      {
         "title": "“유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19180275",
         "snippet": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체 등 ‘대상 확대’ 주장 일부계층에게 주는 현금 지원이 아니라 실질적으로 유류세를 내리던가 유가관련 피해업종에 지원을 했다면 전 국민이, 국내 거주하는 외국인 조차도 고유가로 인한 피해를 극복하는데 조금이라도 도움이 됐을텐데....",
         "source": "clien.net"
+      },
+      {
+        "title": "2차 고유가 지원금 신청 날짜, 대상자 확인 조회 방법은? | 위키트리",
+        "link": "https://issuefeed.dcinside.com/content/2258844",
+        "snippet": "18일부터 7월 3일까지 2차 고유가 피해지원금 신청 가능. <strong>소득 하위 70% 국민 대상, 수도권 10만원, 비수도권 최대 25만원 지급</strong>.",
+        "source": "dcinside.com"
       },
       {
         "title": "고유가 지원금 오늘부터 모든 주유소에서 쓴다",
@@ -142,16 +142,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 피해지원금 2차 지급 대상자 선정 기준.jpeg : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19189158",
-        "snippet": "아직 2차 신청이 안 되가지고 30%인지는 (?)는 18일에 나오겠네요",
-        "source": "clien.net"
+        "title": "이번 고유가 지원금",
+        "link": "https://bbs.ruliweb.com/family/242/board/300087/read/30606009",
+        "snippet": "거유가 지원금 줌껄껄껄껄껄껄",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-08-02T02:09:20.888078",
+    "timestamp": "2026-08-02T05:50:23.281828",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-08-02T02:09:23.456095",
+    "timestamp": "2026-08-02T05:50:25.964797",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -238,16 +238,16 @@
     ],
     "sources": [
       {
-        "title": "이정후, 첫 오라클 파크(홈구장) 홈런 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18707168",
-        "snippet": "약간 몰리긴헀지만 높은 쪽 제구 잘 된걸로 보이는데 잘 네요. 오라클파크 배리 본즈의 홈런 보다가 이정후선수 홈런 보니 감회가 새롭습니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "더쿠 - 대단한 이정후 열풍 \"바람의 손자, 오라클 첫 홈런 아름다웠다\" 현지 매체 극찬",
         "link": "https://theqoo.net/square/3193237816",
         "snippet": "이정후는 <strong>21일(이하 한국시각) 미국 캘리포니아주 샌프란시스코 오라클파크서 열린 애리조나 다이아몬드백스와의 홈 경기에서 1번-중견수로 선발 출장해 1회말 첫 타석 홈런</strong>을 터뜨렸다. 자신의 메이저리그 두번째 홈런이자 ...",
         "source": "theqoo.net"
+      },
+      {
+        "title": "이정후, 첫 오라클 파크(홈구장) 홈런 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18707168",
+        "snippet": "약간 몰리긴헀지만 높은 쪽 제구 잘 된걸로 보이는데 잘 네요. 오라클파크 배리 본즈의 홈런 보다가 이정후선수 홈런 보니 감회가 새롭습니다.",
+        "source": "clien.net"
       },
       {
         "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
@@ -268,12 +268,6 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9828344085",
-        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970007565",
         "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
@@ -283,6 +277,12 @@
         "title": "직관) 이정후 메이저리그 첫 홈런!!! - 포텐 터짐 최신순",
         "link": "https://www.fmkorea.com/best/6871246827",
         "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9828344085",
+        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-08-02T02:09:26.025566",
+    "timestamp": "2026-08-02T05:50:28.654233",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-08-02T02:09:28.653210",
+    "timestamp": "2026-08-02T05:50:31.330651",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -412,6 +412,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3727447",
+        "snippet": "원기사 오피셜 인천 무고사 <strong>몬테네그로</strong> 국대 은퇴 선언 세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
         "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 뜯어주고금광",
@@ -424,34 +430,28 @@
         "source": "dcinside.com"
       },
       {
-        "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3727447",
-        "snippet": "원기사 오피셜 인천 무고사 <strong>몬테네그로</strong> 국대 은퇴 선언 세상에서 가장 아름다운 유니폼 입고 뛰는 마지막 경기",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "이번 업뎃으로 알아보는 몬테네그로 만화.jpg - 패러독스 인터랙티브 마이너 갤러리",
         "link": "http://gall.dcinside.com/mgallery/board/view/?id=rome&no=1346116",
         "snippet": "참고로 페트로비치 네고시 왕조는 안죽고 1차대전 동안 오헝 피해서 파리에 망명 중인 상태였음.전쟁 끝나고 귀국하려 했는데 나라가 통째로 합병 당하자 이에 반발해 망명정부를 세웠지만 1922년에 자진해산함.<strong>몬테네그로</strong>가",
         "source": "dcinside.com"
       },
       {
-        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18078795",
-        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
-        "source": "clien.net"
-      },
-      {
         "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18656033",
         "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
+        "source": "clien.net"
+      },
+      {
+        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18078795",
+        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-08-02T02:09:31.202717",
+    "timestamp": "2026-08-02T05:50:33.948342",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -487,16 +487,22 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "더쿠 - 김민석 \"이재명 정부 성공을 위한 새 임무를 보고드립니다\"",
+        "link": "https://theqoo.net/hot/4234359785",
+        "snippet": "대한민국을 사랑하듯, 민주당을 제 삶처럼 사랑합니다. 당원의 바다에서 민주의 황금시대를 열겠습니다. 이재명 정부는 반드시 K-황금시대를 열 것입니다. 감사합니다. <strong>2026년 6월 7일</strong>. 국민주권정부 첫 국무총리 김민석 ·",
+        "source": "theqoo.net"
+      },
+      {
         "title": "오늘 김민석 총리 발언 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19154126",
         "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
         "source": "clien.net"
       },
       {
-        "title": "더쿠 - 김민석 \"이재명 정부 성공을 위한 새 임무를 보고드립니다\"",
-        "link": "https://theqoo.net/hot/4234359785",
-        "snippet": "대한민국을 사랑하듯, 민주당을 제 삶처럼 사랑합니다. 당원의 바다에서 민주의 황금시대를 열겠습니다. 이재명 정부는 반드시 K-황금시대를 열 것입니다. 감사합니다. <strong>2026년 6월 7일</strong>. 국민주권정부 첫 국무총리 김민석 ·",
-        "source": "theqoo.net"
+        "title": "전남광주통합특별시 출범준비 관계기관 간담회 참석한 김민석 국무총리",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3761758",
+        "snippet": "전남광주통합특별시 출범준비 관계기관 간담회 참석한 김민석 국무총리",
+        "source": "ruliweb.com"
       },
       {
         "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
@@ -511,12 +517,6 @@
         "source": "clien.net"
       },
       {
-        "title": "전남광주통합특별시 출범준비 관계기관 간담회 참석한 김민석 국무총리",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3761758",
-        "snippet": "전남광주통합특별시 출범준비 관계기관 간담회 참석한 김민석 국무총리",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 국회 돌아가면 당정 지지율 회복에 전력",
         "link": "https://bbs.ruliweb.com/pc/board/1005/read/3764739",
         "snippet": "김민석 총리 “국회 돌아가면 당정 지지율 회복에 전력” · 출처 : https://n.news.naver.com/mnews/article/032/0003453642?sid=100 · 2 6 · 글쓰기 · 스크랩 · | URL 복사 · | | | | | 글꼴 · 신고 | 차단 · 목록 | 이전글 | 다음글 ·",
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-08-02T02:09:33.777167",
+    "timestamp": "2026-08-02T05:50:36.612908",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -574,16 +574,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "심리적으로 점점 무너지고 있는 이스라엘 사회 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10056730077",
-        "snippet": "이스라엘 사회 전반에 걸쳐 심리적 붕괴가 일어나고 있으며, 장기화된 이스라엘의 전쟁으로 인해 외상 후 스트레스 장애(PTSD), 가정폭력, 자살이 급증하고 있음.이스라엘 국가보험공단과 국방부피셜, ‘전쟁 관련’ 정신 질환을 인정받은 사람의 수는지난 3년 동안 약 6,400명에서 69,000명 이상으로 10배이상 폭증함.전문가들은 현재의 급증세가 빙산의 일각에 불과하며, 수십...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
         "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "심리적으로 점점 무너지고 있는 이스라엘 사회 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10056730077",
+        "snippet": "이스라엘 사회 전반에 걸쳐 심리적 붕괴가 일어나고 있으며, 장기화된 이스라엘의 전쟁으로 인해 외상 후 스트레스 장애(PTSD), 가정폭력, 자살이 급증하고 있음.이스라엘 국가보험공단과 국방부피셜, ‘전쟁 관련’ 정신 질환을 인정받은 사람의 수는지난 3년 동안 약 6,400명에서 69,000명 이상으로 10배이상 폭증함.전문가들은 현재의 급증세가 빙산의 일각에 불과하며, 수십...",
+        "source": "fmkorea.com"
       },
       {
         "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-08-02T02:09:36.381183",
+    "timestamp": "2026-08-02T05:50:39.270454",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-08-02T02:09:38.970434",
+    "timestamp": "2026-08-02T05:50:41.963180",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -700,22 +700,28 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 여시에서 연구한 이재명 레파토리",
-        "link": "https://theqoo.net/square/4296808716",
-        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
-        "source": "theqoo.net"
-      },
-      {
         "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
         "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
         "source": "ruliweb.com"
       },
       {
+        "title": "더쿠 - 여시에서 연구한 이재명 레파토리",
+        "link": "https://theqoo.net/square/4296808716",
+        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
+        "source": "theqoo.net"
+      },
+      {
         "title": "뽐뿌::.",
         "link": "https://www.ppomppu.co.kr/zboard/view.php?id=issue&no=667457",
         "snippet": "여기를 눌러 링크를 확인하세요",
         "source": "ppomppu.co.kr"
+      },
+      {
+        "title": "♡이재명 대통령, 미국 샌프란시스코 공항 도착.jpg - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=448374",
+        "snippet": "- 관련게시물 : ♡이재명 대통령 또 순방 ㅠㅠㅠㅠㅠㅠㅠ.news- 관련게시물 : 李대통령, 7박 11일 미국·남미 출장길…AI·방산·핵심광물 협력 모색아까 00시 반 쯤 도착! - 이 대통령, 美샌프란시스코 도착…환",
+        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
@@ -728,12 +734,6 @@
         "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
         "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "♡이재명 대통령, 미국 샌프란시스코 공항 도착.jpg - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=448374",
-        "snippet": "- 관련게시물 : ♡이재명 대통령 또 순방 ㅠㅠㅠㅠㅠㅠㅠ.news- 관련게시물 : 李대통령, 7박 11일 미국·남미 출장길…AI·방산·핵심광물 협력 모색아까 00시 반 쯤 도착! - 이 대통령, 美샌프란시스코 도착…환",
-        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - 노르웨이 총리를 만난 이재명 대통령 근황ㅋㅋㅋㅋㅋ",
