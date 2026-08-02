@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-08-02T10:29:10.779564",
+    "timestamp": "2026-08-02T11:57:23.637152",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-08-02T10:29:13.342597",
+    "timestamp": "2026-08-02T11:57:26.192209",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -142,16 +142,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 피해지원금 2차 지급 대상자 선정 기준.jpeg : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19189158",
-        "snippet": "아직 2차 신청이 안 되가지고 30%인지는 (?)는 18일에 나오겠네요",
-        "source": "clien.net"
+        "title": "고유가 지원금!! 다들 잘 챙기세요! - 뽐뿌:자유게시판",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=freeboard&no=9920557",
+        "snippet": "내일 부터 신청?! 날짜 잘 보고 ! 하세요!!",
+        "source": "ppomppu.co.kr"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-08-02T10:29:15.935164",
+    "timestamp": "2026-08-02T11:57:28.755544",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -205,16 +205,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
-        "link": "https://theqoo.net/hot/4190256960",
-        "snippet": "이슈 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷 · 36,915 185 · 무명의 더쿠 https://theqoo.net/square/4190256960 · 2026.05.05 11:08 · 36,915 185 · Up Down Comment Print Files · https://youtube.com/shorts/-sQbluvTnJw ·",
-        "source": "theqoo.net"
-      },
-      {
         "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
+      },
+      {
+        "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
+        "link": "https://theqoo.net/hot/4190256960",
+        "snippet": "이슈 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷 · 36,915 185 · 무명의 더쿠 https://theqoo.net/square/4190256960 · 2026.05.05 11:08 · 36,915 185 · Up Down Comment Print Files · https://youtube.com/shorts/-sQbluvTnJw ·",
+        "source": "theqoo.net"
       },
       {
         "title": "우리 스타된다고자만한 대군부인 아이유변우석 역사왜곡 예고된 참사",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-08-02T10:29:18.554481",
+    "timestamp": "2026-08-02T11:57:31.314985",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -280,6 +280,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 잘했으면 좋겠음 메이저 진출할때 6년뒤에 그대로 크보로 리턴하고 돌아오지 않았으면 작은 소망같은 내 기억이 있어서",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "이정후 시범경기 홈런 스윙짤 - 야구",
         "link": "https://www.fmkorea.com/8067983253",
         "snippet": "유머, 축구, 게임, 아프리카TV, 치지직, 풋볼매니저, 에펨, 피파온라인, 피파, 펨코 커뮤니티",
@@ -290,18 +296,12 @@
         "link": "https://www.fmkorea.com/best/9828344085",
         "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 ...",
-        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-08-02T10:29:21.090406",
+    "timestamp": "2026-08-02T11:57:33.847677",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-08-02T10:29:23.657679",
+    "timestamp": "2026-08-02T11:57:36.412002",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -401,7 +401,7 @@
       },
       {
         "title": "몬테네그로 국명의 비밀jpg",
-        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=6&m=all&t=now",
+        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=2&m=all&t=now",
         "snippet": "<strong>몬테네그로</strong>의 국명은 · &#x27;검은 산&#x27;이라는 뜻이다 · &quot;마운트+니그로&quot; 진짜임 · 본토에서는 &#x27;츠르나 고라&#x27;라고 부르고 · 동유럽에서는 보통 이계열로 부르는데 · 이상하게 한국에서는 · 프랑스식 발음이 전해짐 ·",
         "source": "ruliweb.com"
       },
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-08-02T10:29:26.183127",
+    "timestamp": "2026-08-02T11:57:38.960706",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-08-02T10:29:28.813886",
+    "timestamp": "2026-08-02T11:57:41.544317",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -574,16 +574,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
-        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "심리적으로 점점 무너지고 있는 이스라엘 사회 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/10056730077",
         "snippet": "이스라엘 사회 전반에 걸쳐 심리적 붕괴가 일어나고 있으며, 장기화된 이스라엘의 전쟁으로 인해 외상 후 스트레스 장애(PTSD), 가정폭력, 자살이 급증하고 있음.이스라엘 국가보험공단과 국방부피셜, ‘전쟁 관련’ 정신 질환을 인정받은 사람의 수는지난 3년 동안 약 6,400명에서 69,000명 이상으로 10배이상 폭증함.전문가들은 현재의 급증세가 빙산의 일각에 불과하며, 수십...",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "정부 李대통령 발언은 보편 인권 원칙이스라엘 반박 유감",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3732864",
+        "snippet": "정부 李대통령 발언은 보편 인권 원칙 이스라엘 반박 유감",
+        "source": "ruliweb.com"
       },
       {
         "title": "이재명, 이스라엘 반박에 인권 문제 재반박 - 실시간 베스트 갤러리",
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-08-02T10:29:31.404395",
+    "timestamp": "2026-08-02T11:57:44.104568",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -661,22 +661,22 @@
         "source": "theqoo.net"
       },
       {
-        "title": "손종원이 진짜 대단한 이유",
-        "link": "https://m.ruliweb.com/community/board/300143/read/73565739",
-        "snippet": "미국에서 태어났고 미국 영주권 있는데 굳이 한국에 와서 안가도 되는 군대까지 다녀옴비슷한 상황에 놓인 다른 유명인들은 보통 미국 국적 선택하고 군대 안감그렇다고 그 사람들이 그 이유 하나만으로 욕 먹지도 않음<strong>손종원</strong>도 그 사람들처럼 할 수 있고 그렇게 해도 딱히 논란 되는거 아닌데 굳이 여기 와서 군대까지 간거임현재는 한국국적",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 유머/움짤/이슈 - 에펨코리아",
         "link": "https://www.fmkorea.com/index.php?document_srl=9307006635&cpage=1",
         "snippet": "모레레 <strong>손종원</strong> 셰프도 쌍별 원스타 각각 달기까지 우여곡절 진짜 많았음 라망시크레 대신 폭망,좆망시크레라고 불리면서 정용진이 밑 빠진 독 물 붓는다고 절대 별 못 받을거라는 이야기 많았는데 이타닉가든도 미식씬에서 이도저도 아니라고 바닥까지 내려갔던 평판이었는데 그걸 맡아서 또 별 받고",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "손종원이 진짜 대단한 이유",
+        "link": "https://m.ruliweb.com/community/board/300143/read/73565739",
+        "snippet": "미국에서 태어났고 미국 영주권 있는데 굳이 한국에 와서 안가도 되는 군대까지 다녀옴비슷한 상황에 놓인 다른 유명인들은 보통 미국 국적 선택하고 군대 안감그렇다고 그 사람들이 그 이유 하나만으로 욕 먹지도 않음<strong>손종원</strong>도 그 사람들처럼 할 수 있고 그렇게 해도 딱히 논란 되는거 아닌데 굳이 여기 와서 군대까지 간거임현재는 한국국적",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-08-02T10:29:34.414915",
+    "timestamp": "2026-08-02T11:57:46.647932",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -718,6 +718,12 @@
         "source": "ppomppu.co.kr"
       },
       {
+        "title": "외교천재 이재명",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "더쿠 - 이재명 대통령, 정상회담서 \"베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가\"",
         "link": "https://theqoo.net/square/3866166686",
         "snippet": "정치 이재명 대통령, 정상회담서 &quot;베트남, 외국군대와 싸워 통일 이뤄낸 저력있는 국가&quot;",
@@ -728,12 +734,6 @@
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=448374",
         "snippet": "- 관련게시물 : ♡이재명 대통령 또 순방 ㅠㅠㅠㅠㅠㅠㅠ.news- 관련게시물 : 李대통령, 7박 11일 미국·남미 출장길…AI·방산·핵심광물 협력 모색아까 00시 반 쯤 도착! - 이 대통령, 美샌프란시스코 도착…환",
         "source": "dcinside.com"
-      },
-      {
-        "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
-        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
-        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 노르웨이 총리를 만난 이재명 대통령 근황ㅋㅋㅋㅋㅋ",
