@@ -1,82 +1,21 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-08-22T02:12:57.931902",
+    "timestamp": "2026-08-22T03:36:05.118759",
     "sentiment": {
       "positive": 50,
       "negative": 50
     },
     "summary": [
-      "요약 생성 중 오류가 발생했습니다.",
+      "데이터가 부족하여 요약할 수 없습니다.",
       "",
       ""
     ],
-    "sources": [
-      {
-        "title": "아르테미스 2호 미션 - 특이점이 온다 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/thesingularity/1082811",
-        "snippet": "<strong>실시간 우주 비행 상태 성공적인 발사 완료</strong>. 현재 네 명의 우주비행사를 태운 우주선은 지구를 벗어나 달을 향해 순항하고 있습니다.",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "아르테미스2호 한국시간 오늘 아침 9시 지구 귀환 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420298",
-        "snippet": "&#x27;아르테미스 Ⅱ&#x27; 오늘 지구 ... 유인 달 궤도 비행을 마친 &#x27;아르테미스 2호&#x27;(아르테미스Ⅱ)가 <strong>10일(현지시간)</strong> 지구로 돌아온다....",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "아르테미스2호 안에서의 생활은 어떠할까? - 실시간 베스트 갤러리",
-        "link": "https://m.dcinside.com/board/dcbest/418297",
-        "snippet": "백업 시스템: ISS와 달리 <strong>지구로 즉시 귀환하는 것이 불가능</strong>하므로, 제어 컴퓨터와 통신 시스템은 2중, 3중의 예비 계획을 갖추고 있어 고장 시 즉시 대체 시스템이 작동합니다.",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9698324015",
-        "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9695291040",
-        "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/war/4828798?page=2",
-        "snippet": "인류애랑 인류뽕 채워지는 영상",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
-        "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
-        "link": "https://fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
-        "snippet": "달착륙 가능할거면 저기에 바다에 있는게 다시 이륙해서 지구에 다시와야한다는거잖아 진짜 가능할까",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9670717077",
-        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 ...",
-        "source": "fmkorea.com"
-      }
-    ]
+    "sources": []
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-08-22T02:13:00.036877",
+    "timestamp": "2026-08-22T03:36:07.320394",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -90,7 +29,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-08-22T02:13:02.115810",
+    "timestamp": "2026-08-22T03:36:09.537058",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -104,7 +43,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-08-22T02:13:04.193240",
+    "timestamp": "2026-08-22T03:36:11.781868",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,7 +57,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-08-22T02:13:06.281410",
+    "timestamp": "2026-08-22T03:36:13.970942",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -132,7 +71,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-08-22T02:13:08.357290",
+    "timestamp": "2026-08-22T03:36:16.160566",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -146,7 +85,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-08-22T02:13:10.436285",
+    "timestamp": "2026-08-22T03:36:18.361432",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -160,7 +99,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-08-22T02:13:12.511952",
+    "timestamp": "2026-08-22T03:36:20.545832",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -174,7 +113,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-08-22T02:13:14.600704",
+    "timestamp": "2026-08-22T03:36:22.765694",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -188,7 +127,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-08-22T02:13:16.691556",
+    "timestamp": "2026-08-22T03:36:25.052779",
     "sentiment": {
       "positive": 50,
       "negative": 50
