@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-09-01T11:12:57.275009",
+    "timestamp": "2026-09-01T15:55:45.943319",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-09-01T11:12:59.916202",
+    "timestamp": "2026-09-01T15:55:48.620019",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-09-01T11:13:02.558369",
+    "timestamp": "2026-09-01T15:55:51.363204",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -199,16 +199,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
-        "link": "https://theqoo.net/square/3703669182",
-        "snippet": "톱 싱어송라이터이자 탁월한 캐릭터 소화력과 탄탄한 연기력으로 배우로서도 확고한 입지를 굳힌 아이유가 선보일 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
-      },
-      {
         "title": "아이유변우석 사과로 안 끝났다대군부인 이번엔 국회로",
         "link": "https://bbs.ruliweb.com/sports/board/300446/read/3750068",
         "snippet": "<strong>아이유 변우석</strong> 사과로 안 끝났다 대군부인 이번엔 국회로",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
+        "link": "https://theqoo.net/square/3703669182",
+        "snippet": "톱 싱어송라이터이자 탁월한 캐릭터 소화력과 탄탄한 연기력으로 배우로서도 확고한 입지를 굳힌 아이유가 선보일 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-09-01T11:13:05.175150",
+    "timestamp": "2026-09-01T15:55:54.091691",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -262,15 +262,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9970007565",
-        "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9828344085",
         "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9970007565",
+        "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
         "source": "fmkorea.com"
       },
       {
@@ -286,22 +286,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "엄파이어 캠으로 본 이정후 홈런 ㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10169673969",
-        "snippet": "이정후 이대로라면 추신수 넘나? 치킨빌런 2026.08.04 15:32 · 유관력손흥민 추신수가 ㅈ으로보이나;;; f1리히터 2026.08.04 11:46 · 15개 가보자 · 스태포드 2026.08.04 14:41 · 이 카메라 앵글 맘에 드네 · 첫 페이지 1 2 끝 페이지 ·",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "“킹~한민국! 짝짝 짝 짝 짝” 이정후 실시간 성적.stats - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9995623639",
         "snippet": "타율 0.331출루율 0.365장타율 0.470OPS 0.835wRC+ 135오늘 경기 4타석 3타수 2안타(1홈런) 1볼넷 1도루장타 어쩌고 홈런 쳐주고타출갭 어쩌고 볼넷 얻어주고 ...",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "엄파이어 캠으로 본 이정후 홈런 ㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10169673969",
+        "snippet": "이정후 이대로라면 추신수 넘나? 치킨빌런 2026.08.04 15:32 · 유관력손흥민 추신수가 ㅈ으로보이나;;; f1리히터 2026.08.04 11:46 · 15개 가보자 · 스태포드 2026.08.04 14:41 · 이 카메라 앵글 맘에 드네 · 첫 페이지 1 2 끝 페이지 ·",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-09-01T11:13:07.763297",
+    "timestamp": "2026-09-01T15:55:56.805267",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-09-01T11:13:10.433377",
+    "timestamp": "2026-09-01T15:55:59.504400",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -388,16 +388,16 @@
     ],
     "sources": [
       {
-        "title": "몬테네그로 vs 헝가리 꿀잼이었네",
-        "link": "https://m.ruliweb.com/etcs/board/700155/read/28201",
-        "snippet": "들어올 땐 마음대로인 루리웹 메인으로 들어오도록 해",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "[헝가리 vs 몬테네그로] 소보슬라이 곧바로 역전골까지 ㄷㄷ ...",
         "link": "https://www.fmkorea.com/best/6413936677",
         "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "몬테네그로 vs 헝가리 꿀잼이었네",
+        "link": "https://m.ruliweb.com/etcs/board/700155/read/28201",
+        "snippet": "들어올 땐 마음대로인 루리웹 메인으로 들어오도록 해",
+        "source": "ruliweb.com"
       },
       {
         "title": "몬테네그로 국명의 비밀jpg",
@@ -438,7 +438,7 @@
       {
         "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
         "link": "https://www.clien.net/service/board/park/18078795",
-        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
+        "snippet": "이미 <strong>몬테네그로</strong>와 김앤장 검새 매국노들과 협의 완 - 몬테그네로에서 잡힘 &gt; 미국 / 한국 어쩌고 언플하지만 한국으로 송환",
         "source": "clien.net"
       },
       {
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-09-01T11:13:12.998334",
+    "timestamp": "2026-09-01T15:56:02.228131",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -469,27 +469,9 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 李 2차개각에 젊음과 전문성 개혁진보 연대 강화",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797878",
-        "snippet": "https n news naver com article 021 0002814893 sid 100",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19149618",
         "snippet": "국무회의 보시면 아시겠지만 대통령은 잘 하는 분들에게만 칭찬해요 빈말 안 합니다. ... 상식적으로 생각해봐도 총리가 자기 돋보이려고 돌아다니면서 생중계를 하는데 그걸 대통령이 가만히 보고 있겠습니까? 그리고 저 라이브를 한번이라도 봤다면 국정홍보를 하는 자리인거 압니다. 그런데 최강욱은 밑도끝도없이 김민석이 돋보이려고 돌아다닌다고 악마화하고 거기에 동조하는게 맞아요?",
-        "source": "clien.net"
-      },
-      {
-        "title": "김민석 개각 발표에 진보개혁 연대 환영민생실용 기조 부합",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
-        "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "오늘 김민석 총리 발언 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154126",
-        "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
         "source": "clien.net"
       },
       {
@@ -499,9 +481,15 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 첫회의부터 기강잡기 최고위 비공개안 노출땐 퇴출",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3792389",
-        "snippet": "김민석 첫회의부터 기강잡기 최고위 비공개안 노출땐 퇴출",
+        "title": "김민석 개각 발표에 진보개혁 연대 환영민생실용 기조 부합",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
+        "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "김민석 李 2차개각에 젊음과 전문성 개혁진보 연대 강화",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3797878",
+        "snippet": "https n news naver com article 021 0002814893 sid 100",
         "source": "ruliweb.com"
       },
       {
@@ -511,22 +499,34 @@
         "source": "clien.net"
       },
       {
+        "title": "김민석 첫회의부터 기강잡기 최고위 비공개안 노출땐 퇴출",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3792389",
+        "snippet": "김민석 첫회의부터 기강잡기 최고위 비공개안 노출땐 퇴출",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "김민석 총리 SNS 메시지 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19154639",
         "snippet": "https://twitter.com/ms2030/status/2029432827717271872 내란을 막아낸 국민들, 억울한 시간을 견뎌내온 관련자들, 연이은 제거시도를 이겨낸 대통령. 모두 참 험한 고개를 넘어왔습니다. 오늘 국무회의에서 <strong>사법개혁 3법을 의결</strong>했습니다.",
         "source": "clien.net"
       },
       {
-        "title": "김민석 정부 초대 총리에서 여당 대표로국정 안정 탄력받나",
-        "link": "https://bbs.ruliweb.com/news/board/1005/read/3791667",
-        "snippet": "김민석 정부 초대 총리에서 여당 대표로 국정 안정 탄력받나",
+        "title": "속보 이 대통령 김민석 총리 후임에 한성숙 지명",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3757035",
+        "snippet": "속보 이 대통령 김민석 총리 후임에 <strong>한성숙</strong> 지명",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "김민석 총리 진심 대인배시네요 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19157271",
+        "snippet": "그냥 현재 주식시장에서 대통령의 역할이 크다는 걸 얘기하는 과정에서 나온 말인데, 총리실에서 대책회의나 뭔가를 했더라도 그다지 체감되지 않아서 대통령의 공백을 메우진 못했다 정도의 뉘앙스로 들으면 될 걸 가지고 정색해서 팩트체크할 일은 아니라고 봅니다.",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-09-01T11:13:15.672573",
+    "timestamp": "2026-09-01T15:56:04.990132",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-09-01T11:13:18.305816",
+    "timestamp": "2026-09-01T15:56:07.820944",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-09-01T11:13:20.950898",
+    "timestamp": "2026-09-01T15:56:10.545213",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -700,21 +700,21 @@
         "source": "theqoo.net"
       },
       {
-        "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
-        "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "뽐뿌::.",
         "link": "https://www.ppomppu.co.kr/zboard/view.php?id=issue&no=667457",
         "snippet": "여기를 눌러 링크를 확인하세요",
         "source": "ppomppu.co.kr"
       },
       {
+        "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
+        "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
-        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
+        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
         "source": "ruliweb.com"
       },
       {
@@ -730,22 +730,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
-        "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
-        "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
-        "source": "82cook.com"
-      },
-      {
         "title": "이재명 대표님께서 이 분 꼭 찾아달래요 : 클리앙",
         "link": "https://www.clien.net/service/board/park/18879429",
         "snippet": "커뮤니티 커뮤니티전체 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 ...",
         "source": "clien.net"
       },
       {
-        "title": "더쿠 - 노르웨이 총리를 만난 이재명 대통령 근황ㅋㅋㅋㅋㅋ",
-        "link": "https://theqoo.net/hot/4272423026",
-        "snippet": "(앙카라=연합뉴스) 김도훈 기자 = 이재명 대통령이 <strong>8일(현지시간) 튀르키예 앙카라 한 호텔에서 열린 요나스 가르 스퇴르 노르웨이 총리와의 정상회담에서 발언 중 노르웨이 축구대표팀의 &#x27;바이킹 노 젓기&#x27; 응원을 따라 하고</strong> ...",
-        "source": "theqoo.net"
+        "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
+        "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
+        "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
+        "source": "82cook.com"
+      },
+      {
+        "title": "펌)전정부 대통령님 근황 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18454745",
+        "snippet": "커뮤니티 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 B 직접홍보 ...",
+        "source": "clien.net"
       }
     ]
   }
