@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-09-02T05:20:49.004815",
+    "timestamp": "2026-09-02T10:23:41.433367",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-09-02T05:20:51.713465",
+    "timestamp": "2026-09-02T10:23:44.042599",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,16 +118,16 @@
         "source": "bobaedream.co.kr"
       },
       {
-        "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
-        "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
-        "source": "ppomppu.co.kr"
-      },
-      {
         "title": "고유가 피해 지원금 이건 또 뭐야",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
         "snippet": "뭔 이정부는 자꾸 허공에 돈을 뿌려",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
+        "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
+        "source": "ppomppu.co.kr"
       },
       {
         "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
@@ -136,22 +136,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
-        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 지원금, 외벌이 2인 가구는 그냥 제외네요.. : 클리앙",
         "link": "https://www.clien.net/service/board/park/19193280",
         "snippet": "이번 고유가 지원금 기준, 솔직히 이해가 안 됩니다. <strong>1인 가구 건보료 기준은 약 13만 원인데, 2인 외벌이 가구는 14만 원</strong>입니다. 근데 2인 맞벌이는 “3인 외벌이 기준”을 적용해서 약 26만 원 수준까지 인정됩니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
+        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-09-02T05:20:54.411873",
+    "timestamp": "2026-09-02T10:23:46.674522",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-09-02T05:20:57.078295",
+    "timestamp": "2026-09-02T10:23:49.254479",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-09-02T05:20:59.764359",
+    "timestamp": "2026-09-02T10:23:51.852890",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-09-02T05:21:02.475728",
+    "timestamp": "2026-09-02T10:23:54.507896",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -430,15 +430,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656033",
-        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
         "link": "https://www.clien.net/service/board/park/18078795",
         "snippet": "이미 <strong>몬테네그로</strong>와 김앤장 검새 매국노들과 협의 완 - 몬테그네로에서 잡힘 &gt; 미국 / 한국 어쩌고 언플하지만 한국으로 송환",
+        "source": "clien.net"
+      },
+      {
+        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656033",
+        "snippet": "<strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
         "source": "clien.net"
       },
       {
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-09-02T05:21:05.140476",
+    "timestamp": "2026-09-02T10:23:57.027614",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -469,6 +469,12 @@
         "source": "clien.net"
       },
       {
+        "title": "이번에도 김민석의 사퇴 요구 통했다",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3798767",
+        "snippet": "이번에도 김민석의 사퇴 요구 통했다",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19127030",
         "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
@@ -481,16 +487,16 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 개각 발표에 진보개혁 연대 환영민생실용 기조 부합",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
-        "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 '비자 해결 될때까지 美 투자 없다…통화 스와프 필요' : 클리앙",
         "link": "https://www.clien.net/service/board/park/19068232",
         "snippet": "미국이 싫어서가 아니고 ... 당하면 안되니까 당연히 <strong>비자 쿼터 문제를 빨리 늘리고 마무리 해야만 대미 투자를 안정적으로 할수 있다는 말로</strong> ......",
         "source": "clien.net"
+      },
+      {
+        "title": "김민석 개각 발표에 진보개혁 연대 환영민생실용 기조 부합",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
+        "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
+        "source": "ruliweb.com"
       },
       {
         "title": "김민석 첫회의부터 기강잡기 최고위 비공개안 노출땐 퇴출",
@@ -500,33 +506,27 @@
       },
       {
         "title": "김민석 李 2차개각에 젊음과 전문성 개혁진보 연대 강화",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797878",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3797878",
         "snippet": "https n news naver com article 021 0002814893 sid 100",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "김민석 총리 대단히 유능합니다..! : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19205083",
+        "snippet": "방향과 속도. 김민석 총리의 속도는 굉장히 좋다봅니다. 내린 전에 김민석총리의 명석함은 굉장했습니다. 정봉주가 그 위치에 있었다면 이정도 까지 오지 못했으리라 봅니다. 하지만 가끔 어긋나는 방향이...",
+        "source": "clien.net"
       },
       {
         "title": "김민석 총리 자꾸만 의심스럽게 행동하면 안됩니다 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19154360",
         "snippet": "@삼광조님 악마화죠. 김민석이 결정한것도 아닌데 화살을 김민석에게 향하게 하잖아요. 그렇게 해야 다음 전당대회에 조금이라도 유리할까봐 세력들이 움직이는거 다 보입니다. ... @모꼬이게님 총리가 결정한겁니다.",
         "source": "clien.net"
-      },
-      {
-        "title": "김민석 총리 진심 대인배시네요 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19157271",
-        "snippet": "그냥 현재 주식시장에서 대통령의 역할이 크다는 걸 얘기하는 과정에서 나온 말인데, 총리실에서 대책회의나 뭔가를 했더라도 그다지 체감되지 않아서 대통령의 공백을 메우진 못했다 정도의 뉘앙스로 들으면 될 걸 가지고 정색해서 팩트체크할 일은 아니라고 봅니다.",
-        "source": "clien.net"
-      },
-      {
-        "title": "김민석 총리 SNS 메시지 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154639",
-        "snippet": "https://twitter.com/ms2030/status/2029432827717271872 내란을 막아낸 국민들, 억울한 시간을 견뎌내온 관련자들, 연이은 제거시도를 이겨낸 대통령. 모두 참 험한 고개를 넘어왔습니다. 오늘 국무회의에서 <strong>사법개혁 3법을 의결</strong>했습니다.",
-        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-09-02T05:21:07.857784",
+    "timestamp": "2026-09-02T10:23:59.664870",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-09-02T05:21:10.555604",
+    "timestamp": "2026-09-02T10:24:02.538408",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -667,16 +667,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "손종원이 진짜 대단한 이유",
-        "link": "https://m.ruliweb.com/community/board/300143/read/73565739",
-        "snippet": "미국에서 태어났고 미국 영주권 있는데 굳이 한국에 와서 안가도 되는 군대까지 다녀옴비슷한 상황에 놓인 다른 유명인들은 보통 미국 국적 선택하고 군대 안감그렇다고 그 사람들이 그 이유 하나만으로 욕 먹지도 않음<strong>손종원</strong>도 그 사람들처럼 할 수 있고 그렇게 해도 딱히 논란 되는거 아닌데 굳이 여기 와서 군대까지 간거임현재는 한국국적",
-        "source": "ruliweb.com"
+        "title": "냉부 손종원 10년전 사진과 현재 사진 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9262296160",
+        "snippet": "돌솥비빔밥 ㅇㅇ 그래서 개미친거임 미쉐린 ‘쌍별’ <strong>손종원</strong> “나는 너드, 또는 덕후” - 경향신문 AMP https://share.google/6XTqwHCPfkepgMoC8 알수록 매력 미치는 사람이더라",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-09-02T05:21:13.317607",
+    "timestamp": "2026-09-02T10:24:05.107042",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -707,8 +707,8 @@
       },
       {
         "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
-        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
       },
       {
@@ -730,16 +730,16 @@
         "source": "clien.net"
       },
       {
-        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
-        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
         "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
         "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
         "source": "82cook.com"
+      },
+      {
+        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
+        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
+        "source": "ruliweb.com"
       },
       {
         "title": "이재명 대통령, 토론현장 : 클리앙",
