@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-09-02T21:30:10.509446",
+    "timestamp": "2026-09-02T23:46:08.717577",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-09-02T21:30:13.240119",
+    "timestamp": "2026-09-02T23:46:11.336587",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,16 +118,16 @@
         "source": "bobaedream.co.kr"
       },
       {
-        "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
-        "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
-        "source": "ppomppu.co.kr"
-      },
-      {
         "title": "고유가 피해 지원금 이건 또 뭐야",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
         "snippet": "뭔 이정부는 자꾸 허공에 돈을 뿌려",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
+        "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
+        "source": "ppomppu.co.kr"
       },
       {
         "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-09-02T21:30:15.851850",
+    "timestamp": "2026-09-02T23:46:14.025128",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -175,16 +175,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "야구장 엔딩요정 아이유 변우석",
-        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
-        "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=430177",
         "snippet": "- 관련게시물 : 아이유, &#x27;대군부인&#x27; 심경고백..&quot;실망끼쳐 죄송, 내 잘못“ 울먹거려- 관련게시물 : &#x27;대군부인&#x27; 역사 왜곡 논란에도 판매 강행…후속 조치 통해 불편최소화- 변우석 사과문- &#x27;21세기 대군부",
         "source": "dcinside.com"
+      },
+      {
+        "title": "야구장 엔딩요정 아이유 변우석",
+        "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
+        "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
+        "source": "ruliweb.com"
       },
       {
         "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-09-02T21:30:18.451341",
+    "timestamp": "2026-09-02T23:46:16.679064",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -268,15 +268,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "직관) 이정후 메이저리그 첫 홈런!!! - 포텐 터짐 최신순",
-        "link": "https://www.fmkorea.com/best/6871246827",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970007565",
         "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "직관) 이정후 메이저리그 첫 홈런!!! - 포텐 터짐 최신순",
+        "link": "https://www.fmkorea.com/best/6871246827",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-09-02T21:30:21.097015",
+    "timestamp": "2026-09-02T23:46:19.341059",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-09-02T21:30:23.734302",
+    "timestamp": "2026-09-02T23:46:22.046159",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -388,28 +388,28 @@
     ],
     "sources": [
       {
-        "title": "[헝가리 vs 몬테네그로] 소보슬라이 곧바로 역전골까지 ㄷㄷ ...",
-        "link": "https://www.fmkorea.com/best/6413936677",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "몬테네그로 vs 헝가리 꿀잼이었네",
         "link": "https://m.ruliweb.com/etcs/board/700155/read/28201",
         "snippet": "들어올 땐 마음대로인 루리웹 메인으로 들어오도록 해",
         "source": "ruliweb.com"
       },
       {
-        "title": "몬테네그로 국명의 비밀jpg",
-        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=2&m=all&t=now",
-        "snippet": "<strong>몬테네그로</strong>의 국명은 · &#x27;검은 산&#x27;이라는 뜻이다 · &quot;마운트+니그로&quot; 진짜임 · 본토에서는 &#x27;츠르나 고라&#x27;라고 부르고 · 동유럽에서는 보통 이계열로 부르는데 · 이상하게 한국에서는 · 프랑스식 발음이 전해짐 ·",
-        "source": "ruliweb.com"
+        "title": "[헝가리 vs 몬테네그로] 소보슬라이 곧바로 역전골까지 ㄷㄷ ...",
+        "link": "https://www.fmkorea.com/best/6413936677",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
       },
       {
         "title": "빅토3) 몬테네그로 날빌 공략 - 패러독스 인터랙티브 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1447617",
         "snippet": "<strong>몬테네그로</strong> 구 시대의 지식인이라 할 수 있는 성직자들조차 문맹이라 교육접근성 박살나고조폐가 뭔지도 모르며세금징수인을 죽이는 전통이 있고심지어 토지조세도 아니고 소비조세로 시작하는 해병-국가다.그나마 군사력은 체급에 비",
         "source": "dcinside.com"
+      },
+      {
+        "title": "몬테네그로 국명의 비밀jpg",
+        "link": "https://bbs.ruliweb.com/best/board/300143/read/74798171?best_tab=readcount&page=6&m=all&t=now",
+        "snippet": "<strong>몬테네그로</strong>의 국명은 · &#x27;검은 산&#x27;이라는 뜻이다 · &quot;마운트+니그로&quot; 진짜임 · 본토에서는 &#x27;츠르나 고라&#x27;라고 부르고 · 동유럽에서는 보통 이계열로 부르는데 · 이상하게 한국에서는 · 프랑스식 발음이 전해짐 ·",
+        "source": "ruliweb.com"
       },
       {
         "title": "오피셜 인천 무고사 몬테네그로 국대 은퇴 선언",
@@ -436,22 +436,22 @@
         "source": "clien.net"
       },
       {
-        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
-        "snippet": "ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋ &#x27;우리가 아는 것은 전쟁뿐이다&#x27; 무기한 악명 감쇠 -50% 그저 상남자 선택지... 심지어 <strong>몬테네그로</strong>는 &#x27;약탈&#x27; 일지 클리어 보상 자체만으로도 악명 감쇠 -35%를 받기 때문에",
-        "source": "dcinside.com"
-      },
-      {
         "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
         "link": "https://www.clien.net/service/board/park/18078795",
         "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
         "source": "clien.net"
+      },
+      {
+        "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
+        "snippet": "ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋ &#x27;우리가 아는 것은 전쟁뿐이다&#x27; 무기한 악명 감쇠 -50% 그저 상남자 선택지... 심지어 <strong>몬테네그로</strong>는 &#x27;약탈&#x27; 일지 클리어 보상 자체만으로도 악명 감쇠 -35%를 받기 때문에",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-09-02T21:30:26.289139",
+    "timestamp": "2026-09-02T23:46:24.687724",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -487,12 +487,6 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석 李 2차개각에 젊음과 전문성 개혁진보 연대 강화",
-        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797878",
-        "snippet": "https n news naver com article 021 0002814893 sid 100",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 개각 발표에 진보개혁 연대 환영민생실용 기조 부합",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
         "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
@@ -505,28 +499,34 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "김민석 李 2차개각에 젊음과 전문성 개혁진보 연대 강화",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3797878",
+        "snippet": "https n news naver com article 021 0002814893 sid 100",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "김민석 총리 대단히 유능합니다..! : 클리앙",
         "link": "https://www.clien.net/service/board/park/19205083",
         "snippet": "방향과 속도. 김민석 총리의 속도는 굉장히 좋다봅니다. 내린 전에 김민석총리의 명석함은 굉장했습니다. 정봉주가 그 위치에 있었다면 이정도 까지 오지 못했으리라 봅니다. 하지만 가끔 어긋나는 방향이...",
         "source": "clien.net"
       },
       {
-        "title": "김민석 이재명 세종 퇴임식 온 국민과 함께 방법 찾겠다",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3798789",
-        "snippet": "거시경제 회복 불구 국민 체감경기는 아직 성장 과실 국회 심의 과정서 국민에 골고루 나눌 것",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 자꾸만 의심스럽게 행동하면 안됩니다 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19154360",
         "snippet": "@삼광조님 악마화죠. 김민석이 결정한것도 아닌데 화살을 김민석에게 향하게 하잖아요. 그렇게 해야 다음 전당대회에 조금이라도 유리할까봐 세력들이 움직이는거 다 보입니다. ... @모꼬이게님 총리가 결정한겁니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "김민석 이재명 세종 퇴임식 온 국민과 함께 방법 찾겠다",
+        "link": "https://bbs.ruliweb.com/news/board/300018/read/3798789",
+        "snippet": "거시경제 회복 불구 국민 체감경기는 아직 성장 과실 국회 심의 과정서 국민에 골고루 나눌 것",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-09-02T21:30:28.978733",
+    "timestamp": "2026-09-02T23:46:27.435292",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-09-02T21:30:31.572263",
+    "timestamp": "2026-09-02T23:46:30.115699",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-09-02T21:30:34.151391",
+    "timestamp": "2026-09-02T23:46:32.763150",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -718,12 +718,6 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
-        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
         "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
@@ -734,6 +728,12 @@
         "link": "https://www.clien.net/service/board/park/18879429",
         "snippet": "커뮤니티 커뮤니티전체 C 모두의광장 F 모두의공원 I 사진게시판 Q 아무거나질문 D 정보와자료 N 새로운소식 T 유용한사이트 P 자료실 E 강좌/사용기 L 팁과강좌 U 사용기 · 체험단사용기 W 사고팔고 J 알뜰구매 S 회원중고장터 ...",
         "source": "clien.net"
+      },
+      {
+        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
+        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
+        "source": "ruliweb.com"
       },
       {
         "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
