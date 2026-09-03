@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-09-03T07:37:45.742969",
+    "timestamp": "2026-09-03T12:28:27.191609",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -43,21 +43,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/war/4828798?page=2",
-        "snippet": "인류애랑 인류뽕 채워지는 영상",
-        "source": "dcinside.com"
-      },
-      {
         "title": "아르테미스 2호와 함께 떠오른 커발 스페이스 프로그램 - 인디게임 마이너 갤러리",
         "link": "https://m.dcinside.com/board/indiegame/367650?page=2",
         "snippet": "아르테미스 2호는 10일간의 임무를 마치고 <strong>11일 무사 귀환</strong>했다. 54년 만의 유인 달 근접 비행, 달 탐사 첫 여성 우주비행사, 성공적인 임무 수행 등으로 많은 주목을 받았으며, 이 관심이 ...",
         "source": "dcinside.com"
       },
       {
-        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
-        "link": "https://m.dcinside.com/mini/flatearthdome/78",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/war/4828798?page=2",
+        "snippet": "인류애랑 인류뽕 채워지는 영상",
         "source": "dcinside.com"
       },
       {
@@ -67,16 +61,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
+        "title": "아르테미스 2호에서 찍은 지구 최신 사진 (사진이 뿌연 이유) - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9670717077",
+        "snippet": "아르테미스 2호에서 찍은 지구 사진아르테미스 2호에서 찍은 지구 사진1972년 아폴로17호에서 찍은 지구아르테미스 2호에서 찍은 지구가 뿌연 이유*아폴로 17호: 태양을 등지고 지구가 완전히 빛을 받는 &#x27;순광&#x27; 상태에서 찍음지구 ...",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
+        "link": "https://m.dcinside.com/mini/flatearthdome/78",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-09-03T07:37:48.358125",
+    "timestamp": "2026-09-03T12:28:29.883241",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -118,10 +118,10 @@
         "source": "bobaedream.co.kr"
       },
       {
-        "title": "고유가 피해 지원금 이건 또 뭐야",
-        "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
-        "snippet": "뭔 이정부는 자꾸 허공에 돈을 뿌려",
-        "source": "ruliweb.com"
+        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9848662439",
+        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
+        "source": "fmkorea.com"
       },
       {
         "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
@@ -130,15 +130,9 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9848662439",
-        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
-        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
+        "title": "고유가 피해 지원금 이건 또 뭐야",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
+        "snippet": "뭔 이정부는 자꾸 허공에 돈을 뿌려",
         "source": "ruliweb.com"
       },
       {
@@ -146,12 +140,18 @@
         "link": "https://www.clien.net/service/board/park/19193280",
         "snippet": "이번 고유가 지원금 기준, 솔직히 이해가 안 됩니다. <strong>1인 가구 건보료 기준은 약 13만 원인데, 2인 외벌이 가구는 14만 원</strong>입니다. 근데 2인 맞벌이는 “3인 외벌이 기준”을 적용해서 약 26만 원 수준까지 인정됩니다.",
         "source": "clien.net"
+      },
+      {
+        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
+        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-09-03T07:37:51.000385",
+    "timestamp": "2026-09-03T12:28:32.577189",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -169,16 +169,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 9회 비하인드",
-        "link": "https://theqoo.net/square/4195294210?amp%3Bfilter_mode=best&category=24788&page=1&document_srl=2787589816&m=1&listStyle=viewer&category=24788",
-        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · [주의] 이 글을 신고합니다. 취소 신고 · 댓글 4 · 목록 · 0 · 댓글 더 보기 · 새 댓글 확인하기 · 전체 이슈 유머 정보 기사/뉴스 팁/유용/추천 ...",
-        "source": "theqoo.net"
-      },
-      {
         "title": "야구장 엔딩요정 아이유 변우석",
         "link": "https://bbs.ruliweb.com/userboard/board/700101/read/32242",
         "snippet": "<strong>야구장 엔딩요정</strong> 아이유 변우석",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 9회 비하인드",
+        "link": "https://theqoo.net/square/4195294210?amp%3Bfilter_mode=best&category=24788&page=1&document_srl=2787589816&m=1&listStyle=viewer&category=24788",
+        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · [주의] 이 글을 신고합니다. 취소 신고 · 댓글 4 · 목록 · 0 · 댓글 더 보기 · 새 댓글 확인하기 · 전체 이슈 유머 정보 기사/뉴스 팁/유용/추천 ...",
+        "source": "theqoo.net"
       },
       {
         "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
@@ -193,10 +193,10 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
-        "link": "https://theqoo.net/square/3703669182",
-        "snippet": "톱 싱어송라이터이자 탁월한 캐릭터 소화력과 탄탄한 연기력으로 배우로서도 확고한 입지를 굳힌 아이유가 선보일 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
-        "source": "theqoo.net"
+        "title": "아이유변우석 사과로 안 끝났다대군부인 이번엔 국회로",
+        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3750068",
+        "snippet": "<strong>아이유 변우석</strong> 사과로 안 끝났다 대군부인 이번엔 국회로",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 첫 티저 공개",
@@ -205,28 +205,28 @@
         "source": "theqoo.net"
       },
       {
-        "title": "아이유변우석 사과로 안 끝났다대군부인 이번엔 국회로",
-        "link": "https://bbs.ruliweb.com/community/board/300446/read/3750068",
-        "snippet": "<strong>아이유 변우석</strong> 사과로 안 끝났다 대군부인 이번엔 국회로",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "우리 스타된다고자만한 대군부인 아이유변우석 역사왜곡 예고된 참사",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3747710",
-        "snippet": "우리 스타된다고 자만한 대군부인 <strong>아이유 변우석</strong> 역사왜곡 예고된 참사였다",
-        "source": "ruliweb.com"
+        "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
+        "link": "https://theqoo.net/square/3703669182",
+        "snippet": "톱 싱어송라이터이자 탁월한 캐릭터 소화력과 탄탄한 연기력으로 배우로서도 확고한 입지를 굳힌 아이유가 선보일 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
         "link": "https://theqoo.net/hot/4190256960",
         "snippet": "이슈 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷 · 36,915 185 · 무명의 더쿠 https://theqoo.net/square/4190256960 · 2026.05.05 11:08 · 36,915 185 · Up Down Comment Print Files · https://youtube.com/shorts/-sQbluvTnJw ·",
         "source": "theqoo.net"
+      },
+      {
+        "title": "우리 스타된다고자만한 대군부인 아이유변우석 역사왜곡 예고된 참사",
+        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3747710",
+        "snippet": "우리 스타된다고 자만한 대군부인 <strong>아이유 변우석</strong> 역사왜곡 예고된 참사였다",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-09-03T07:37:53.627347",
+    "timestamp": "2026-09-03T12:28:35.343109",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -262,15 +262,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9828344085",
-        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970007565",
         "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9828344085",
+        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 ...",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-09-03T07:37:56.321164",
+    "timestamp": "2026-09-03T12:28:38.104975",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-09-03T07:37:58.993034",
+    "timestamp": "2026-09-03T12:28:40.933120",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -424,6 +424,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18078795",
+        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
+        "source": "clien.net"
+      },
+      {
         "title": "몬테네그로- 1911년 유럽 - 빅토리아2 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=victoria2game&no=820",
         "snippet": "스페인은 동맹이었던 <strong>몬테네그로</strong>에 참전을 요구 하였다.",
@@ -436,12 +442,6 @@
         "source": "clien.net"
       },
       {
-        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18078795",
-        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
-        "source": "clien.net"
-      },
-      {
         "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1345869",
         "snippet": "ㅅㅂ ㅋㅋㅋㅋㅋㅋㅋㅋ &#x27;우리가 아는 것은 전쟁뿐이다&#x27; 무기한 악명 감쇠 -50% 그저 상남자 선택지... 심지어 <strong>몬테네그로</strong>는 &#x27;약탈&#x27; 일지 클리어 보상 자체만으로도 악명 감쇠 -35%를 받기 때문에",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-09-03T07:38:01.592128",
+    "timestamp": "2026-09-03T12:28:43.603915",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -469,21 +469,15 @@
         "source": "clien.net"
       },
       {
-        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19127030",
-        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
-        "source": "clien.net"
-      },
-      {
         "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
         "link": "https://www.clien.net/service/board/park/19149618",
         "snippet": "국무회의 보시면 아시겠지만 대통령은 잘 하는 분들에게만 칭찬해요 빈말 안 합니다. ... 상식적으로 생각해봐도 총리가 자기 돋보이려고 돌아다니면서 생중계를 하는데 그걸 대통령이 가만히 보고 있겠습니까? 그리고 저 라이브를 한번이라도 봤다면 국정홍보를 하는 자리인거 압니다. 그런데 최강욱은 밑도끝도없이 김민석이 돋보이려고 돌아다닌다고 악마화하고 거기에 동조하는게 맞아요?",
         "source": "clien.net"
       },
       {
-        "title": "김민석 총리 '비자 해결 될때까지 美 투자 없다…통화 스와프 필요' : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19068232",
-        "snippet": "미국이 싫어서가 아니고 ... 당하면 안되니까 당연히 <strong>비자 쿼터 문제를 빨리 늘리고 마무리 해야만 대미 투자를 안정적으로 할수 있다는 말로</strong> ......",
+        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19127030",
+        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
         "source": "clien.net"
       },
       {
@@ -491,6 +485,12 @@
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3797688",
         "snippet": "김민석 개각 발표에 진보 개혁 연대 환영 민생실용 기조 부합",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "김민석 총리 '비자 해결 될때까지 美 투자 없다…통화 스와프 필요' : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19068232",
+        "snippet": "미국이 싫어서가 아니고 ... 당하면 안되니까 당연히 <strong>비자 쿼터 문제를 빨리 늘리고 마무리 해야만 대미 투자를 안정적으로 할수 있다는 말로</strong> ......",
+        "source": "clien.net"
       },
       {
         "title": "김민석 인생은 미완성 행정수도는 완성",
@@ -511,22 +511,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "김민석 이재명 세종 퇴임식 온 국민과 함께 방법 찾겠다",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3798789",
-        "snippet": "거시경제 회복 불구 국민 체감경기는 아직 성장 과실 국회 심의 과정서 국민에 골고루 나눌 것",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석 총리 대단히 유능합니다..! : 클리앙",
         "link": "https://www.clien.net/service/board/park/19205083",
         "snippet": "방향과 속도. 김민석 총리의 속도는 굉장히 좋다봅니다. 내린 전에 김민석총리의 명석함은 굉장했습니다. 정봉주가 그 위치에 있었다면 이정도 까지 오지 못했으리라 봅니다. 하지만 가끔 어긋나는 방향이...",
+        "source": "clien.net"
+      },
+      {
+        "title": "김민석 총리 SNS 메시지 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154639",
+        "snippet": "https://twitter.com/ms2030/status/2029432827717271872 내란을 막아낸 국민들, 억울한 시간을 견뎌내온 관련자들, 연이은 제거시도를 이겨낸 대통령. 모두 참 험한 고개를 넘어왔습니다. 오늘 국무회의에서 <strong>사법개혁 3법을 의결</strong>했습니다.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-09-03T07:38:04.262752",
+    "timestamp": "2026-09-03T12:28:46.320805",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-09-03T07:38:06.923455",
+    "timestamp": "2026-09-03T12:28:49.036147",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-09-03T07:38:09.555914",
+    "timestamp": "2026-09-03T12:28:51.793126",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -719,8 +719,8 @@
       },
       {
         "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
-        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38109599",
+        "snippet": "하... 인도 총리 딴 생각하면서 웃는 흉내 내고 있구만~ㅋ · 외?교 천재라고 하기에는 이제서야 명함돌리기 단계라서 속단하기 이르지",
         "source": "ruliweb.com"
       },
       {
@@ -730,16 +730,16 @@
         "source": "clien.net"
       },
       {
-        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
-        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "\"G7에서 G20까지… 언론이 숨긴 이재명 대통령의 외교 대반전\" ::: 82cook.com 자유게시판",
         "link": "https://www.82cook.com/entiz/read.php?bn=15&num=4044365",
         "snippet": "제가보는 개인 유튜브 뉴스입니다 · 언론이 보도 안하는 성과 요약입니다",
         "source": "82cook.com"
+      },
+      {
+        "title": "기존 계약 따지러 온 줄 알았던 폴란드 근황",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/65804893",
+        "snippet": "물건 좋네요 더 사가요천무용 탄약이랑 발사대만 더 사감ㅋㅋㅋㅋㅋ",
+        "source": "ruliweb.com"
       },
       {
         "title": "이재명 대통령, 토론현장 : 클리앙",
