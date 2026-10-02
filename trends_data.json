@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-10-02T13:27:29.537889",
+    "timestamp": "2026-10-02T18:52:55.704448",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -55,16 +55,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19172503",
-        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
-        "source": "clien.net"
-      },
-      {
         "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
         "link": "https://m.dcinside.com/mini/flatearthdome/78",
         "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19172503",
+        "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
+        "source": "clien.net"
       },
       {
         "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-10-02T13:27:32.187968",
+    "timestamp": "2026-10-02T18:52:58.349292",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -112,6 +112,18 @@
         "source": "dcinside.com"
       },
       {
+        "title": "고유가 지원금 풀렸지만생활비엔 역부족 일회성 소비로",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3750899",
+        "snippet": "<strong>고유가 지원금</strong> 풀렸지만 생활비엔 역부족 일회성 소비로",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9848662439",
+        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
         "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
         "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
@@ -124,34 +136,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9848662439",
-        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
-        "source": "fmkorea.com"
-      },
-      {
-        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
-        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 피해 지원금 이건 또 뭐야",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
         "snippet": "인터넷 가입 변경 지원금 · 초고속 성장 하이퍼부스트 · 햄버거 8개 먹는데 다들 햄최몇임?? 결국 환율은 정부의 돈푸네 마네가 아니라 금리의 문제임 · 미쳐가는 엔화 현황 · 수출 강국에서 수입 강국으로.jpg ·",
         "source": "ruliweb.com"
       },
       {
-        "title": "고유가 지원금 풀렸지만생활비엔 역부족 일회성 소비로",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3750899",
-        "snippet": "<strong>고유가 지원금</strong> 풀렸지만 생활비엔 역부족 일회성 소비로",
+        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
+        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
         "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-10-02T13:27:34.825352",
+    "timestamp": "2026-10-02T18:53:00.956800",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -181,16 +181,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=430177",
-        "snippet": "- 관련게시물 : 아이유, &#x27;대군부인&#x27; 심경고백..&quot;실망끼쳐 죄송, 내 잘못“ 울먹거려- 관련게시물 : &#x27;대군부인&#x27; 역사 왜곡 논란에도 판매 강행…후속 조치 통해 불편최소화- 변우석 사과문- &#x27;21세기 대군부",
-        "source": "dcinside.com"
-      },
-      {
         "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
         "link": "https://bbs.ruliweb.com/community/board/300013/read/3725929",
         "snippet": "<strong>아이유 변우석</strong> 주연 21세기 대군부인 캐릭터 포스터 공개",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "[공식] 아이유, 변우석 공식 사과문 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=430177",
+        "snippet": "- 관련게시물 : 아이유, &#x27;대군부인&#x27; 심경고백..&quot;실망끼쳐 죄송, 내 잘못“ 울먹거려- 관련게시물 : &#x27;대군부인&#x27; 역사 왜곡 논란에도 판매 강행…후속 조치 통해 불편최소화- 변우석 사과문- &#x27;21세기 대군부",
+        "source": "dcinside.com"
       },
       {
         "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
@@ -211,22 +211,22 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 포스터 공개💘",
-        "link": "https://theqoo.net/hot/4121065792",
-        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · 오는 4월 10일 첫 방송될 MBC 새 금토드라마 ‘21세기 대군부인’(극본 유지원/ 연출 박준화, 배희영) 측이 3월 10일 커플 포스터를 최초로 ...",
-        "source": "theqoo.net"
-      },
-      {
         "title": "더쿠 - “기대가 너무 컸나”… 아이유·변우석 ’21세기 대군부인’ 연기력 논란",
         "link": "https://theqoo.net/square/4163357110",
         "snippet": "MBC 새 금토 드라마 ‘21세기 대군부인’의 주연 배우 아이유와 변우석이 연기력 논란에 휩싸였다.",
         "source": "theqoo.net"
+      },
+      {
+        "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-10-02T13:27:37.535056",
+    "timestamp": "2026-10-02T18:53:03.599245",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -250,16 +250,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "MLB 이정후 ML 첫 시즌 10홈런 달성김하성의 ATL은 PS 확정",
         "link": "https://bbs.ruliweb.com/sports/board/300276/read/3806579",
         "snippet": "<strong>시속 157km</strong> 홈런 작렬",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
+        "source": "fmkorea.com"
       },
       {
         "title": "이정후 홈런 현지 해설 - 포텐 터짐 최신순 - 에펨코리아",
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-10-02T13:27:40.193935",
+    "timestamp": "2026-10-02T18:53:06.205993",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -349,16 +349,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "세미리프컷 하려고 하는데 꿀팁있나요? - 패션 - 에펨코리아",
-        "link": "https://www.fmkorea.com/4762481093",
-        "snippet": "한~두 달전 뜬금없이 인터넷에서 세미 리프컷 사진을 보게됐는데 세미 리프컷이 너무 하고싶어서 그냥 짧은머리에서 머리를 길렀습니다.계속 기르니까 점점 거지존이 오더군요. 지금이 딱 거지존이고 2~3주후면 완전 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "삼성 파운드리 RISC-V 코어 칩 생산 나선다 : 클리앙",
         "link": "https://www.clien.net/service/board/news/14146876",
         "snippet": "<strong>세미파이브</strong>와 생산 위한 협업 삼성 파운드리가 ARM 코어 외 다른 코어 IP를 공정에 적용하는 것은 이번이 처음인 것으로 알려졌다. 조명현 <strong>세미파이브</strong> 대표는 11일 &quot;삼성전자 14나노 LPP(Low Power Plus) 공정기반 디자인 솔루션을 개발하고 있다&quot;고 밝혔다.",
         "source": "clien.net"
+      },
+      {
+        "title": "세미리프컷 하려고 하는데 꿀팁있나요? - 패션 - 에펨코리아",
+        "link": "https://www.fmkorea.com/4762481093",
+        "snippet": "한~두 달전 뜬금없이 인터넷에서 세미 리프컷 사진을 보게됐는데 세미 리프컷이 너무 하고싶어서 그냥 짧은머리에서 머리를 길렀습니다.계속 기르니까 점점 거지존이 오더군요. 지금이 딱 거지존이고 2~3주후면 완전 ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "리브스임세미 비상장가 근황 - 공모주 청약 갤러리",
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-10-02T13:27:42.856207",
+    "timestamp": "2026-10-02T18:53:08.871737",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -418,15 +418,15 @@
         "source": "clien.net"
       },
       {
-        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18025219",
-        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
-        "source": "clien.net"
-      },
-      {
         "title": "몬테네그로 대법원, 권도형 한국 송환 무효화⋯미국행 가능성 커져 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18689525",
         "snippet": "앞서 <strong>몬테네그로</strong> 항소법원이 지난달 20일 항소법원이 권 씨의 한국 송환을 확정했는데, 대검찰청은 이에 불복해 &quot;대법원에서 적법성 여부를 판단해 법원의 결정을 변경하는 판결을 내달라&quot;고 요청했습니다.",
+        "source": "clien.net"
+      },
+      {
+        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18025219",
+        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
         "source": "clien.net"
       },
       {
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-10-02T13:27:45.445763",
+    "timestamp": "2026-10-02T18:53:11.503215",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-10-02T13:27:48.095707",
+    "timestamp": "2026-10-02T18:53:14.154624",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -556,27 +556,27 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
-        "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 ...",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "출산율 극단적으로 올린 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/10318189201",
         "snippet": "vizance 15% 넘게 차지하고 유아는 1/4이 하레디고 정계랑 내각도 대거 차지하고있기도하고 생각보다 비율 높고 지속적으로 높아짐. 내가 처음 이스라엘 가본게2005년이였는데 그때 딱 그정도 포지션이였는데 지금 그 인구에서 차지하는 비율이비율이 엄청높아짐",
         "source": "fmkorea.com"
       },
       {
-        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
-        "snippet": "빨간게 이스라엘이고 파란게 팔레스타인임. 모든 팔레스타인 땅이 전쟁중인건 아니고 커다란 땅에서 떨어진 저 파란 꼬다리가 가자지구인데 저기가 전쟁터임. 이란과 비교를 해보자. 일본이 크다는 글이 종종 올라오는데 이란은 그 일본보다 훨씬 크다. 근데 인구는 일본보다 적음.",
-        "source": "dcinside.com"
+        "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
+        "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 ...",
+        "source": "ruliweb.com"
       },
       {
         "title": "이스라엘의 암덩어리, 하레디에 대해 알아보자 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=222984",
         "snippet": "오늘날 이스라엘 인구의 <strong>20%는 아랍인들이고, 13%는 하레디들이며</strong>, 특히 하레디들은 16년마다 거의 2배씩 증가하며 이스라엘의 인구증가수인 1.2%에 비해 연간 4.2%의 성장률을 보여 2040년이 ...",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
+        "snippet": "빨간게 이스라엘이고 파란게 팔레스타인임. 모든 팔레스타인 땅이 전쟁중인건 아니고 커다란 땅에서 떨어진 저 파란 꼬다리가 가자지구인데 저기가 전쟁터임. 이란과 비교를 해보자. 일본이 크다는 글이 종종 올라오는데 이란은 그 일본보다 훨씬 크다. 근데 인구는 일본보다 적음.",
         "source": "dcinside.com"
       },
       {
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-10-02T13:27:50.743230",
+    "timestamp": "2026-10-02T18:53:16.773119",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-10-02T13:27:53.372522",
+    "timestamp": "2026-10-02T18:53:19.386877",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -712,6 +712,12 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "더쿠 - 이재명 대통령 프랑스 방문 효과🇫🇷",
+        "link": "https://theqoo.net/square/4343686451",
+        "snippet": "독립기념일에만 막는다는 샹젤리제 거리에서의 이재명 대통령 카퍼레이드 모습 · 기병대의 위용이 대단해",
+        "source": "theqoo.net"
+      },
+      {
         "title": "폴란드 헌재 자국 공산당에 해산 선고",
         "link": "https://m.ruliweb.com/community/board/300148/read/38366541",
         "snippet": "쟤네 민주화 한 뒤에도 공산당이 있긴 했구나",
@@ -724,28 +730,22 @@
         "source": "ruliweb.com"
       },
       {
+        "title": "더쿠 - 이재명 오늘 기자회견 주요내용 요약...txt",
+        "link": "https://theqoo.net/square/3811689815",
+        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
+        "source": "theqoo.net"
+      },
+      {
         "title": "외교천재 이재명",
         "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
         "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 이재명 대통령 프랑스 방문 효과🇫🇷",
-        "link": "https://theqoo.net/square/4343686451",
-        "snippet": "독립기념일에만 막는다는 샹젤리제 거리에서의 이재명 대통령 카퍼레이드 모습 · 기병대의 위용이 대단해",
-        "source": "theqoo.net"
-      },
-      {
         "title": "도람뿌랑 정식 회담 일정도 안 잡은 모양임",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38757183",
         "snippet": "거의 유엔 총회때 인사 정도나 할 지도 모름 기사 봐도 깜짝 만남 이딴 문구나 보이거든 막산 미친 ㅅㄲ",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "더쿠 - 이재명 오늘 기자회견 주요내용 요약...txt",
-        "link": "https://theqoo.net/square/3811689815",
-        "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
-        "source": "theqoo.net"
       }
     ]
   }
