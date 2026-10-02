@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-10-01T20:16:33.018613",
+    "timestamp": "2026-10-02T00:25:39.759819",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -55,16 +55,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
-        "link": "https://m.dcinside.com/mini/flatearthdome/78",
-        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
-        "source": "dcinside.com"
-      },
-      {
         "title": "[시뮬] 아르테미스 2호 현재 위치는!? : 클리앙",
         "link": "https://www.clien.net/service/board/park/19172503",
         "snippet": "유인우주선 크기는 대충 이 정도 사이즈에 대충 이 정도 위치에 있네요 우주선 안에서 밖을 내다보고 있으면 어떤 느낌일까 궁금하네여 ㅎㄷㄷㄷ",
         "source": "clien.net"
+      },
+      {
+        "title": "여기는 아르테미스 2호 발사되고 갤 터진 거임? - 평평한지구 미니 갤러리",
+        "link": "https://m.dcinside.com/mini/flatearthdome/78",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       },
       {
         "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-10-01T20:16:35.632487",
+    "timestamp": "2026-10-02T00:25:42.416557",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -124,16 +124,16 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9848662439",
-        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
         "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9848662439",
+        "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
+        "source": "fmkorea.com"
       },
       {
         "title": "고유가 피해 지원금 이건 또 뭐야",
@@ -142,16 +142,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "고유가 피해 지원금 << 이거 불난데 기름붓는격 아님?ㅋㅋ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9860470230",
-        "snippet": "양철고양이 추경 26조원 중에 5조원이 고유가지원금이고, 나머지가 유가최대가정책, 원유/나프타 등 원자재수급망 안정 등에 쓰이고 지방재정보강, 국채상환 등에도 쓰였어요. 다 포함되어있는 것 같은데.. 고유가지원금은 사실상 저소득층/소상공인 지원금이라고 봐야해서 20%정도 배정한거면 뭐 마냥 욕할건 아닌거라 생각합니다.",
-        "source": "fmkorea.com"
+        "title": "“ 고유가 피해 지원금 “ : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19170688",
+        "snippet": "유동성이 늘어난 만큼 환율과 물가에 전혀 영향이 없다고 장담할수 없으니 말이죠.당장 눈에 보이는 환율 1550원을 넘어가고 있어 그런 듯 싶습니다.환율 1400원대였으면 지원금 주는 것에 대해 문제제기하는 사람들은 소수였겠죠.또 다시 환율을 자극하는 재료로 사용될까봐 그런 듯 싶습니다.",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-10-01T20:16:38.260752",
+    "timestamp": "2026-10-02T00:25:45.090323",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -187,6 +187,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
+        "link": "https://bbs.ruliweb.com/community/board/300013/read/3725929",
+        "snippet": "<strong>아이유 변우석</strong> 주연 21세기 대군부인 캐릭터 포스터 공개",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "더쿠 - [공식] ‘21세기 대군부인’ 아이유·변우석·노상현·공승연 출연 확정 2026년 상반기 방송",
         "link": "https://theqoo.net/square/3703669182",
         "snippet": "톱 싱어송라이터이자 탁월한 캐릭터 소화력과 탄탄한 연기력으로 배우로서도 확고한 입지를 굳힌 아이유가 선보일 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
@@ -197,12 +203,6 @@
         "link": "https://theqoo.net/hot/4045919114",
         "snippet": "아이유는 뛰어난 미모와 지성, 승부욕까지 갖춘 능력 있는 경영인이지만 평민이라는 신분의 한계를 지닌 재벌가의 둘째 ‘성희주’를 연기한다. 성희주는 자신이 가지고 있지 않은 단 하나, ‘신분’을 얻기 위해 이안대군 ‘이완’(변우석 분)과의 계약결혼을 선택하는 당찬 캐릭터다.",
         "source": "theqoo.net"
-      },
-      {
-        "title": "아이유 변우석 주연 21세기 대군부인 캐릭터 포스터 공개",
-        "link": "https://bbs.ruliweb.com/community/board/300013/read/3725929",
-        "snippet": "<strong>아이유 변우석</strong> 주연 21세기 대군부인 캐릭터 포스터 공개",
-        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-10-01T20:16:40.933228",
+    "timestamp": "2026-10-02T00:25:47.746501",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -250,16 +250,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "MLB 이정후 ML 첫 시즌 10홈런 달성김하성의 ATL은 PS 확정",
-        "link": "https://bbs.ruliweb.com/sports/board/300276/read/3806579",
-        "snippet": "<strong>시속 157km</strong> 홈런 작렬",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9694741595",
         "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "MLB 이정후 ML 첫 시즌 10홈런 달성김하성의 ATL은 PS 확정",
+        "link": "https://bbs.ruliweb.com/sports/board/300276/read/3806579",
+        "snippet": "<strong>시속 157km</strong> 홈런 작렬",
+        "source": "ruliweb.com"
       },
       {
         "title": "이정후 홈런 현지 해설 - 포텐 터짐 최신순 - 에펨코리아",
@@ -280,15 +280,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9828344085",
-        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 15 16 17 18 19 20 21 22 끝 페이지",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이정후 홈런!!!!!!!!!!!!! - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9749473821",
         "snippet": "여기서 스플래쉬 히트란? 샌프란시스코 구장은 우측 담장 밖이 바다임 그래서 오른쪽 담장을 넘어 장외 바다(맥코비만)에 떨어뜨리는 대형 홈런을 &#x27;스플래시 히트&#x27;라 부름",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 동점 인사이드파크 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9828344085",
+        "snippet": "해설이 3루타 3루타 하고 공이 중계될때 이정후 3루 잘 갔나 3루 보려고 했는데 이미 3루 지나서 홈으로 뛰고 있네 ... 좌익수 누구야 ㅋㅋㅋ 타구판단 못하고 파울인줄알고 수비를 포기해부렀네 ㅋㅋㅋㅋ · 첫 페이지 13 14 15 16 17 18 19 20 21 22 끝 페이지",
         "source": "fmkorea.com"
       },
       {
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-10-01T20:16:43.537046",
+    "timestamp": "2026-10-02T00:25:50.503395",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-10-01T20:16:46.194453",
+    "timestamp": "2026-10-02T00:25:53.234870",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -432,7 +432,7 @@
       {
         "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18656938",
-        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 ...",
+        "snippet": "<strong>몬테네그로</strong> 대법원에서 권도형씨 한국 송환에 대한 검찰의 이의제기를 받아들여 이에 대한 새로운 최종 심리가 확정될 때까지 송환을 연기한다고 밝혔습니다. 아직 MBC 뉴스 기사가 나오지 않아 링크는 <strong>몬테네그로</strong> 대법원 공식 홈페이지 공식 발표 원문입니다.",
         "source": "clien.net"
       },
       {
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-10-01T20:16:48.789548",
+    "timestamp": "2026-10-02T00:25:55.882589",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-10-01T20:16:51.415503",
+    "timestamp": "2026-10-02T00:25:58.547905",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -556,27 +556,27 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "출산율 극단적으로 올린 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10318189201",
-        "snippet": "vizance 15% 넘게 차지하고 유아는 1/4이 하레디고 정계랑 내각도 대거 차지하고있기도하고 생각보다 비율 높고 지속적으로 높아짐. 내가 처음 이스라엘 가본게2005년이였는데 그때 딱 그정도 포지션이였는데 지금 그 인구에서 ...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
         "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 아이를 계속 낳아서 한가정 평균 출산율이 7명 남편은 일하지않고 정부의 출산지원금 여성들의 최저임금으로 커버하며 종교경전 율법 공부만하고일도 하지않고 병역에도 참여하지않으며 아이를 만드는 것빼곤 전멸인 집단이 하레디 우리가 알고있는 흔한 부자 천재 유대인들은 하레디가 아니고 독일계 유대인 아슈케나짐 출신들주로 종교 ㅈ까 라고하는 세속주의 탈종교 유대인사람들이다",
         "source": "ruliweb.com"
       },
       {
-        "title": "이스라엘의 암덩어리, 하레디에 대해 알아보자 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=222984",
-        "snippet": "오늘날 이스라엘 인구의 <strong>20%는 아랍인들이고, 13%는 하레디들이며</strong>, 특히 하레디들은 16년마다 거의 2배씩 증가하며 이스라엘의 인구증가수인 1.2%에 비해 연간 4.2%의 성장률을 보여 2040년이 ...",
-        "source": "dcinside.com"
+        "title": "출산율 극단적으로 올린 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10318189201",
+        "snippet": "vizance 15% 넘게 차지하고 유아는 1/4이 하레디고 정계랑 내각도 대거 차지하고있기도하고 생각보다 비율 높고 지속적으로 높아짐. 내가 처음 이스라엘 가본게2005년이였는데 그때 딱 그정도 포지션이였는데 지금 그 인구에서 ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
         "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
         "snippet": "빨간게 이스라엘이고 파란게 팔레스타인임. 모든 팔레스타인 땅이 전쟁중인건 아니고 커다란 땅에서 떨어진 저 파란 꼬다리가 가자지구인데 저기가 전쟁터임. 이란과 비교를 해보자. 일본이 크다는 글이 종종 올라오는데 이란은 그 일본보다 훨씬 크다. 근데 인구는 일본보다 적음.",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "이스라엘의 암덩어리, 하레디에 대해 알아보자 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=222984",
+        "snippet": "오늘날 이스라엘 인구의 <strong>20%는 아랍인들이고, 13%는 하레디들이며</strong>, 특히 하레디들은 16년마다 거의 2배씩 증가하며 이스라엘의 인구증가수인 1.2%에 비해 연간 4.2%의 성장률을 보여 2040년이 ...",
         "source": "dcinside.com"
       },
       {
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-10-01T20:16:54.041703",
+    "timestamp": "2026-10-02T00:26:01.212728",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-10-01T20:16:56.629098",
+    "timestamp": "2026-10-02T00:26:03.896565",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -712,10 +712,10 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 이재명 대통령 프랑스 방문 효과🇫🇷",
-        "link": "https://theqoo.net/square/4343686451",
-        "snippet": "독립기념일에만 막는다는 샹젤리제 거리에서의 이재명 대통령 카퍼레이드 모습 · 기병대의 위용이 대단해",
-        "source": "theqoo.net"
+        "title": "외교천재 이재명",
+        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
+        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
+        "source": "ruliweb.com"
       },
       {
         "title": "폴란드 헌재 자국 공산당에 해산 선고",
@@ -724,22 +724,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "외교천재 이재명",
-        "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
-        "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "도람뿌랑 정식 회담 일정도 안 잡은 모양임",
-        "link": "https://bbs.ruliweb.com/community/board/300148/read/38757183",
-        "snippet": "거의 유엔 총회때 인사 정도나 할 지도 모름 기사 봐도 깜짝 만남 이딴 문구나 보이거든 막산 미친 ㅅㄲ",
-        "source": "ruliweb.com"
+        "title": "더쿠 - 이재명 대통령 프랑스 방문 효과🇫🇷",
+        "link": "https://theqoo.net/square/4343686451",
+        "snippet": "독립기념일에만 막는다는 샹젤리제 거리에서의 이재명 대통령 카퍼레이드 모습 · 기병대의 위용이 대단해",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 이재명 오늘 기자회견 주요내용 요약...txt",
         "link": "https://theqoo.net/square/3811689815",
         "snippet": "더쿠소개 / 이용약관 / 개인정보처리방침 / 청소년 보호정책 / 게시중단안내 / 테스트방 / 문의+신고 / 문제보고 · 문의메일 : admin@theqoo.net",
         "source": "theqoo.net"
+      },
+      {
+        "title": "도람뿌랑 정식 회담 일정도 안 잡은 모양임",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38757183",
+        "snippet": "거의 유엔 총회때 인사 정도나 할 지도 모름 기사 봐도 깜짝 만남 이딴 문구나 보이거든 막산 미친 ㅅㄲ",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - 엠사 뉴데 : 오늘 꼭지 헤드라인 전부 이재명 기자회견으로 뽑음",
