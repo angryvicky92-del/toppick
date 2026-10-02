@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-10-02T00:25:39.759819",
+    "timestamp": "2026-10-02T06:33:26.659557",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-10-02T00:25:42.416557",
+    "timestamp": "2026-10-02T06:33:29.383066",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -106,12 +106,6 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금 풀렸지만생활비엔 역부족 일회성 소비로",
-        "link": "https://bbs.ruliweb.com/community/board/300018/read/3750899",
-        "snippet": "<strong>고유가 지원금</strong> 풀렸지만 생활비엔 역부족 일회성 소비로",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) - 수영-일반 마이너 갤러리",
         "link": "https://m.dcinside.com/board/swimangel/62",
         "snippet": "고유가 피해지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) ✅ 결론 요약 · 2026년 고유가 피해지원금 1차 신청은 4월 27일부터 시작 · 대상은 기초생활수급자·차상위계층·한부모 가구 · 신청은 온라인(카드·앱·ARS) 또는 오프라인(주민센터) 가능하며 요일제 필수 적용 ·",
@@ -124,34 +118,40 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
-        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "고유가 지원금' 2차, 누적 1319만명 신청…\"3조739억 지급\" - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9848662439",
         "snippet": "https://www.news1.kr/local/moi/6172378정부의 고유가 피해지원금 1·2차 누적 신청자가 1300만명을 넘어선 것으로 집계됐다. <strong>지급액은 3조 원을 돌파</strong>했다.",
         "source": "fmkorea.com"
       },
       {
+        "title": "고유가 지원금 지류로 받으면 기한 없을 줄 알았는데",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/75263944",
+        "snippet": "전에 재난지원금때였나는 지류로 받으면 기한 없었어서 이번에도 그런가 했는데 기한 있네 8월말까지 지역상품권 어따 쓰지이럴 거면 어플로 받을껄 배달 음식이라도 시킬 수 있는데",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "고유가 피해 지원금 << 이거 불난데 기름붓는격 아님?ㅋㅋ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9860470230",
+        "snippet": "양철고양이 추경 26조원 중에 5조원이 고유가지원금이고, 나머지가 유가최대가정책, 원유/나프타 등 원자재수급망 안정 등에 쓰이고 지방재정보강, 국채상환 등에도 쓰였어요. 다 포함되어있는 것 같은데.. 고유가지원금은 사실상 저소득층/소상공인 지원금이라고 봐야해서 20%정도 배정한거면 뭐 마냥 욕할건 아닌거라 생각합니다.",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "고유가 지원금 풀렸지만생활비엔 역부족 일회성 소비로",
+        "link": "https://bbs.ruliweb.com/community/board/300018/read/3750899",
+        "snippet": "<strong>고유가 지원금</strong> 풀렸지만 생활비엔 역부족 일회성 소비로",
+        "source": "ruliweb.com"
+      },
+      {
         "title": "고유가 피해 지원금 이건 또 뭐야",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38561381",
         "snippet": "뭔 이정부는 자꾸 허공에 돈을 뿌려",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "“ 고유가 피해 지원금 “ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19170688",
-        "snippet": "유동성이 늘어난 만큼 환율과 물가에 전혀 영향이 없다고 장담할수 없으니 말이죠.당장 눈에 보이는 환율 1550원을 넘어가고 있어 그런 듯 싶습니다.환율 1400원대였으면 지원금 주는 것에 대해 문제제기하는 사람들은 소수였겠죠.또 다시 환율을 자극하는 재료로 사용될까봐 그런 듯 싶습니다.",
-        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-10-02T00:25:45.090323",
+    "timestamp": "2026-10-02T06:33:32.043891",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -211,22 +211,22 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유, 변우석 <21세기 대군부인> 포스터 공개💘",
-        "link": "https://theqoo.net/hot/4121065792",
-        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · 오는 4월 10일 첫 방송될 MBC 새 금토드라마 ‘21세기 대군부인’(극본 유지원/ 연출 박준화, 배희영) 측이 3월 10일 커플 포스터를 최초로 공개했다.",
-        "source": "theqoo.net"
-      },
-      {
         "title": "더쿠 - “기대가 너무 컸나”… 아이유·변우석 ’21세기 대군부인’ 연기력 논란",
         "link": "https://theqoo.net/square/4163357110",
         "snippet": "MBC 새 금토 드라마 ‘21세기 대군부인’의 주연 배우 아이유와 변우석이 연기력 논란에 휩싸였다.",
         "source": "theqoo.net"
+      },
+      {
+        "title": "아이유 변우석 근황 - 기타 국내 드라마 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=drama_new3&no=19938475",
+        "snippet": "야간 모드를 이용해 보세요 · 즐겨찾는 갤러리 리스트입니다",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-10-02T00:25:47.746501",
+    "timestamp": "2026-10-02T06:33:34.739403",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-10-02T00:25:50.503395",
+    "timestamp": "2026-10-02T06:33:37.463655",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-10-02T00:25:53.234870",
+    "timestamp": "2026-10-02T06:33:40.182259",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-10-02T00:25:55.882589",
+    "timestamp": "2026-10-02T06:33:42.933267",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-10-02T00:25:58.547905",
+    "timestamp": "2026-10-02T06:33:45.632780",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -556,27 +556,27 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
-        "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 아이를 계속 낳아서 한가정 평균 출산율이 7명 남편은 일하지않고 정부의 출산지원금 여성들의 최저임금으로 커버하며 종교경전 율법 공부만하고일도 하지않고 병역에도 참여하지않으며 아이를 만드는 것빼곤 전멸인 집단이 하레디 우리가 알고있는 흔한 부자 천재 유대인들은 하레디가 아니고 독일계 유대인 아슈케나짐 출신들주로 종교 ㅈ까 라고하는 세속주의 탈종교 유대인사람들이다",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "출산율 극단적으로 올린 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/10318189201",
         "snippet": "vizance 15% 넘게 차지하고 유아는 1/4이 하레디고 정계랑 내각도 대거 차지하고있기도하고 생각보다 비율 높고 지속적으로 높아짐. 내가 처음 이스라엘 가본게2005년이였는데 그때 딱 그정도 포지션이였는데 지금 그 인구에서 ...",
         "source": "fmkorea.com"
       },
       {
-        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
-        "snippet": "빨간게 이스라엘이고 파란게 팔레스타인임. 모든 팔레스타인 땅이 전쟁중인건 아니고 커다란 땅에서 떨어진 저 파란 꼬다리가 가자지구인데 저기가 전쟁터임. 이란과 비교를 해보자. 일본이 크다는 글이 종종 올라오는데 이란은 그 일본보다 훨씬 크다. 근데 인구는 일본보다 적음.",
-        "source": "dcinside.com"
+        "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
+        "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 아이를 계속 낳아서 한가정 평균 출산율이 7명 남편은 일하지않고 정부의 출산지원금 여성들의 최저임금으로 커버하며 종교경전 율법 공부만하고일도 하지않고 병역에도 참여하지않으며 아이를 만드는 것빼곤 전멸인 집단이 하레디 우리가 알고있는 흔한 부자 천재 유대인들은 하레디가 아니고 독일계 유대인 아슈케나짐 출신들주로 종교 ㅈ까 라고하는 세속주의 탈종교 유대인사람들이다",
+        "source": "ruliweb.com"
       },
       {
         "title": "이스라엘의 암덩어리, 하레디에 대해 알아보자 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=222984",
         "snippet": "오늘날 이스라엘 인구의 <strong>20%는 아랍인들이고, 13%는 하레디들이며</strong>, 특히 하레디들은 16년마다 거의 2배씩 증가하며 이스라엘의 인구증가수인 1.2%에 비해 연간 4.2%의 성장률을 보여 2040년이 ...",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "싱글벙글 이스라엘, 이란, 한국 크기 비교 - 싱글벙글 지구촌 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=singlebungle1472&no=1491313",
+        "snippet": "빨간게 이스라엘이고 파란게 팔레스타인임. 모든 팔레스타인 땅이 전쟁중인건 아니고 커다란 땅에서 떨어진 저 파란 꼬다리가 가자지구인데 저기가 전쟁터임. 이란과 비교를 해보자. 일본이 크다는 글이 종종 올라오는데 이란은 그 일본보다 훨씬 크다. 근데 인구는 일본보다 적음.",
         "source": "dcinside.com"
       },
       {
@@ -586,22 +586,22 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "OECD 국가 인구밀도 순위 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9924070199",
-        "snippet": "출처: https://www.threads.com/@information_rank/post/DZFNhqdE4To?xmt=AQG0V89oaQ2ojq8kaB2n3Or-wlbrfgbNkrMtAkFy0TpenA다만 이 통계에는 약간의 특이점이 있는데 예를 들어 이스라엘의 면적 통계는 그린라인 부분만 포함시킨건데 사실 이스라엘의 저 공식인구에는 그린라인이 속하지 않는 팔레스타인 서안지구와 동예루살렘 등에 사는 이스라엘인들도 인구수에 포함된 수치임아마...",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "더쿠 - 밑에 이스라엘 출산율 해법이 개소리인 이윸ㅋㅋㅋ",
         "link": "https://theqoo.net/square/781234443",
         "snippet": "‘일하지는 않고 정부 예산만 축내는’ 이들 하레디에 대해 세속 성향 이스라엘 국민들 사이에서는 볼멘소리가 갈수록 높아지는 것도 당연하다. 한 언론인은 “하나님도 세상을 창조하기 위해 6일간 일하고 마지막 하루를 쉬셨는데, 하레디 남성 3분의 2는 아예 일을 하지 않는다”고 꼬집었다. ... 30~40년 전만 해도 전체 인구의 극소수에 불과했지만, 하레디의 인구가 그새 전체의 10%인 80만명에 이를 정도로 많이 늘어났기 때문이다.",
         "source": "theqoo.net"
+      },
+      {
+        "title": "OECD 국가 인구밀도 순위 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9924070199",
+        "snippet": "출처: https://www.threads.com/@information_rank/post/DZFNhqdE4To?xmt=AQG0V89oaQ2ojq8kaB2n3Or-wlbrfgbNkrMtAkFy0TpenA다만 이 통계에는 약간의 특이점이 있는데 예를 들어 이스라엘의 면적 통계는 그린라인 부분만 포함시킨건데 사실 이스라엘의 저 공식인구에는 그린라인이 속하지 않는 팔레스타인 서안지구와 동예루살렘 등에 사는 이스라엘인들도 인구수에 포함된 수치임아마...",
+        "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-10-02T00:26:01.212728",
+    "timestamp": "2026-10-02T06:33:48.414958",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -655,16 +655,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "더쿠 - 손종원? 유명하신 분이야?",
-        "link": "https://theqoo.net/square/4048462917",
-        "snippet": "유머 <strong>손종원</strong>? 유명하신 분이야? 98,716 282 · 무명의 더쿠 https://theqoo.net/square/4048462917 · 2026.01.02 00:03 · 98,716 282 · Up Down Comment Print Files · https://youtube.com/shorts/NrfUzojTb4w · 목록 스크랩 (9) 공유 · 댓글 282개 ·",
-        "source": "theqoo.net"
-      },
-      {
         "title": "손종원 셰프 혹시 결혼했음? - 냉장고를 부탁해 갤러리",
         "link": "https://m.dcinside.com/board/janggo/81996",
         "snippet": "어째 그 쪽 느낌이…",
         "source": "dcinside.com"
+      },
+      {
+        "title": "더쿠 - 손종원? 유명하신 분이야?",
+        "link": "https://theqoo.net/square/4048462917",
+        "snippet": "유머 <strong>손종원</strong>? 유명하신 분이야? 98,716 282 · 무명의 더쿠 https://theqoo.net/square/4048462917 · 2026.01.02 00:03 · 98,716 282 · Up Down Comment Print Files · https://youtube.com/shorts/NrfUzojTb4w · 목록 스크랩 (9) 공유 · 댓글 282개 ·",
+        "source": "theqoo.net"
       },
       {
         "title": "손종원이 진짜 대단한 이유",
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-10-02T00:26:03.896565",
+    "timestamp": "2026-10-02T06:33:51.175965",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -706,15 +706,15 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "속보이재명 대통령 18일 기자회견 개최현안 등 입장 밝힐 듯",
-        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3804723",
-        "snippet": "https n news naver com article 014 0005576142 sid 100",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "외교천재 이재명",
         "link": "https://m.ruliweb.com/community/board/300148/read/38179436",
         "snippet": "같은 소리하고 있네이재명이 외교천재 또는 유능해서 그나마 잘 막았다라고 하려면 최소한 다른나라보다 나은 합의를 했어야지우리가 내가 문프가 트럼프 다루는거 봤는데 뭔 헛소리야문프가 한거 반만 했어도 그래도 선방했네 했을텐데15퍼 태리프에 GDP 20 는 뉘집 개이름이냐다른나라는 fta없잖아최대 멕시코 정도는 했어야지 12 13 무능을 자꾸 유능으로 포장할려는거 토할거 같음개소리가 많아서 잡담으로 하려고 했는데 관세 얘기나와서 정치탭",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "속보이재명 대통령 18일 기자회견 개최현안 등 입장 밝힐 듯",
+        "link": "https://bbs.ruliweb.com/pc/board/1005/read/3804723",
+        "snippet": "https n news naver com article 014 0005576142 sid 100",
         "source": "ruliweb.com"
       },
       {
@@ -736,16 +736,16 @@
         "source": "theqoo.net"
       },
       {
+        "title": "“얼마나 화났으면…” 해외서 확산중인 이재명 대통령의 SNS글 정체 | 인포루프",
+        "link": "https://issuefeed.dcinside.com/content/2337088",
+        "snippet": "특히 사안의 중대성을 감안해 비공개 원칙을 지키려 했던 한국 정부의 입장을 옹호하고 젤렌스키 정부의 일방적 행보를 질타한 이재명 대통령의 소셜미디어 게시물이 현지 유력 인사들 사이에서 급속도로 공유되며 외교적 파장이 커지는 양상이다.",
+        "source": "dcinside.com"
+      },
+      {
         "title": "도람뿌랑 정식 회담 일정도 안 잡은 모양임",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38757183",
         "snippet": "거의 유엔 총회때 인사 정도나 할 지도 모름 기사 봐도 깜짝 만남 이딴 문구나 보이거든 막산 미친 ㅅㄲ",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "더쿠 - 엠사 뉴데 : 오늘 꼭지 헤드라인 전부 이재명 기자회견으로 뽑음",
-        "link": "https://theqoo.net/politics/4250129501",
-        "snippet": "근데 역시 젭티뉴스룸이 최고다....여기가 제일 이재명 뜻 분명하게전달해줌 · 하 젭티 망하지마",
-        "source": "theqoo.net"
       }
     ]
   }
