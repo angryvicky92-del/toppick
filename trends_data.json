@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-11-01T08:33:39.991867",
+    "timestamp": "2026-11-01T15:40:38.257104",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -25,6 +25,12 @@
         "source": "dcinside.com"
       },
       {
+        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/coffee/563505",
+        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
+        "source": "dcinside.com"
+      },
+      {
         "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9698324015",
         "snippet": "<strong>재진입 속도: 시속 약 38,000~42,000km(마하 33~34)</strong>재진입 시 온도: 약 섭씨 2,760도~2,800도ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
@@ -37,22 +43,10 @@
         "source": "dcinside.com"
       },
       {
-        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/coffee/563505",
-        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
-        "source": "dcinside.com"
-      },
-      {
         "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
         "link": "https://www.fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
         "snippet": "아르테미스 2호 승무원들 · 게시판 이력 · 포텐1092방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 · 카카오톡 페이스북 X (트위터) 라인 밴드 주소복사 · 위로 아래로 스크랩 · 댓글로 가기 추천/비추 기록 이 게시물을...",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "타임머신 무고 실제로 본 썰 - 주식 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=neostock&no=7063006",
-        "snippet": "아르테미스2호 <strong>한국시간 오늘 아침 9시 지구 귀환</strong> - 관련게시물 : &quot;내려다보니 하나의 인류&quot;..&#x27;아르테미스 2호&#x27; 우주서 소감https://x.com/Breaking911/status/2042634680944472100?s=20- &#x27;아르테미스 Ⅱ&#x27; ...",
-        "source": "dcinside.com"
       },
       {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
@@ -71,12 +65,18 @@
         "link": "https://bbs.ruliweb.com/news/board/1004/read/2287437",
         "snippet": "아르테미스 2호의 성공적인 임무 완수를 축하합니다! 우주와 지구의 경이로움을 아름답게 담아내어 iPhone의 사진 촬영을 새로운 차원으로 끌어올렸고, 이를 전 세계와 공유해 주셔서 감사합니다. 여러분의 작품은 우리 모두에게 새로운 사고방식을 불어넣어 줍니다. 귀환을 ...",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "타임머신 무고 실제로 본 썰 - 주식 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=neostock&no=7063006",
+        "snippet": "아르테미스2호 <strong>한국시간 오늘 아침 9시 지구 귀환</strong> - 관련게시물 : &quot;내려다보니 하나의 인류&quot;..&#x27;아르테미스 2호&#x27; 우주서 소감https://x.com/Breaking911/status/2042634680944472100?s=20- &#x27;아르테미스 Ⅱ&#x27; ...",
+        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-11-01T08:33:42.709087",
+    "timestamp": "2026-11-01T15:40:41.001056",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -124,12 +124,6 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "고유가 피해 지원금 1차 신청 1주 만에 76%… 1조4013억 지급 - 뽐뿌:사회뉴스",
-        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&no=498961",
-        "snippet": "고유가 피해지원금 1차 신청 1주일 만에 대상자 76%가량이 신청을 마친 것으로 나타났다. 지급액은 1조 400",
-        "source": "ppomppu.co.kr"
-      },
-      {
         "title": "고유가 피해지원금 대상 확인, 신청방법은? | 위키트리",
         "link": "https://issuefeed.dcinside.com/content/2226853",
         "snippet": "정부가 중동 사태 장기화로 인한 고유가 피해 지원금을 70%의 국민에게 <strong>1인당 10만 원에서 최대 60만 원까지 오는 27일부터 차등 지급</strong>한다.",
@@ -142,6 +136,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "고유가 피해 지원금 1차 신청 1주 만에 76%… 1조4013억 지급 - 뽐뿌:사회뉴스",
+        "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&no=498961",
+        "snippet": "고유가 피해지원금 1차 신청 1주일 만에 대상자 76%가량이 신청을 마친 것으로 나타났다. 지급액은 1조 400",
+        "source": "ppomppu.co.kr"
+      },
+      {
         "title": "이번 고유가 지원금",
         "link": "https://bbs.ruliweb.com/family/242/board/300087/read/30606009",
         "snippet": "거유가 지원금 줌껄껄껄껄껄껄",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-11-01T08:33:45.408890",
+    "timestamp": "2026-11-01T15:40:43.777231",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -193,21 +193,15 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유X변우석, 입헌군주제 대한민국에서 로맨스 호흡..‘21세기 대군 부인’ 캐스팅 확정",
-        "link": "https://theqoo.net/hot/3509489933",
-        "snippet": "&#x27;나의 아저씨&#x27;, &#x27;호텔 델루나&#x27;, &#x27;브로커&#x27; 등을 통해 내밀하고 섬세한 감정, 흡입력 있는 눈빛 등 장르를 넘나들며 탄탄한 연기력을 선보여 온 아이유가 작품 속 ‘성희주’를 어떻게 매력적으로 그려낼지, 화려한 연기 변신에 기대가 높아지고 있다. 변우석은 21세기 입헌군주제 대한민국의 ‘이안대군’으로 분한다.",
+        "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 1-2회 스페셜 선공개",
+        "link": "https://theqoo.net/square/4156640515",
+        "snippet": "이슈 아이유, 변우석 👑 &lt;21세기 대군부인&gt; 1-2회 스페셜 선공개 · 27,900 292 · 무명의 더쿠 https://theqoo.net/square/4156640515 · 2026.04.09 08:00 · 27,900 292 · Up Down Comment Print Files · https://youtu.be/6oTlVFDDbWY · https://x.com/i/status/2042014629136932891 ·",
         "source": "theqoo.net"
       },
       {
-        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
-        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
-        "source": "ruliweb.com"
-      },
-      {
-        "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 1회 선공개",
-        "link": "https://theqoo.net/?document_srl=4157863134&listStyle=viewer&m=1&mid=square",
-        "snippet": "#아이유 #변우석 #노상현 #공승연 · #21세기대군부인 #MBC금토드라마 · #mbcdrama #MBC · [주의] 이 글을 신고합니다. 취소 신고 · 댓글 290 · 목록 · 0 · 댓글 더 보기 · 새 댓글 확인하기 · 전체 이슈 유머 정보 기사/뉴스 ...",
+        "title": "더쿠 - 아이유X변우석, 입헌군주제 대한민국에서 로맨스 호흡..‘21세기 대군 부인’ 캐스팅 확정",
+        "link": "https://theqoo.net/hot/3509489933",
+        "snippet": "&#x27;나의 아저씨&#x27;, &#x27;호텔 델루나&#x27;, &#x27;브로커&#x27; 등을 통해 내밀하고 섬세한 감정, 흡입력 있는 눈빛 등 장르를 넘나들며 탄탄한 연기력을 선보여 온 아이유가 작품 속 ‘성희주’를 어떻게 매력적으로 그려낼지, 화려한 연기 변신에 기대가 높아지고 있다. 변우석은 21세기 입헌군주제 대한민국의 ‘이안대군’으로 분한다.",
         "source": "theqoo.net"
       },
       {
@@ -217,16 +211,22 @@
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - [단독] 아이유·변우석, '대군부인' 케미 예열한다…'MBC 연기대상' 동반 참석",
-        "link": "https://theqoo.net/square/4035868612",
-        "snippet": "내년 최대 기대작으로 꼽히는 MBC 새 드라마 &#x27;21세기 대군부인&#x27;의 남녀 주연배우 아이유와 변우석이 &#x27;<strong>2025 MBC 연기대상</strong>&#x27;에 동반 참석한다. 21일 뉴스1 취재 결과, 아이유와 변우석은 오는 30일 오후 8시 50분 생방송으로 진행되는 ...",
+        "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
+        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3731339",
+        "snippet": "아이유가 이안대군 변우석은 아름답다 고 예고한 인터뷰아이유와 변우석 드디어 결혼합니다",
+        "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 아이유 변우석 연기 늘어서 극호됨",
+        "link": "https://theqoo.net/dyb/4160026277",
+        "snippet": "잡담 <strong>아이유 변우석</strong> 연기 늘어서 극호됨 · 168 1 · 무명의 더쿠 https://theqoo.net/dyb/4160026277 · 2026.04.11 21:35 · 168 1 · Up Down Comment Print · 발성이 더 좋아진거 같더라 소리 지를때 느낌 · 연기 존잘배우도 연기는 더 늘어 그래서 ...",
         "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-11-01T08:33:48.139272",
+    "timestamp": "2026-11-01T15:40:46.500651",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -268,6 +268,12 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "현지중계) 정신줄을 놓아버린 테오스카의 수비에 터진 이정후의 인사이드더파크 홈런! - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9828354107",
         "snippet": "홈런 뜻이 코트 넘기는 게 아니였구나 베이스까지 밟고 득점하면 홈런이였네 그래서 homerun이구나 ... 좌중간도 아니고 좌익선상으로 타구 날려서 인사이드더파크홈런 된 경우 있었을까 ... 이정후가 장타는 죄다 잡아당겨 치니까 외야수 다 우측으로 치우쳐 있었던 데다, 공도 휘어서 낙구지점도 애매했고 이후 바운드도 불규칙했고, 테오스카도 원래 수비를 못 함.",
@@ -280,28 +286,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970007565",
         "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694744433",
-        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 잘했으면 좋겠음 메이저 진출할때 6년뒤에 그대로 크보로 리턴하고 돌아오지 않았으면 작은 소망같은 내 기억이 있어서",
+        "title": "이정후 쓰리런 홈런 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ 시즌 6호 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10130805038",
+        "snippet": "샤브중독자 심각한 이정후의 담백한 현 상황.jpg https://m.fmkorea.com/best/10128037801 ㅋㅋㅋㅋㅋ ... 이 홈런이 32일만에 홈런때린건데 결국 시즌끝나면 조림돌림 당하는 베뎃에 적힌 성적에 수렴할꺼임",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-11-01T08:33:50.898150",
+    "timestamp": "2026-11-01T15:40:49.255816",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-11-01T08:33:53.672020",
+    "timestamp": "2026-11-01T15:40:52.099172",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -412,9 +412,15 @@
         "source": "dcinside.com"
       },
       {
-        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18025219",
-        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
+        "title": "뭐죠. 방금속보 떴는데 몬테네그로 헌재가 권도형 범죄인 인도집행정지를... : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18823402",
+        "snippet": "미국에 6조원인가 벌금내기로 한거 아니었나요? ㄷㄷㄷ [속보] <strong>몬테네그로</strong> 헌재, 권도형 범죄인 인도 집행정지 (msn.com)",
+        "source": "clien.net"
+      },
+      {
+        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
+        "link": "https://www.clien.net/service/board/park/18078795",
+        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
         "source": "clien.net"
       },
       {
@@ -430,28 +436,22 @@
         "source": "dcinside.com"
       },
       {
-        "title": "뭐죠. 방금속보 떴는데 몬테네그로 헌재가 권도형 범죄인 인도집행정지를... : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18823402",
-        "snippet": "미국에 6조원인가 벌금내기로 한거 아니었나요? ㄷㄷㄷ [속보] <strong>몬테네그로</strong> 헌재, 권도형 범죄인 인도 집행정지 (msn.com)",
-        "source": "clien.net"
-      },
-      {
         "title": "[1보] 몬테네그로 법원, 권도형 한국 송환 결정 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/6796277584",
         "snippet": "안비 잡히기한참전에 100억대 거금주고 변호사 미리고용해놔서 <strong>몬테네그로</strong>가있음",
         "source": "fmkorea.com"
       },
       {
-        "title": "권도형 ㅋㅋㅋ 이미 몬테네그로 가기전에 짠 거 같아요 ㅋㅋㅋㅋㅋ : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18078795",
-        "snippet": "https://en.m.wikipedia.org/wiki/List_of_United_States_extradition_treaties 미국과 <strong>몬테네그로</strong> 사이에 조약은 없지만, &quot;Continued application of the treaty with the Kingdom of Serbia, succeeded by Yugoslavia. 유고슬라비아가 계승한 세르비아 왕국과의 조약이 계속 적용.&quot;",
+        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18025219",
+        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-11-01T08:33:56.392251",
+    "timestamp": "2026-11-01T15:40:54.894921",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-11-01T08:33:59.138348",
+    "timestamp": "2026-11-01T15:40:57.787305",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -601,7 +601,7 @@
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-11-01T08:34:01.853478",
+    "timestamp": "2026-11-01T15:41:00.576096",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-11-01T08:34:04.638177",
+    "timestamp": "2026-11-01T15:41:03.413797",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -687,6 +687,12 @@
       ""
     ],
     "sources": [
+      {
+        "title": "속보)폴란드 쿠데타 일어남 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://fmkorea.com/index.php?cpage=1&document_srl=10502381106&mid=best",
+        "snippet": "운동권출신 여성 증언에 따르면 항상 웃으며 간간 일어났고 거부하면 윽박지르고, 그당시 교도소 병원 낙태 임신기록 가해자패해자 목격자 증언 지금도 길가다 7080대학교 할아버지한테 물으면 다아는 사실/ 운동권 아닌 애들은 이런 집단 간간범들한테 무서워서 일단 말을 잘 못 했음 인터뷰 증거영상 다 있음 자기들이 실제로 짐단 간간 저질렀다는 할아버지 들 정장 입구 구두 신고 5인방 걸어가길래 바로 취재함 정의찬 이재명이 임명한 장관 구광식 집단 연쇄 간간사린범 절친이고 구광식 옹호자/ 정의찬 그당시 광주에서 돈없는 학생들 창문통해서나 동아리 통해서 도강하고 그랬는데 그학생들 이종권, 이석규 등 폭행 후 똑바로 조사하라고 고문 지시한게 정의찬",
+        "source": "fmkorea.com"
+      },
       {
         "title": "이재명의 선전 APEC 회의 큰 그림",
         "link": "https://bbs.ruliweb.com/community/board/300148/read/38778863",
@@ -700,22 +706,10 @@
         "source": "theqoo.net"
       },
       {
-        "title": "웹진 인벤 : 이 대통령, 13일 폴란드 총리와 정상회담…\"파트너십 강화 협의\" - 오픈이슈갤러리",
-        "link": "https://www.inven.co.kr/board/webzine/2097/2644796",
-        "snippet": "올해는 이탈리아 멜로니 총리 시작으로 약 4개월간 많은 정상들이 오시는것 같습니다.폴란드하고는 새로운 형제국이 되야죠!자자 무기 사세요 무기!우리에게는 낙농업 제품들을!",
-        "source": "inven.co.kr"
-      },
-      {
         "title": "이 대통령 프랑스 도착첨단분야호르무즈 논의 주목",
         "link": "https://bbs.ruliweb.com/news/board/300018/read/3800892",
         "snippet": "양 정상은 지난 4월 회담에서도 호르무즈 해협에서 안전한 수송로를 확보하기 위해 협력하자는 데 뜻을 모았고 이후 이 대통령은 프랑스와 영국이 주도하는 호르무즈 관련 다자회의에 화상으로 참석하기도 했습니다 기사내용 중",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "[스압] 룰라 대통령 국빈방한 하이라이트 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19149068",
-        "snippet": "또한 삼성, LG, 현대 자동차를 언급하면서 “자랑스러운 우리 기업들도 양국 관계의 핵심 축”이라면서 “이번 정상회담을 계기로 한국과 브라질이 국제 사회와 다자무대에서 인류 보편의 과제 해결에 함께 기여하는 모범적인 동반자로 거듭나게 될 것”이라고 강조했습니다. 룰라 대통령은 “이재명 대통령의 인생 경로를 알고 나서부터는 우리가 형제처럼 느껴진다“면서 각별함을 전했습니다.",
-        "source": "clien.net"
       },
       {
         "title": "폴란드 총리 2시간전 트윗 jpg. - 포텐 터짐 최신순 - 에펨코리아",
@@ -724,10 +718,22 @@
         "source": "fmkorea.com"
       },
       {
+        "title": "웹진 인벤 : 이 대통령, 13일 폴란드 총리와 정상회담…\"파트너십 강화 협의\" - 오픈이슈갤러리",
+        "link": "https://www.inven.co.kr/board/webzine/2097/2644796",
+        "snippet": "올해는 이탈리아 멜로니 총리 시작으로 약 4개월간 많은 정상들이 오시는것 같습니다.폴란드하고는 새로운 형제국이 되야죠!자자 무기 사세요 무기!우리에게는 낙농업 제품들을!",
+        "source": "inven.co.kr"
+      },
+      {
         "title": "우크라폴란드 정상 역사 갈등 뒤 첫 회동러시아 공동 대응",
         "link": "https://bbs.ruliweb.com/community/board/300018/read/3773717",
         "snippet": "UPA 명예 칭호 갈등 후 첫 대면 역사 문제는 입장차 공동 위협은 러시아 대화 지속 협력 필요성 확인",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "더쿠 - 이재명 대통령 이탈리아 방문 호위기사에 달린 극우 댓글",
+        "link": "https://theqoo.net/hot/4239519497",
+        "snippet": "https://x.com/yonhaptweet/status/2064833839223201940?s=20 · 이 대통령은 로마에서 세르지오 마타렐라 이탈리아 대통령의 초청에 따른 국빈 방문 일정을 소화하게 된다",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 이재명 대통령 경주 APEC 정상회담 일정",
@@ -736,16 +742,10 @@
         "source": "theqoo.net"
       },
       {
-        "title": "[속보]메르츠 독일 총리, 29~30일 공식 방한…李대통령과 정상회담 - 종합 정보 게시판 | 루리웹",
-        "link": "https://bbs.ruliweb.com/news/board/1005/read/3819928",
-        "snippet": "속보 메르츠 독일 총리 <strong>29 30일 공식 방한 李대통령과 정상회담</strong>",
+        "title": "젤렌스키 \"3자 회담, 내달 6~10일 열자\"…러 \"4일 이후\"(종합) - 종합 정보 게시판 | 루리웹",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3822187",
+        "snippet": "젤렌스키 3자 회담 내달 6 10일 열자 러 4일 이후 종합",
         "source": "ruliweb.com"
-      },
-      {
-        "title": "더쿠 - 이재명 대통령 이탈리아 방문 호위기사에 달린 극우 댓글",
-        "link": "https://theqoo.net/hot/4239519497",
-        "snippet": "https://x.com/yonhaptweet/status/2064833839223201940?s=20 · 이 대통령은 로마에서 세르지오 마타렐라 이탈리아 대통령의 초청에 따른 국빈 방문 일정을 소화하게 된다",
-        "source": "theqoo.net"
       }
     ]
   }
