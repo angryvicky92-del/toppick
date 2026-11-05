@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-11-05T03:01:08.731693",
+    "timestamp": "2026-11-05T11:45:58.948108",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -13,16 +13,22 @@
     ],
     "sources": [
       {
+        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9661906524",
+        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "아르테미스2호 한국시간 오늘 아침 9시 지구 귀환 - 실시간 베스트 갤러리",
         "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=420298",
         "snippet": "&#x27;아르테미스 Ⅱ&#x27; 오늘 지구 ... 유인 달 궤도 비행을 마친 &#x27;아르테미스 2호&#x27;(아르테미스Ⅱ)가 <strong>10일(현지시간)</strong> 지구로 돌아온다....",
         "source": "dcinside.com"
       },
       {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
-        "source": "fmkorea.com"
+        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/coffee/563505",
+        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
+        "source": "dcinside.com"
       },
       {
         "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
@@ -37,16 +43,10 @@
         "source": "dcinside.com"
       },
       {
-        "title": "애들아 아르테미스2호 귀환 라이브나 보자 - 커피 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/coffee/563505",
-        "snippet": "https://www.youtube.com/live/nfhDuOHMp0A?si=fwdpkKYAmZjOGOIU NASA’s Artemis II Crew Comes Home (Official Broadcast)Around",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
-        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
-        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 ...",
-        "source": "inven.co.kr"
+        "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
+        "snippet": "아르테미스 2호 승무원들 · 게시판 이력 · 포텐1092방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 · 카카오톡 페이스북 X (트위터) 라인 밴드 주소복사 · 위로 아래로 스크랩 · 댓글로 가기 추천/비추 기록 이 게시물을...",
+        "source": "fmkorea.com"
       },
       {
         "title": "Apple NASA 아르테미스 2의 성공적인 임무 완수를 축하",
@@ -55,28 +55,28 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694632504",
-        "snippet": "아르테미스 2호 승무원들 · 게시판 이력 · 포텐1092방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 · 카카오톡 페이스북 X (트위터) 라인 밴드 주소복사 · 위로 아래로 스크랩 · 댓글로 가기 추천/비추 기록 이 게시물을...",
-        "source": "fmkorea.com"
+        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
+        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
+        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 ...",
+        "source": "inven.co.kr"
+      },
+      {
+        "title": "타임머신 무고 실제로 본 썰 - 주식 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=neostock&no=7063006",
+        "snippet": "아르테미스2호 <strong>한국시간 오늘 아침 9시 지구 귀환</strong> - 관련게시물 : &quot;내려다보니 하나의 인류&quot;..&#x27;아르테미스 2호&#x27; 우주서 소감https://x.com/Breaking911/status/2042634680944472100?s=20- &#x27;아르테미스 Ⅱ&#x27; ...",
+        "source": "dcinside.com"
       },
       {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9695291040",
         "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
         "source": "fmkorea.com"
-      },
-      {
-        "title": "아르테미스 2호 귀환 당시 캠카메라 - 군사 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/war/4828798?page=2",
-        "snippet": "인류애랑 인류뽕 채워지는 영상",
-        "source": "dcinside.com"
       }
     ]
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-11-05T03:01:11.434268",
+    "timestamp": "2026-11-05T11:46:01.631624",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -100,16 +100,16 @@
         "source": "ppomppu.co.kr"
       },
       {
-        "title": "고유가 지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) - 수영-일반 마이너 갤러리",
-        "link": "https://m.dcinside.com/board/swimangel/62",
-        "snippet": "고유가 피해지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) ✅ 결론 요약 · 2026년 고유가 피해지원금 1차 신청은 4월 27일부터 시작 · 대상은 기초생활수급자·차상위계층·한부모 가구 · 신청은 온라인(카드·앱·ARS) 또는 오프라인(주민센터) 가능하며 요일제 필수 적용 ·",
-        "source": "dcinside.com"
-      },
-      {
         "title": "고유가 지원금 294만명 신청…경남·강원·경기만 90% 밑돌아 - 뽐뿌:사회뉴스",
         "link": "https://m.ppomppu.co.kr/new/bbs_view.php?id=news_society&page=39&no=499822",
         "snippet": "<strong>지급액은 1조6728억원</strong>으로 집계됐다. 9일 행정안전부에 따르면 8일 오후 6시 마감된 고유가 피해지원금 1차 신청자는 총 294만4073명으로 집계됐다.",
         "source": "ppomppu.co.kr"
+      },
+      {
+        "title": "고유가 지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) - 수영-일반 마이너 갤러리",
+        "link": "https://m.dcinside.com/board/swimangel/62",
+        "snippet": "고유가 피해지원금 완벽 정리 (+ 대상·금액·신청방법·사용처) ✅ 결론 요약 · 2026년 고유가 피해지원금 1차 신청은 4월 27일부터 시작 · 대상은 기초생활수급자·차상위계층·한부모 가구 · 신청은 온라인(카드·앱·ARS) 또는 오프라인(주민센터) 가능하며 요일제 필수 적용 ·",
+        "source": "dcinside.com"
       },
       {
         "title": "[속보]국민 3200만명에 고유가지원금 뿌린다 - 포텐 터짐 최신순 - 에펨코리아",
@@ -118,10 +118,10 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "고유가 지원금으로 혼술",
-        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30698233",
-        "snippet": "가까운 친구도 여 사 친도 없을 땐 혼술이 최고죠ㅋㅋ정작 밖에서 술 마시면 병당 5천원 전후인데다특히 이자카야는 아무리 저렴한 곳이라도 가격대가 높아혼술하기 좀 부담스러운데 그래도 이번에 <strong>고유가 지원금</strong> 받았으니그걸로 51 700원어치나 먹었습니다ㅋㅋ원래는 53 700원이 될 뻔했는데마지막 짜계치가 양이 부족할 것 같아서2천원 더 내고 라면사리 추가하려고 했는데직원이 오더니짜계치는 짜파게티 2봉지 끓이는 거라고 직원이 아니었으면 졸지에",
-        "source": "ruliweb.com"
+        "title": "[속보] 2차 고유가 지원금 지급대상 기준선, 행안부 공식발표 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9811989956",
+        "snippet": "https://n.news.naver.com/article/028/0002804494?sid=102행정안전부 공식발표<strong>4인가구 기준 건보료 32만원 이하 대상재산세 과표 12억 초과 고액자산가 93만 7천 가구 제외</strong>팸붕이들도 한번씩 확인해보고, ...",
+        "source": "fmkorea.com"
       },
       {
         "title": "고유가 피해지원금 대상 확인, 신청방법은? | 위키트리",
@@ -130,10 +130,10 @@
         "source": "dcinside.com"
       },
       {
-        "title": "[속보] 2차 고유가 지원금 지급대상 기준선, 행안부 공식발표 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9811989956",
-        "snippet": "https://n.news.naver.com/article/028/0002804494?sid=102행정안전부 공식발표<strong>4인가구 기준 건보료 32만원 이하 대상재산세 과표 12억 초과 고액자산가 93만 7천 가구 제외</strong>팸붕이들도 한번씩 확인해보고, ...",
-        "source": "fmkorea.com"
+        "title": "고유가 지원금으로 혼술",
+        "link": "https://bbs.ruliweb.com/hobby/board/300117/read/30698233",
+        "snippet": "가까운 친구도 여 사 친도 없을 땐 혼술이 최고죠ㅋㅋ정작 밖에서 술 마시면 병당 5천원 전후인데다특히 이자카야는 아무리 저렴한 곳이라도 가격대가 높아혼술하기 좀 부담스러운데 그래도 이번에 <strong>고유가 지원금</strong> 받았으니그걸로 51 700원어치나 먹었습니다ㅋㅋ원래는 53 700원이 될 뻔했는데마지막 짜계치가 양이 부족할 것 같아서2천원 더 내고 라면사리 추가하려고 했는데직원이 오더니짜계치는 짜파게티 2봉지 끓이는 거라고 직원이 아니었으면 졸지에",
+        "source": "ruliweb.com"
       },
       {
         "title": "고유가 피해 지원금 1차 신청 1주 만에 76%… 1조4013억 지급 - 뽐뿌:사회뉴스",
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-11-05T03:01:14.100644",
+    "timestamp": "2026-11-05T11:46:04.372651",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -181,28 +181,16 @@
         "source": "theqoo.net"
       },
       {
-        "title": "“코리아드라마어워즈” 변우석 4개 부문 1위 싹쓸이…아이유와 커플상까지 통했다 | 위키트리",
-        "link": "https://issuefeed.dcinside.com/content/2320504",
-        "snippet": "변우석과 아이유는 <strong>지난 5월 16일 종영한 MBC 드라마 “21세기 대군부인”에서 부부로 호흡을 맞췄고</strong>, 로몬과 김혜윤은 지난 2월 종영한 SBS “오늘부터 인간입니다만”에서 인간과 구미호의 ...",
-        "source": "dcinside.com"
-      },
-      {
-        "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
-        "link": "https://theqoo.net/hot/4190256960",
-        "snippet": "이슈 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷 · 36,915 185 · 무명의 더쿠 https://theqoo.net/square/4190256960 · 2026.05.05 11:08 · 36,915 185 · Up Down Comment Print Files · https://youtube.com/shorts/-sQbluvTnJw ·",
-        "source": "theqoo.net"
-      },
-      {
         "title": "더쿠 - “제발 연습 좀”…‘대군부부’ 아이유♥변우석, 사이 좋게 연기력 논란 휩싸여 [스경X이슈]",
         "link": "https://theqoo.net/square/4162019325",
         "snippet": "MBC 새 금토드라마 ‘21세기 대군부인’의 아이유와 변우석이 연기력 논란에 휩싸였다.",
         "source": "theqoo.net"
       },
       {
-        "title": "더쿠 - 아이유X변우석, 입헌군주제 대한민국에서 로맨스 호흡..‘21세기 대군 부인’ 캐스팅 확정",
-        "link": "https://theqoo.net/hot/3509489933",
-        "snippet": "&#x27;나의 아저씨&#x27;, &#x27;호텔 델루나&#x27;, &#x27;브로커&#x27; 등을 통해 내밀하고 섬세한 감정, 흡입력 있는 눈빛 등 장르를 넘나들며 탄탄한 연기력을 선보여 온 아이유가 작품 속 ‘성희주’를 어떻게 매력적으로 그려낼지, 화려한 연기 변신에 기대가 높아지고 있다. 변우석은 21세기 입헌군주제 대한민국의 ‘이안대군’으로 분한다.",
-        "source": "theqoo.net"
+        "title": "“코리아드라마어워즈” 변우석 4개 부문 1위 싹쓸이…아이유와 커플상까지 통했다 | 위키트리",
+        "link": "https://issuefeed.dcinside.com/content/2320504",
+        "snippet": "변우석과 아이유는 <strong>지난 5월 16일 종영한 MBC 드라마 “21세기 대군부인”에서 부부로 호흡을 맞췄고</strong>, 로몬과 김혜윤은 지난 2월 종영한 SBS “오늘부터 인간입니다만”에서 인간과 구미호의 ...",
+        "source": "dcinside.com"
       },
       {
         "title": "IU 아이유가 이안대군 변우석은 아름답다고 예고한 인터뷰",
@@ -211,22 +199,34 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "[단독] 아이유·변우석, 사과했는데···‘대군부인’ 역사왜곡 심판대에 - 방송/연예 정보 | 루리웹",
-        "link": "https://bbs.ruliweb.com/sports/board/300446/read/3823475",
-        "snippet": "단독 <strong>아이유 변우석</strong> 사과했는데 대군부인 역사왜곡 심판대에",
-        "source": "ruliweb.com"
+        "title": "더쿠 - 아이유X변우석, 입헌군주제 대한민국에서 로맨스 호흡..‘21세기 대군 부인’ 캐스팅 확정",
+        "link": "https://theqoo.net/hot/3509489933",
+        "snippet": "&#x27;나의 아저씨&#x27;, &#x27;호텔 델루나&#x27;, &#x27;브로커&#x27; 등을 통해 내밀하고 섬세한 감정, 흡입력 있는 눈빛 등 장르를 넘나들며 탄탄한 연기력을 선보여 온 아이유가 작품 속 ‘성희주’를 어떻게 매력적으로 그려낼지, 화려한 연기 변신에 기대가 높아지고 있다. 변우석은 21세기 입헌군주제 대한민국의 ‘이안대군’으로 분한다.",
+        "source": "theqoo.net"
+      },
+      {
+        "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 1-2회 스페셜 선공개",
+        "link": "https://theqoo.net/square/4156640515",
+        "snippet": "이슈 아이유, 변우석 👑 &lt;21세기 대군부인&gt; 1-2회 스페셜 선공개 · 27,900 292 · 무명의 더쿠 https://theqoo.net/square/4156640515 · 2026.04.09 08:00 · 27,900 292 · Up Down Comment Print Files · https://youtu.be/6oTlVFDDbWY · https://x.com/i/status/2042014629136932891 ·",
+        "source": "theqoo.net"
       },
       {
         "title": "더쿠 - 아이유, 변우석 👑 <21세기 대군부인> 하이라이트 영상 공개",
         "link": "https://theqoo.net/square/4152968953",
         "snippet": "이슈 아이유, 변우석 👑 &lt;21세기 대군부인&gt; 하이라이트 영상 공개 · 29,541 320 · 무명의 더쿠 https://theqoo.net/square/4152968953 · 2026.04.06 09:00 · 29,541 320 · Up Down Comment Print Files · https://youtu.be/yTeKiI7e76I · https://x.com/i/status/2040942563532939520 ·",
         "source": "theqoo.net"
+      },
+      {
+        "title": "더쿠 - 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷",
+        "link": "https://theqoo.net/hot/4190256960",
+        "snippet": "이슈 필름 카메라로 아이유가 찍은 변우석 → 변우석이 찍은 아이유 📷 · 36,915 185 · 무명의 더쿠 https://theqoo.net/square/4190256960 · 2026.05.05 11:08 · 36,915 185 · Up Down Comment Print Files · https://youtube.com/shorts/-sQbluvTnJw ·",
+        "source": "theqoo.net"
       }
     ]
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-11-05T03:01:16.778606",
+    "timestamp": "2026-11-05T11:46:07.132564",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -268,15 +268,15 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "현지중계) 정신줄을 놓아버린 테오스카의 수비에 터진 이정후의 인사이드더파크 홈런! - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9828354107",
         "snippet": "홈런 뜻이 코트 넘기는 게 아니였구나 베이스까지 밟고 득점하면 홈런이였네 그래서 homerun이구나 ... 좌중간도 아니고 좌익선상으로 타구 날려서 인사이드더파크홈런 된 경우 있었을까 ... 이정후가 장타는 죄다 잡아당겨 치니까 외야수 다 우측으로 치우쳐 있었던 데다, 공도 휘어서 낙구지점도 애매했고 이후 바운드도 불규칙했고, 테오스카도 원래 수비를 못 함.",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
         "source": "fmkorea.com"
       },
       {
@@ -292,16 +292,16 @@
         "source": "clien.net"
       },
       {
-        "title": "현지해설) 이정후 백투백 솔로홈런 ㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9970007565",
-        "snippet": "백투백을 연타석이라 잘못생각하고 첫 홈런 짤은 어디갔지 찾고 있었음 ㅠㅠ",
+        "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694744433",
+        "snippet": "그 돈 받고도 3시즌 통산 홈런 10개라고 까던 후까새끼들 컷ㅋㅋㅋㅋㅋㅋㅋㅋ 이젠 11개다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ... 정후리가 잘하는 건 아니지만 계속 나오는 이유는 사실 그정도로 샌프 자체가 좀 좆망함 ... 난 진심으로 지금부터라도 이정후 잘했으면 좋겠음 메이저 진출할때 6년뒤에 그대로 크보로 리턴하고 돌아오지 않았으면 작은 소망같은 내 기억이 있어서",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-11-05T03:01:19.495068",
+    "timestamp": "2026-11-05T11:46:09.881938",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -313,27 +313,27 @@
     ],
     "sources": [
       {
-        "title": "세미파이브 하이퍼엑셀 데이터센터용 AI 칩 양산삼성 4나노 첫 적용",
-        "link": "https://bbs.ruliweb.com/news/board/300010/read/2293871",
-        "snippet": "500 대면적 빅다이 칩 완결형 턴키 공급",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "세미파이브 eMRAM 기반 엣지 AI 반도체 상용화 추진",
         "link": "https://bbs.ruliweb.com/news/board/300010/read/2288757",
         "snippet": "삼성 8나노 eMRAM 공정 적용, 아시아 최초 상용 도입 2B 파라미터 온디바이스 추론 구현… AI PC·로봇 겨냥 ICY Tech PNM 기술과 <strong>세미파이브</strong> SoC 플랫폼 결합",
         "source": "ruliweb.com"
       },
       {
-        "title": "세미파이브 공모주 청약정보 - 공모주 청약 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74131",
-        "snippet": "오늘은 <strong>세미파이브</strong>의 청약일입니다.<strong>세미파이브</strong>는 올해 마지막 공모주입니다. 이익미실현 기업으로 테슬라 상장이라 6개월 환매청구권이 부여됩니다.권리행사를 위해 배정받으신 계좌에서 이체나 출고를 하시면 안됩니다.",
-        "source": "dcinside.com"
+        "title": "세미파이브 하이퍼엑셀 데이터센터용 AI 칩 양산삼성 4나노 첫 적용",
+        "link": "https://bbs.ruliweb.com/news/board/300010/read/2293871",
+        "snippet": "500 대면적 빅다이 칩 완결형 턴키 공급",
+        "source": "ruliweb.com"
       },
       {
         "title": "세미파이브 공모가 나왔네 - 공모주 청약 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74001",
+        "link": "https://m.dcinside.com/index.php/board/gongmozoo/74001",
         "snippet": "주관사 삼성증권청약일 18일 ~ 19일공모가 24,000원기관경쟁률 436.89:1의무보유확약 43.93%상장일 2025.12.29",
+        "source": "dcinside.com"
+      },
+      {
+        "title": "세미파이브 공모주 청약정보 - 공모주 청약 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74131",
+        "snippet": "오늘은 <strong>세미파이브</strong>의 청약일입니다.<strong>세미파이브</strong>는 올해 마지막 공모주입니다. 이익미실현 기업으로 테슬라 상장이라 6개월 환매청구권이 부여됩니다.권리행사를 위해 배정받으신 계좌에서 이체나 출고를 하시면 안됩니다.",
         "source": "dcinside.com"
       },
       {
@@ -343,16 +343,16 @@
         "source": "clien.net"
       },
       {
-        "title": "리브스임세미 비상장가 근황 - 공모주 청약 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74439",
-        "snippet": "리브스메드 68000 (공모가 대비 +13000)<strong>세미파이브</strong> 67000 (공모가 대비 +43000)세미 두개 먹은애들은 10만+ 기대해볼만 한듯 ㅊㅋ",
-        "source": "dcinside.com"
-      },
-      {
         "title": "반도체 설계에도 오픈소스 바람 분다 : 클리앙",
         "link": "https://www.clien.net/service/board/news/13712757",
         "snippet": "반도체 핵심 기술인 설계자산(IP)을 공개해 누구나 무료로 사용할 수 있고, 수정할 수 있는 개방형 체제 ‘리스크파이브(RISC-V)’가 영역을 확장하면서 주목받는다. 리스크파이브 체제를 주도하고 있는 반도체 스타트업(신생 벤처기업) 싸이파이브(SiFive)는 최근 한국지사를 별도 법인인 <strong>세미파이브</strong>(SemiFive)로 독립시켰다.",
         "source": "clien.net"
+      },
+      {
+        "title": "리브스임세미 비상장가 근황 - 공모주 청약 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=gongmozoo&no=74439",
+        "snippet": "리브스메드 68000 (공모가 대비 +13000)<strong>세미파이브</strong> 67000 (공모가 대비 +43000)세미 두개 먹은애들은 10만+ 기대해볼만 한듯 ㅊㅋ",
+        "source": "dcinside.com"
       },
       {
         "title": "[쇼미더머니]강스포) 세미파이널 스포 이건데 - 힙합 - 에펨코리아",
@@ -361,10 +361,10 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "웹진 인벤 : (스압) 세미 피규어 완성본 - 오픈이슈갤러리 - 웹진 인벤",
-        "link": "https://www.inven.co.kr/board/webzine/2097/349306",
-        "snippet": "이랬던 물품이.......EBS ...데요.EBS 수학술사 세미 피규어를 완성했습니다.사이즈는 <strong>1:8 스케일로 높이는 약 21cm</strong>입......",
-        "source": "inven.co.kr"
+        "title": "갈망의 땅 - 패러독스 인터랙티브 마이너 갤러리",
+        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1355029",
+        "snippet": "아티카 산티아고 바쿠 하리코프 타우리다 바르샤바 규슈 간사이 홋카이도 슐레지엔 보헤미아 갈리치아 피에몬테 요크셔 북경 산서 텍사스 미시건 왈롱",
+        "source": "dcinside.com"
       },
       {
         "title": "마인 퓌러... - 패러독스 인터랙티브 마이너 갤러리",
@@ -376,7 +376,7 @@
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-11-05T03:01:22.306411",
+    "timestamp": "2026-11-05T11:46:12.742582",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -400,16 +400,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "[속보] 몬테네그로 \"권도형 미국으로 범죄인 인도\" - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/7864590541",
-        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "이번 업뎃으로 알아보는 몬테네그로 만화.jpg - 패러독스 인터랙티브 마이너 갤러리",
         "link": "http://gall.dcinside.com/mgallery/board/view/?id=rome&no=1346116",
         "snippet": "<strong>몬테네그로</strong>가 주권국가로 독립하는건 1990년대 세르비아 민족주의 정권 망하고도 한참 뒤인 2006년에서야 이뤄짐",
         "source": "dcinside.com"
+      },
+      {
+        "title": "[속보] 몬테네그로 \"권도형 미국으로 범죄인 인도\" - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/7864590541",
+        "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
+        "source": "fmkorea.com"
       },
       {
         "title": "와 몬테네그로 업적 보상 미쳤네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ - 패러독스 인터랙티브 마이너 갤러리",
@@ -424,22 +424,22 @@
         "source": "clien.net"
       },
       {
-        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18656938",
-        "snippet": "한국의 부패 순위가 31위 정도인데 <strong>몬테네그로</strong>가 60몇 위네요 ...",
-        "source": "clien.net"
-      },
-      {
         "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
         "link": "https://www.clien.net/service/board/news/18656033",
         "snippet": "* MBC 기사 https://n.news.naver.com/article/214/0001337981 https://imnews.imbc.com/news/2024/world/article/6582277_36445.html # 기사 일부 <strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
         "source": "clien.net"
       },
       {
-        "title": "빅토리아3 수니파 몬테네그로 단편 - 패러독스 인터랙티브 마이너 갤러리",
-        "link": "https://gall.dcinside.com/mgallery/board/view/?id=rome&no=1425037",
-        "snippet": "시작하자마자 오스만에게 시비걸어서 피보호국이 되자땅도 얻고 터키와 보스니아를 주류문화로 얻는다우루과이는 군대가 없다. 해군 하나를 건설해서 우루과이를 쉽게 먹을 수 있다.서로 독립 지지 하는 조건으로 돈을 ...",
-        "source": "dcinside.com"
+        "title": "몬테네그로 대법원, 권도형 한국 송환 연기 최종 확정 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656938",
+        "snippet": "한국의 부패 순위가 31위 정도인데 <strong>몬테네그로</strong>가 60몇 위네요 ...",
+        "source": "clien.net"
+      },
+      {
+        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18025219",
+        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
+        "source": "clien.net"
       },
       {
         "title": "[1보] 몬테네그로 법원, 권도형 한국 송환 결정 - 포텐 터짐 최신순 - 에펨코리아",
@@ -451,7 +451,7 @@
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-11-05T03:01:25.003616",
+    "timestamp": "2026-11-05T11:46:15.456493",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -526,7 +526,7 @@
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-11-05T03:01:27.682620",
+    "timestamp": "2026-11-05T11:46:18.214367",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -592,16 +592,16 @@
         "source": "fmkorea.com"
       },
       {
-        "title": "이스라엘 총선 근황 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/10495444791",
-        "snippet": "작전병지통실로 1000만 인구에서 210만 가량이 아랍계, 140~150만 가량은 하레디, 약 100여만은 소련 붕괴후 건너온 아슈케나짐, 비율은 훨씬 적지만 약 17만명은 에티오피아 등에서 건너온 베타 이스라엘.",
-        "source": "fmkorea.com"
+        "title": "이스라엘이 이제 얼마 못버틸거란 이야기가 나오긴 함. - 정치유머 게시판 | 루리웹",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38786043",
+        "snippet": "유럽과 미국에 중동계(무슬림)인구가 늘면서 · 이게 선거에 영향을 주기 시작하면 · 각국의 대이스라엘 정책에도 반영될거다 · 이 분석은 몇 년전부터 나오기 시작했음. 이번 시위 보니까 · 현실화 되는거 같고 ·",
+        "source": "ruliweb.com"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-11-05T03:01:30.356309",
+    "timestamp": "2026-11-05T11:46:20.983518",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -655,9 +655,9 @@
         "source": "theqoo.net"
       },
       {
-        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9307006635",
-        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
+        "title": "냉부) 하마 얘기에 감동해서 눈물 흘리는 손종원 쉐프 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9324501946",
+        "snippet": "<strong>손종원</strong> 개쩌는게 고딩대학 다 해외에서다니다가 4학년때 진로바꿔서 요리학교가서 성공한케이스더라...",
         "source": "fmkorea.com"
       },
       {
@@ -667,16 +667,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "흑백 손종원 셰프의 변태적? 미적 감각 - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9317684822",
-        "snippet": "rkfqotkd 아니 이타닉 자체가 유명했지 조선팰리스에서 힘준 식당이니까 난 <strong>손종원</strong>이란 사람 아예 모르고 갔던거였음",
+        "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9307006635",
+        "snippet": "지금까지 흑백요리사 최대승자인것같음 <strong>손종원</strong> 쉐프가.",
         "source": "fmkorea.com"
       }
     ]
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-11-05T03:01:33.118750",
+    "timestamp": "2026-11-05T11:46:23.845015",
     "sentiment": {
       "positive": 50,
       "negative": 50
