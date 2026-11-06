@@ -1,7 +1,7 @@
 [
   {
     "keyword": "아르테미스 2호 지구 귀환",
-    "timestamp": "2026-11-06T00:38:52.718461",
+    "timestamp": "2026-11-06T07:33:03.649384",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -12,12 +12,6 @@
       ""
     ],
     "sources": [
-      {
-        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9661906524",
-        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
-        "source": "fmkorea.com"
-      },
       {
         "title": "아르테미스 호 지구로 귀환 시점 ㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9698324015",
@@ -37,16 +31,16 @@
         "source": "dcinside.com"
       },
       {
+        "title": "[속보] NASA 54년만에 '달 유인 우주선' 발사 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9661906524",
+        "snippet": "&#x27;아르테미스 2호&#x27; 우주인 ... 04월06일: 달 중력권 진입, 달 뒷면을 돌아서 지구 귀환 시작 · <strong>04월11일: 지구 귀환</strong> · 달 착륙은 2028년 아르테미스 4호에서 할 예정 ·...",
+        "source": "fmkorea.com"
+      },
+      {
         "title": "아르테미스 2호 미션 - 특이점이 온다 마이너 갤러리",
         "link": "https://m.dcinside.com/board/thesingularity/1082811",
         "snippet": "마치 새총에서 발사된 돌멩이처럼 달의 강력한 중력에 자연스럽게 이끌려 반 바퀴를 돈 다음, 그 탄력으로 다시 <strong>지구</strong> 방향으로 안전하게 튕겨져 돌아오도록 궤도가 계산되어 있기 ...",
         "source": "dcinside.com"
-      },
-      {
-        "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
-        "snippet": "아르테미스 2호 승무원들 · 게시판 이력 · 포텐1092방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 · 카카오톡 페이스북 X (트위터) 라인 밴드 주소복사 · 위로 아래로 스크랩 · 댓글로 가기 추천/비추 기록 이 게시물을...",
-        "source": "fmkorea.com"
       },
       {
         "title": "Apple NASA 아르테미스 2의 성공적인 임무 완수를 축하",
@@ -55,16 +49,22 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
-        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
-        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 ...",
-        "source": "inven.co.kr"
+        "title": "[속보] 달 우주인 4명 지구 귀환 성공 ㄷㄷㄷㄷ - 포텐 터짐 화제순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/index.php?document_srl=9694632504&mid=best2&order_type=desc&sort_index=pop",
+        "snippet": "아르테미스 2호 승무원들 · 게시판 이력 · 포텐1092방출 · 목록으로 &lt; 이전 글 다음 글 &gt; 공유하기 · 카카오톡 페이스북 X (트위터) 라인 밴드 주소복사 · 위로 아래로 스크랩 · 댓글로 가기 추천/비추 기록 이 게시물을...",
+        "source": "fmkorea.com"
       },
       {
         "title": "아르테미스 2호 미션에서 촬영한 사진들 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9695291040",
         "snippet": "오리온 캡슐은 마하 33, ... 중력가속도를 견뎌야 했다. NASA: 집으로. <strong>아르테미스 II 승무원들이 지구로 무사히 귀환했다</strong>....",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "웹진 인벤 : 달 뒷면까지 보고 지구로 귀환중인 아르테미스 2호 - 오픈이슈갤러리 - 웹진 인벤",
+        "link": "https://www.inven.co.kr/board/webzine/2097/2643225",
+        "snippet": "https://youtu.be/P8IepADsKeI?si=UwP6iHZoQ3AJBZe6..유인 우주선으로서는 최초로 달뒷면을 우주인들이 보았습니다.이제 임무 마치고 돌아온다는데 고생하셨습니다.내년에 발사되는 3호는 착륙선 도킹 시험 내후년 4호는 달 착륙 임무를 ...",
+        "source": "inven.co.kr"
       },
       {
         "title": "타임머신 무고 실제로 본 썰 - 주식 갤러리",
@@ -76,7 +76,7 @@
   },
   {
     "keyword": "고유가 지원금",
-    "timestamp": "2026-11-06T00:38:55.492598",
+    "timestamp": "2026-11-06T07:33:06.366640",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -151,7 +151,7 @@
   },
   {
     "keyword": "아이유 변우석",
-    "timestamp": "2026-11-06T00:38:58.223893",
+    "timestamp": "2026-11-06T07:33:09.065845",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -226,7 +226,7 @@
   },
   {
     "keyword": "이정후 첫 홈런",
-    "timestamp": "2026-11-06T00:39:00.977732",
+    "timestamp": "2026-11-06T07:33:11.754019",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -256,15 +256,15 @@
         "source": "clien.net"
       },
       {
-        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
-        "link": "https://www.fmkorea.com/best/9694741595",
-        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
-        "source": "fmkorea.com"
-      },
-      {
         "title": "3점차로 달아나는 이정후 백투백 솔로홈런 ㄷㄷㄷㄷㄷㄷ 3호 - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/9970006253",
         "snippet": "개장수장수 그건 쩔수인게 실제 홈런여부는 경기할때 기후에 영향을 받으니... 댓글로 가기 52 · BEST 신민철 19 시간 전 · 2개구장중 오라클이랑 쿠어스일거같냐 왜... 댓글로 가기 44 · ACL 17 시간 전 · 아무리봐도 오라클파크 여기가 문제다 · qu.re 16 시간 전 · 짱후리 ㄷㄷㄷㄷㄷ · 펨코지박령 16 시간 전 · 김하성은 여전히. 1 · 첫 페이지 1 2 3 끝 페이지 ·",
+        "source": "fmkorea.com"
+      },
+      {
+        "title": "이정후 시즌 1호 홈런ㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/9694741595",
+        "snippet": "아쿠냐 시즌 첫 홈런 치니까 바로 이정후도 첫 홈런 치네 후냐대전 치열하다",
         "source": "fmkorea.com"
       },
       {
@@ -286,10 +286,10 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "이정후 투런 홈런!! gif : 클리앙",
-        "link": "https://www.clien.net/service/board/park/18976727",
-        "snippet": "이정후 이틀연속 홈런입니다. 루까성은 오늘도 지속됩니다 ㅎㅎㅎ GIF",
-        "source": "clien.net"
+        "title": "이정후 쓰리런 홈런 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ 시즌 6호 - 포텐 터짐 최신순 - 에펨코리아",
+        "link": "https://www.fmkorea.com/best/10130805038",
+        "snippet": "샤브중독자 심각한 이정후의 담백한 현 상황.jpg https://m.fmkorea.com/best/10128037801 ㅋㅋㅋㅋㅋ ... 이 홈런이 32일만에 홈런때린건데 결국 시즌끝나면 조림돌림 당하는 베뎃에 적힌 성적에 수렴할꺼임",
+        "source": "fmkorea.com"
       },
       {
         "title": "이정후 시즌 1호 홈런 ㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅㅅ - 포텐 터짐 최신순 - 에펨코리아",
@@ -301,7 +301,7 @@
   },
   {
     "keyword": "세미파이브",
-    "timestamp": "2026-11-06T00:39:03.789097",
+    "timestamp": "2026-11-06T07:33:14.479959",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -320,7 +320,7 @@
       },
       {
         "title": "세미파이브 하이퍼엑셀 데이터센터용 AI 칩 양산삼성 4나노 첫 적용",
-        "link": "https://bbs.ruliweb.com/news/board/300010/read/2293871",
+        "link": "https://bbs.ruliweb.com/news/board/1004/read/2293871",
         "snippet": "500 대면적 빅다이 칩 완결형 턴키 공급",
         "source": "ruliweb.com"
       },
@@ -367,16 +367,16 @@
         "source": "dcinside.com"
       },
       {
-        "title": "자주 쓰는 페페 짤 모음 - 주식 - 에펨코리아",
-        "link": "https://www.fmkorea.com/9218233322",
-        "snippet": "10. <strong>세미파이브</strong> new · 닫기 · 인기글 · 단축키 · 설정하기 · alt+coption+c 댓글 쓰기 · alt+woption+w 글 쓰기 · alt+qoption+q 댓글 등록 · e 상단으로 · d 하단으로 · c 댓글로 · s 이전 · f 다음 · q 메인 · w 인기글 ·",
-        "source": "fmkorea.com"
+        "title": "웹진 인벤 : (스압) 세미 피규어 완성본 - 오픈이슈갤러리 - 웹진 인벤",
+        "link": "https://www.inven.co.kr/board/webzine/2097/349306",
+        "snippet": "이랬던 물품이.......EBS ...데요.EBS 수학술사 세미 피규어를 완성했습니다.사이즈는 <strong>1:8 스케일로 높이는 약 21cm</strong>입......",
+        "source": "inven.co.kr"
       }
     ]
   },
   {
     "keyword": "몬테네그로",
-    "timestamp": "2026-11-06T00:39:06.704696",
+    "timestamp": "2026-11-06T07:33:17.231719",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -394,16 +394,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "발칸반도 여행기 6 - 몬테네그로 코토르, 귀국 - 실시간 베스트 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=76748",
-        "snippet": "<strong>몬테네그로</strong>는 피르스트, 코토르, 부드바 이렇게 아드리아해를 끼고 있는 곳이 유명한 관광지인데,",
-        "source": "dcinside.com"
-      },
-      {
         "title": "[속보] 몬테네그로 \"권도형 미국으로 범죄인 인도\" - 포텐 터짐 최신순 - 에펨코리아",
         "link": "https://www.fmkorea.com/best/7864590541",
         "snippet": "에펨코리아 - 유머, 축구, 인터넷 방송, 게임, 풋볼매니저 종합 커뮤니티",
         "source": "fmkorea.com"
+      },
+      {
+        "title": "발칸반도 여행기 6 - 몬테네그로 코토르, 귀국 - 실시간 베스트 갤러리",
+        "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=76748",
+        "snippet": "<strong>몬테네그로</strong>는 피르스트, 코토르, 부드바 이렇게 아드리아해를 끼고 있는 곳이 유명한 관광지인데,",
+        "source": "dcinside.com"
       },
       {
         "title": "이번 업뎃으로 알아보는 몬테네그로 만화.jpg - 패러독스 인터랙티브 마이너 갤러리",
@@ -442,16 +442,16 @@
         "source": "clien.net"
       },
       {
-        "title": "김앤장 변호사들, ‘권도형 수감’ 몬테네그로 도착 : 클리앙",
-        "link": "https://www.clien.net/service/board/news/18025219",
-        "snippet": "* 출처 https://news.kbs.co.kr/news/view.do?ncd=7652082 권도형 테라폼랩스 대표는 지난달 <strong>몬테네그로</strong>에서 체포돼 여권법 위반 혐의로 수감돼 있습니다. 그런데 며칠 전, 김앤장 변호사들이 권 대표가 있는 <strong>몬테네그로</strong>로 출국한 것으로 KBS 취재 결과 확인됐습니다.",
+        "title": "몬테네그로 검찰, 권도형 한국 송환에 제동‥이의 제기 : 클리앙",
+        "link": "https://www.clien.net/service/board/news/18656033",
+        "snippet": "* MBC 기사 https://n.news.naver.com/article/214/0001337981 https://imnews.imbc.com/news/2024/world/article/6582277_36445.html # 기사 일부 <strong>몬테네그로</strong> 검찰이 현지시간 21일 테라·루나 사태의 핵심 인물인 권도형의 한국 송환 결정에 이의를 제기했습니다.",
         "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "김민석 총리 국무회의",
-    "timestamp": "2026-11-06T00:39:09.454248",
+    "timestamp": "2026-11-06T07:33:19.961968",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -475,16 +475,22 @@
         "source": "clien.net"
       },
       {
-        "title": "김민석이 독자적으로 하는 행동은 없어 - 정치유머 게시판 | 루리웹",
-        "link": "https://bbs.ruliweb.com/community/board/300148/read/38805442",
-        "snippet": "김민석은 이재명 정부 초대 총리이자 · 현직 대통령 당무개입 논란을 만들어낸 당사자임 · 김민석은 이 상황이 그저 억울할 거야 · ㅋㅋㅋㅋㅋㅋ · 2 0 · 0 분리수거 · 글쓰기 · 스크랩 · | URL 복사 ·",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "김민석, 신임 대표 되자마자 ‘상견례’…정계 ‘술렁’ | 모빌리티TV",
         "link": "https://issuefeed.dcinside.com/content/2314610",
         "snippet": "이어 “벽이 없는 원팀으로 소통이 이뤄지겠다는 기대와 책임감을 갖는다”라고 당청 간 협력 의지를 나타냈다. 김 대표가 국무총리로 재직할 당시 청와대에서 열린 국무회의 등을 통해 강 실장 등과 국정 현안을 논의했던 경험을 염두에 둔 발언으로 풀이된다.",
         "source": "dcinside.com"
+      },
+      {
+        "title": "오늘 김민석 총리 발언 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19154126",
+        "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
+        "source": "clien.net"
+      },
+      {
+        "title": "김민석이 독자적으로 하는 행동은 없어 - 정치유머 게시판 | 루리웹",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38805442",
+        "snippet": "김민석은 이재명 정부 초대 총리이자 · 현직 대통령 당무개입 논란을 만들어낸 당사자임 · 김민석은 이 상황이 그저 억울할 거야 · ㅋㅋㅋㅋㅋㅋ · 2 0 · 0 분리수거 · 글쓰기 · 스크랩 · | URL 복사 ·",
+        "source": "ruliweb.com"
       },
       {
         "title": "더쿠 - [단독] 김민석-김현 텔레그램 포착 … 金 총리, 유시민에 \"유명세 즐기는 강남 지식인 됐다\"",
@@ -493,9 +499,15 @@
         "source": "theqoo.net"
       },
       {
-        "title": "오늘 김민석 총리 발언 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154126",
-        "snippet": "(서울=뉴스1) 이기림 기자 = 김민석 국무총리는 4일 중동 사태 여파로 국내 증시가 사상 최대 낙폭을 기록하고, 환율이 급등한 것에 대해 &quot;경제⸱금융당국은 주가와 환율 변동에 따른 모니터링과 조치를 위한 거버넌스 그리고 어느 시점에 어떤 조치를 취할 것인지 시점에 대한 판단 기준과 조치의 구체적 규모 등 단계별로 명확한 액션플랜이 마련돼 있어야 한다&quot; 고 말했다.",
+        "title": "최강욱 김민석 총리 그동안 숙의해놓고 또 숙의 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19127030",
+        "snippet": "총리산하TF 책임 면할 때는 봉욱, 정성호가 다 주도한 일인 것처럼 하더니, 숙의 필요하다할 땐 또 총리가 나서서 당이랑 또 숙의하겠다 하고 앉았으니... 실망스럽습니다. ... 최강욱은 말하는거 거의 다 틀리고 조국당행사가서 말실수하고 그냥 패널감 그 이상도 이하도 아니네요 ... 당에서 토론회 한다면서요? 김민석은 보완수사권 폐지가 원칙이라고 지들이 원하는대로 말해주더만 왜 머리채를 잡는지 모르겠네요.",
+        "source": "clien.net"
+      },
+      {
+        "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19149618",
+        "snippet": "유시민, 조국, 김민석, 오창석, 최욱, 김어준 등등 다 똑같은 생각과 똑같은 행동만 하면 더 이상하지 않을까요? 다 소중한 민주진영의 리더들이고 재원들입니다. ... 국무총리 일 좀 하라는걸로 보이네여. 국무회의에서 하나마나한 답변이나 늘어놓고.",
         "source": "clien.net"
       },
       {
@@ -509,24 +521,12 @@
         "link": "https://www.clien.net/service/board/park/19020202",
         "snippet": "김민석에게 하고 싶은 말: 저 계획들 중에 방점은 &quot;안전&quot;에 두라고 하고 싶네요. 예를 들어) 한국은, 특시 도시는 집중호우에 아주 약합니다. 도로가 잠기고, 사람이 죽고... 거의 해마다 되풀이 됩니다. 총리는 이 문제 하나만 해결해도 두고두고 대단한 업적이라고 칭찬할 겁니다.",
         "source": "clien.net"
-      },
-      {
-        "title": "김민석 총리 끝없이 공격하는 분들 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19149618",
-        "snippet": "유시민, 조국, 김민석, 오창석, 최욱, 김어준 등등 다 똑같은 생각과 똑같은 행동만 하면 더 이상하지 않을까요? 다 소중한 민주진영의 리더들이고 재원들입니다. ... 국무총리 일 좀 하라는걸로 보이네여. 국무회의에서 하나마나한 답변이나 늘어놓고.",
-        "source": "clien.net"
-      },
-      {
-        "title": "김민석 총리 SNS 메시지 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/19154639",
-        "snippet": "https://twitter.com/ms2030/status/2029432827717271872 내란을 막아낸 국민들, 억울한 시간을 견뎌내온 관련자들, 연이은 제거시도를 이겨낸 대통령. 모두 참 험한 고개를 넘어왔습니다. 오늘 국무회의에서 <strong>사법개혁 3법을 의결</strong>했습니다.",
-        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "이스라엘 인권",
-    "timestamp": "2026-11-06T00:39:12.224740",
+    "timestamp": "2026-11-06T07:33:22.653521",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -586,22 +586,22 @@
         "source": "dcinside.com"
       },
       {
-        "title": "이스라엘 종교별 출산율 : 클리앙",
-        "link": "https://www.clien.net/service/board/park/16151209",
-        "snippet": "이스라엘 출산율은 90년대부터 꾸준히 높아지는 추세인데 이는 하레디 뿐만아니라 다른 유대인 그룹의 출산율 증가도 기여하고 있습니다. 하레디는 2017년 기준 전체 인구의 12% 정도를 차지하는데, 이 추세대로 가면 27년엔 거의 15%, 2067년엔 거의 3분의 1을 차지할 것으로 예측된다고..",
-        "source": "clien.net"
-      },
-      {
         "title": "이스라엘 인구 10 하레디들의 평균적인 삶 7명의 출산율 비결이",
         "link": "https://bbs.ruliweb.com/community/board/300143/read/71072989",
         "snippet": "하레디 가장은 평생동안 경전공부만하고 옛 한국 조선시대처럼 폐쇄적인 대가족 마을문화로 갖추고수익 대부분은 저임금 아내들의 소득으로 커버 당연히 여자도 경전에 따라 여성차별인 교리를 따르고 경전의 교리에 따라 아이를 계속 낳아서 한가정 평균 출산율이 7명 남편은 일하지않고 정부의 출산지원금 여성들의 최저임금으로 커버하며 종교경전 율법 공부만하고일도 하지않고 병역에도 참여하지않으며 아이를 만드는 것빼곤 전멸인 집단이 하레디 우리가 알고있는 흔한 부자 천재 유대인들은 하레디가 아니고 독일계 유대인 아슈케나짐 출신들주로 종교 ㅈ까 라고하는 세속주의 탈종교 유대인사람들이다",
         "source": "ruliweb.com"
+      },
+      {
+        "title": "이스라엘 종교별 출산율 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/16151209",
+        "snippet": "이스라엘 출산율은 90년대부터 꾸준히 높아지는 추세인데 이는 하레디 뿐만아니라 다른 유대인 그룹의 출산율 증가도 기여하고 있습니다. 하레디는 2017년 기준 전체 인구의 12% 정도를 차지하는데, 이 추세대로 가면 27년엔 거의 15%, 2067년엔 거의 3분의 1을 차지할 것으로 예측된다고..",
+        "source": "clien.net"
       }
     ]
   },
   {
     "keyword": "손종원",
-    "timestamp": "2026-11-06T00:39:15.021186",
+    "timestamp": "2026-11-06T07:33:25.509228",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -637,16 +637,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "손종원 쉐프 근황(베스트와 다른 소식) - 유머 게시판 | 루리웹",
-        "link": "https://bbs.ruliweb.com/community/board/300143/read/77201371",
-        "snippet": "<strong>신세계 그룹 이사로</strong> 승진함알다싶이 가게쪽이 원래부터 신세계 쪽이라서이번에 전문임원으로 승진했다고 함",
-        "source": "ruliweb.com"
-      },
-      {
         "title": "더쿠 - \"진짜 쌍수한 건가\"…손종원, 180도 달라진 눈매로 등장→누리꾼 반응 엇갈려",
         "link": "https://theqoo.net/hot/4362245972",
         "snippet": "[TV리포트=김나래 기자] 넷플릭스 ‘흑백요리사’를 통해 스타 셰프로 부상한 <strong>손종원</strong> 셰프가 한층 선명해진 눈매와 인상으로 등장해 누리꾼들 사이에서 커다란 화제를 모았다.",
         "source": "theqoo.net"
+      },
+      {
+        "title": "손종원 쉐프 근황(베스트와 다른 소식) - 유머 게시판 | 루리웹",
+        "link": "https://bbs.ruliweb.com/community/board/300143/read/77201371",
+        "snippet": "<strong>신세계 그룹 이사로</strong> 승진함알다싶이 가게쪽이 원래부터 신세계 쪽이라서이번에 전문임원으로 승진했다고 함",
+        "source": "ruliweb.com"
       },
       {
         "title": "손종원 셰프가 흑백요리사2에 참여한 이유 - 포텐 터짐 최신순 - 에펨코리아",
@@ -676,7 +676,7 @@
   },
   {
     "keyword": "이재명 폴란드 정상회담",
-    "timestamp": "2026-11-06T00:39:17.797505",
+    "timestamp": "2026-11-06T07:33:28.274942",
     "sentiment": {
       "positive": 50,
       "negative": 50
@@ -724,10 +724,10 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "(진지) 베트남 남성 노동자 평균 월급 1천만동 돌파.jpg - 여행-동남아 갤러리",
-        "link": "https://gall.dcinside.com/board/view/?id=travel_asia&no=2309568",
-        "snippet": "방산 협력 더 확대될 것…총괄계약 안정적 이행 필요&quot;이재명 대통령은 <strong>13일 방한한 도날드 투스크 폴란드 총리와 정상회담을 갖고 &quot;양국 모두 중동전쟁이 불러온 위기에 대처하기 위해</strong> ...",
-        "source": "dcinside.com"
+        "title": "웹진 인벤 : 이 대통령, 13일 폴란드 총리와 정상회담…\"파트너십 강화 협의\" - 오픈이슈갤러리",
+        "link": "https://www.inven.co.kr/board/webzine/2097/2644796",
+        "snippet": "올해는 이탈리아 멜로니 총리 시작으로 약 4개월간 많은 정상들이 오시는것 같습니다.폴란드하고는 새로운 형제국이 되야죠!자자 무기 사세요 무기!우리에게는 낙농업 제품들을!",
+        "source": "inven.co.kr"
       },
       {
         "title": "이 대통령 프랑스 도착첨단분야호르무즈 논의 주목",
@@ -736,16 +736,16 @@
         "source": "ruliweb.com"
       },
       {
-        "title": "웹진 인벤 : 이 대통령, 13일 폴란드 총리와 정상회담…\"파트너십 강화 협의\" - 오픈이슈갤러리",
-        "link": "https://www.inven.co.kr/board/webzine/2097/2644796",
-        "snippet": "올해는 이탈리아 멜로니 총리 시작으로 약 4개월간 많은 정상들이 오시는것 같습니다.폴란드하고는 새로운 형제국이 되야죠!자자 무기 사세요 무기!우리에게는 낙농업 제품들을!",
-        "source": "inven.co.kr"
+        "title": "이재명의 선전 APEC 회의 큰 그림",
+        "link": "https://bbs.ruliweb.com/community/board/300148/read/38778863",
+        "snippet": "진핑이가 정은이를 특별 초대진핑이 중재로 정은이와 회담트럼프도 정은이와 회담트럼프 진핑이 재매이 정은이 4자회담평화무드 조성으로 재매이 지지율 급상승ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "source": "ruliweb.com"
       },
       {
-        "title": "[속보] 李, 최저 찍었다… ‘사상 초유’ | 논현일보",
-        "link": "https://issuefeed.dcinside.com/content/2307070",
-        "snippet": "<strong>이재명 대통령의 국정 수행 지지도가 3주 연속 하락하며 취임 후 최저치를 기록</strong>했다. 긍정 평가는 45.9%로 떨어지고, 부정 평가는 50.5%로 증가하면서 오차범위 밖에서도 부정 평가가 앞선 ...",
-        "source": "dcinside.com"
+        "title": "[스압] 룰라 대통령 국빈방한 하이라이트 : 클리앙",
+        "link": "https://www.clien.net/service/board/park/19149068",
+        "snippet": "또한 삼성, LG, 현대 자동차를 언급하면서 “자랑스러운 우리 기업들도 양국 관계의 핵심 축”이라면서 “이번 정상회담을 계기로 한국과 브라질이 국제 사회와 다자무대에서 인류 보편의 과제 해결에 함께 기여하는 모범적인 동반자로 거듭나게 될 것”이라고 강조했습니다. 룰라 대통령은 “이재명 대통령의 인생 경로를 알고 나서부터는 우리가 형제처럼 느껴진다“면서 각별함을 전했습니다.",
+        "source": "clien.net"
       }
     ]
   }
